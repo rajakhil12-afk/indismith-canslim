@@ -1,0 +1,802 @@
+[
+  {
+    "symbol": "360ONE",
+    "ticker": "360ONE.NS",
+    "company_name": "360ONE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "3MINDIA",
+    "ticker": "3MINDIA.NS",
+    "company_name": "3MINDIA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AADHARHFC",
+    "ticker": "AADHARHFC.NS",
+    "company_name": "AADHARHFC",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AARTIIND",
+    "ticker": "AARTIIND.NS",
+    "company_name": "AARTIIND",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AAVAS",
+    "ticker": "AAVAS.NS",
+    "company_name": "AAVAS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ABB",
+    "ticker": "ABB.NS",
+    "company_name": "ABB",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ABBOTINDIA",
+    "ticker": "ABBOTINDIA.NS",
+    "company_name": "ABBOTINDIA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "ticker": "ABCAPITAL.NS",
+    "company_name": "ABCAPITAL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ABDL",
+    "ticker": "ABDL.NS",
+    "company_name": "ABDL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ABFRL",
+    "ticker": "ABFRL.NS",
+    "company_name": "ABFRL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ABLBL",
+    "ticker": "ABLBL.NS",
+    "company_name": "ABLBL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ABREL",
+    "ticker": "ABREL.NS",
+    "company_name": "ABREL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ABSLAMC",
+    "ticker": "ABSLAMC.NS",
+    "company_name": "ABSLAMC",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ACC",
+    "ticker": "ACC.NS",
+    "company_name": "ACC",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ACE",
+    "ticker": "ACE.NS",
+    "company_name": "ACE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ACMESOLAR",
+    "ticker": "ACMESOLAR.NS",
+    "company_name": "ACMESOLAR",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ACUTAAS",
+    "ticker": "ACUTAAS.NS",
+    "company_name": "ACUTAAS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "ticker": "ADANIENSOL.NS",
+    "company_name": "ADANIENSOL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ADANIENT",
+    "ticker": "ADANIENT.NS",
+    "company_name": "ADANIENT",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "ticker": "ADANIGREEN.NS",
+    "company_name": "ADANIGREEN",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "ticker": "ADANIPORTS.NS",
+    "company_name": "ADANIPORTS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "ticker": "ADANIPOWER.NS",
+    "company_name": "ADANIPOWER",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AEGISLOG",
+    "ticker": "AEGISLOG.NS",
+    "company_name": "AEGISLOG",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AEGISVOPAK",
+    "ticker": "AEGISVOPAK.NS",
+    "company_name": "AEGISVOPAK",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AFCONS",
+    "ticker": "AFCONS.NS",
+    "company_name": "AFCONS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AFFLE",
+    "ticker": "AFFLE.NS",
+    "company_name": "AFFLE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AIAENG",
+    "ticker": "AIAENG.NS",
+    "company_name": "AIAENG",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AIIL",
+    "ticker": "AIIL.NS",
+    "company_name": "AIIL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AJANTPHARM",
+    "ticker": "AJANTPHARM.NS",
+    "company_name": "AJANTPHARM",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ALKEM",
+    "ticker": "ALKEM.NS",
+    "company_name": "ALKEM",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AMBER",
+    "ticker": "AMBER.NS",
+    "company_name": "AMBER",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "ticker": "AMBUJACEM.NS",
+    "company_name": "AMBUJACEM",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ANANDRATHI",
+    "ticker": "ANANDRATHI.NS",
+    "company_name": "ANANDRATHI",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ANANTRAJ",
+    "ticker": "ANANTRAJ.NS",
+    "company_name": "ANANTRAJ",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ANGELONE",
+    "ticker": "ANGELONE.NS",
+    "company_name": "ANGELONE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ANTHEM",
+    "ticker": "ANTHEM.NS",
+    "company_name": "ANTHEM",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ANURAS",
+    "ticker": "ANURAS.NS",
+    "company_name": "ANURAS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "APARINDS",
+    "ticker": "APARINDS.NS",
+    "company_name": "APARINDS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "APLAPOLLO",
+    "ticker": "APLAPOLLO.NS",
+    "company_name": "APLAPOLLO",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "ticker": "APOLLOHOSP.NS",
+    "company_name": "APOLLOHOSP",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "APOLLOTYRE",
+    "ticker": "APOLLOTYRE.NS",
+    "company_name": "APOLLOTYRE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "APTUS",
+    "ticker": "APTUS.NS",
+    "company_name": "APTUS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ARE&M",
+    "ticker": "ARE&M.NS",
+    "company_name": "ARE&M",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ASAHIINDIA",
+    "ticker": "ASAHIINDIA.NS",
+    "company_name": "ASAHIINDIA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ASHOKLEY",
+    "ticker": "ASHOKLEY.NS",
+    "company_name": "ASHOKLEY",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "ticker": "ASIANPAINT.NS",
+    "company_name": "ASIANPAINT",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ASTERDM",
+    "ticker": "ASTERDM.NS",
+    "company_name": "ASTERDM",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ASTRAL",
+    "ticker": "ASTRAL.NS",
+    "company_name": "ASTRAL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ATGL",
+    "ticker": "ATGL.NS",
+    "company_name": "ATGL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ATHERENERG",
+    "ticker": "ATHERENERG.NS",
+    "company_name": "ATHERENERG",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "ATUL",
+    "ticker": "ATUL.NS",
+    "company_name": "ATUL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AUBANK",
+    "ticker": "AUBANK.NS",
+    "company_name": "AUBANK",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "ticker": "AUROPHARMA.NS",
+    "company_name": "AUROPHARMA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AWL",
+    "ticker": "AWL.NS",
+    "company_name": "AWL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "AXISBANK",
+    "ticker": "AXISBANK.NS",
+    "company_name": "AXISBANK",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "ticker": "BAJAJ-AUTO.NS",
+    "company_name": "BAJAJ-AUTO",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "ticker": "BAJAJFINSV.NS",
+    "company_name": "BAJAJFINSV",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BAJAJHFL",
+    "ticker": "BAJAJHFL.NS",
+    "company_name": "BAJAJHFL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BAJAJHLDNG",
+    "ticker": "BAJAJHLDNG.NS",
+    "company_name": "BAJAJHLDNG",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "ticker": "BAJFINANCE.NS",
+    "company_name": "BAJFINANCE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BALKRISIND",
+    "ticker": "BALKRISIND.NS",
+    "company_name": "BALKRISIND",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BALRAMCHIN",
+    "ticker": "BALRAMCHIN.NS",
+    "company_name": "BALRAMCHIN",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "ticker": "BANDHANBNK.NS",
+    "company_name": "BANDHANBNK",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BANKBARODA",
+    "ticker": "BANKBARODA.NS",
+    "company_name": "BANKBARODA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BANKINDIA",
+    "ticker": "BANKINDIA.NS",
+    "company_name": "BANKINDIA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BATAINDIA",
+    "ticker": "BATAINDIA.NS",
+    "company_name": "BATAINDIA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BAYERCROP",
+    "ticker": "BAYERCROP.NS",
+    "company_name": "BAYERCROP",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BBTC",
+    "ticker": "BBTC.NS",
+    "company_name": "BBTC",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BDL",
+    "ticker": "BDL.NS",
+    "company_name": "BDL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BEL",
+    "ticker": "BEL.NS",
+    "company_name": "BEL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BELRISE",
+    "ticker": "BELRISE.NS",
+    "company_name": "BELRISE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BEML",
+    "ticker": "BEML.NS",
+    "company_name": "BEML",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BERGEPAINT",
+    "ticker": "BERGEPAINT.NS",
+    "company_name": "BERGEPAINT",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BHARATFORG",
+    "ticker": "BHARATFORG.NS",
+    "company_name": "BHARATFORG",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "ticker": "BHARTIARTL.NS",
+    "company_name": "BHARTIARTL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BHARTIHEXA",
+    "ticker": "BHARTIHEXA.NS",
+    "company_name": "BHARTIHEXA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BHEL",
+    "ticker": "BHEL.NS",
+    "company_name": "BHEL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BIKAJI",
+    "ticker": "BIKAJI.NS",
+    "company_name": "BIKAJI",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BIOCON",
+    "ticker": "BIOCON.NS",
+    "company_name": "BIOCON",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BLS",
+    "ticker": "BLS.NS",
+    "company_name": "BLS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BLUEDART",
+    "ticker": "BLUEDART.NS",
+    "company_name": "BLUEDART",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BLUEJET",
+    "ticker": "BLUEJET.NS",
+    "company_name": "BLUEJET",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "ticker": "BLUESTARCO.NS",
+    "company_name": "BLUESTARCO",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "ticker": "BOSCHLTD.NS",
+    "company_name": "BOSCHLTD",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BPCL",
+    "ticker": "BPCL.NS",
+    "company_name": "BPCL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BRIGADE",
+    "ticker": "BRIGADE.NS",
+    "company_name": "BRIGADE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BRITANNIA",
+    "ticker": "BRITANNIA.NS",
+    "company_name": "BRITANNIA",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BSE",
+    "ticker": "BSE.NS",
+    "company_name": "BSE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "BSOFT",
+    "ticker": "BSOFT.NS",
+    "company_name": "BSOFT",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CAMS",
+    "ticker": "CAMS.NS",
+    "company_name": "CAMS",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CANBK",
+    "ticker": "CANBK.NS",
+    "company_name": "CANBK",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CANFINHOME",
+    "ticker": "CANFINHOME.NS",
+    "company_name": "CANFINHOME",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CANHLIFE",
+    "ticker": "CANHLIFE.NS",
+    "company_name": "CANHLIFE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CAPLIPOINT",
+    "ticker": "CAPLIPOINT.NS",
+    "company_name": "CAPLIPOINT",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CARBORUNIV",
+    "ticker": "CARBORUNIV.NS",
+    "company_name": "CARBORUNIV",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CARTRADE",
+    "ticker": "CARTRADE.NS",
+    "company_name": "CARTRADE",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CASTROLIND",
+    "ticker": "CASTROLIND.NS",
+    "company_name": "CASTROLIND",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CCL",
+    "ticker": "CCL.NS",
+    "company_name": "CCL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CDSL",
+    "ticker": "CDSL.NS",
+    "company_name": "CDSL",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  },
+  {
+    "symbol": "CEATLTD",
+    "ticker": "CEATLTD.NS",
+    "company_name": "CEATLTD",
+    "industry": "Unclassified",
+    "series": "EQ",
+    "isin": ""
+  }
+]
