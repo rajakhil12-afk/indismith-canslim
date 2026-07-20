@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IndiSmith | NSE/BSE CAN SLIM® Terminal</title>
+<meta name="description" content="A premium, fully static CAN SLIM® growth-investing dashboard for NSE/BSE stocks — runs entirely in your browser, no backend required.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="ticker-tape" id="ticker-tape">
+  <div class="ticker-track" id="ticker-track">Loading market pulse…</div>
+</div>
+
+<div class="app-container">
+  <header class="app-header">
+    <div class="logo-area">
+      <div class="logo-mark">IS</div>
+      <div class="logo-text">
+        <h1>IndiSmith</h1>
+        <span class="tagline">NSE / BSE CAN SLIM® Terminal</span>
+      </div>
+    </div>
+
+    <div class="market-pulse" id="market-pulse">
+      <div class="pulse-stat">
+        <span class="pulse-label">Nifty 50</span>
+        <span class="pulse-value" id="nifty-price">—</span>
+      </div>
+      <div class="pulse-stat">
+        <span class="pulse-label">Distribution Days</span>
+        <span class="pulse-value" id="nifty-dist-days">—</span>
+      </div>
+      <div class="pulse-stat">
+        <span class="pulse-label">Market Direction (M)</span>
+        <span class="status-pill unknown" id="market-status-badge">Loading…</span>
+      </div>
+      <div class="freshness-note" id="freshness-note">
+        <span class="freshness-dot" id="freshness-dot"></span>
+        <span id="freshness-text">Checking data freshness…</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="main-layout">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="search-box">
+          <span>🔍</span>
+          <input type="text" id="stock-search" placeholder="Search symbol or company…">
+        </div>
+        <div class="universe-selector">
+          <button class="uni-btn active" data-uni="nifty100">Nifty 100</button>
+          <button class="uni-btn" data-uni="nifty50">Nifty 50</button>
+          <button class="uni-btn" data-uni="nifty500">Nifty 500</button>
+        </div>
+      </div>
+
+      <div class="sort-row">
+        <button class="sort-btn active" data-sort="rs">RS Rating</button>
+        <button class="sort-btn" data-sort="score">CAN SLIM Score</button>
+        <button class="sort-btn" data-sort="az">A–Z</button>
+      </div>
+
+      <div id="stock-list-container" class="stock-list">
+        <div class="list-loading">Loading stock universe…</div>
+      </div>
+
+      <div class="sidebar-footer">
+        <button id="btn-tab-scanner-jump" class="btn btn-block">🔍 Open Sector Scanner</button>
+      </div>
+    </aside>
+
+    <main class="content-panel">
+      <div id="no-selection-screen" class="empty-state">
+        <div class="seal">📖</div>
+        <h2>Select a stock to open its ledger</h2>
+        <p>Pick a name from the list, or search above. Paste fresh Screener.in data any time to recompute a live CAN SLIM verdict — entirely in your browser.</p>
+      </div>
+
+      <div id="stock-dashboard" class="stock-dashboard" style="display:none;">
+        <div class="stock-hero">
+          <div class="hero-left">
+            <span class="eyebrow" id="hero-industry-eyebrow">SECTOR</span>
+            <h1 id="hero-name">—</h1>
+            <div class="hero-tags">
+              <span class="tag" id="hero-symbol">—</span>
+              <span class="tag" id="hero-mcap">MCap: —</span>
+              <span class="tag price-tag" id="hero-price">Price: —</span>
+            </div>
+          </div>
+          <div class="hero-right">
+            <div class="verdict-seal" id="verdict-seal">
+              <span class="seal-score" id="hero-score-text">—</span>
+              <span class="seal-label">CAN SLIM</span>
+            </div>
+            <div class="rs-square">
+              <span class="rs-num" id="hero-rs-rating">—</span>
+              <span class="rs-tag">RS (L)</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="tabs-menu">
+          <button class="tab-btn active" data-tab="tab-scorecard">Scorecard</button>
+          <button class="tab-btn" data-tab="tab-chart">Price &amp; Volume</button>
+          <button class="tab-btn" data-tab="tab-paste">Screener.in Paste</button>
+          <button class="tab-btn" data-tab="tab-thesis">AI Analyst Thesis</button>
+          <button class="tab-btn" data-tab="tab-scanner">Sector Scanner</button>
+        </div>
+
+        <div id="tab-scorecard" class="tab-content active">
+          <div class="verdict-banner">
+            <span class="verdict-label">Verdict</span>
+            <span id="verdict-value" class="verdict-text">—</span>
+          </div>
+          <div class="ledger" id="ledger-container"></div>
+        </div>
+
+        <div id="tab-chart" class="tab-content">
+          <div class="chart-container"><canvas id="priceChart"></canvas></div>
+          <div class="chart-legend">
+            <span class="legend-item"><span class="legend-color ema50"></span> 50-day EMA</span>
+            <span class="legend-item"><span class="legend-color ema200"></span> 200-day EMA</span>
+            <span class="legend-item"><span class="legend-color up-vol"></span> Up-day volume</span>
+            <span class="legend-item"><span class="legend-color down-vol"></span> Down-day volume</span>
+          </div>
+        </div>
+
+        <div id="tab-paste" class="tab-content">
+          <div class="paste-panel">
+            <div class="paste-instruction">
+              <h3>Update this ledger from Screener.in</h3>
+              <p>Pull the latest quarterly EPS, annual P&amp;L, and shareholding tables straight from the source:</p>
+              <ol>
+                <li>Open <a id="screener-link" href="#" target="_blank">Screener.in</a> for this stock.</li>
+                <li>Select the page (<strong>Ctrl/Cmd + A</strong>), focusing on <strong>Quarterly Results</strong>, <strong>Profit &amp; Loss</strong>, and <strong>Shareholding Pattern</strong>.</li>
+                <li>Copy (<strong>Ctrl/Cmd + C</strong>), paste below, then run the analysis.</li>
+              </ol>
+              <div class="alert alert-info">The parser cleans up tabs and stray formatting automatically — paste the whole page if unsure.</div>
+            </div>
+            <div class="paste-form">
+              <textarea id="screener-text-input" placeholder="Paste the copied Screener.in tables or whole page text here…"></textarea>
+              <button id="btn-submit-analysis" class="btn btn-primary btn-block">Recalculate CAN SLIM Score</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="tab-thesis" class="tab-content">
+          <div class="thesis-header">
+            <h3>Investment Thesis &amp; Catalysts</h3>
+            <button id="btn-copy-prompt" class="btn btn-sm">📋 Copy prompt for Claude / Gemini</button>
+          </div>
+          <div id="thesis-content" class="thesis-markdown-body"></div>
+        </div>
+
+        <div id="tab-scanner" class="tab-content">
+          <div class="scanner-header-row">
+            <div class="scanner-title-group">
+              <h3>Industry Sector Scanner</h3>
+              <p>Every stock in the current universe, scored and grouped live in your browser.</p>
+            </div>
+            <div>
+              <select id="scanner-sector-select" class="scanner-select">
+                <option value="ALL">All sectors</option>
+              </select>
+            </div>
+          </div>
+          <div class="scanner-grid">
+            <div class="scanner-col">
+              <div class="col-header"><span class="dot-green"></span><h4>Leaders (80+)</h4><span id="count-leaders" class="col-count">0</span></div>
+              <div id="scanner-list-leaders" class="scanner-list-vertical"></div>
+            </div>
+            <div class="scanner-col">
+              <div class="col-header"><span class="dot-amber"></span><h4>Watchlist (60–79)</h4><span id="count-watchlist" class="col-count">0</span></div>
+              <div id="scanner-list-watchlist" class="scanner-list-vertical"></div>
+            </div>
+            <div class="scanner-col">
+              <div class="col-header"><span class="dot-red"></span><h4>Avoid (&lt; 60)</h4><span id="count-avoid" class="col-count">0</span></div>
+              <div id="scanner-list-avoid" class="scanner-list-vertical"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="assets/canslim.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
