@@ -1,1 +1,54 @@
+name: Refresh CAN SLIM Data
 
+on:
+  schedule:
+    # 11:00 UTC = 4:30pm IST, ~1hr after NSE close. Runs Mon-Fri.
+    - cron: "0 11 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      universe:
+        description: "Universe for RS ranking + technicals"
+        default: "nifty500"
+        type: choice
+        options: [nifty50, nifty100, nifty500]
+      fundamentals_universe:
+        description: "Universe for Screener.in fundamentals scrape (slower)"
+        default: "nifty100"
+        type: choice
+        options: [nifty50, nifty100, nifty500]
+      skip_fundamentals:
+        description: "Skip the fundamentals scrape (technicals/RS only, faster)"
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Build data
+        run: |
+          python scripts/build_data.py \
+            --universe "${{ inputs.universe || 'nifty500' }}" \
+            --fundamentals-universe "${{ inputs.fundamentals_universe || 'nifty100' }}" \
+            ${{ inputs.skip_fundamentals == true && '--skip-fundamentals' || '' }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "indismith-bot"
+          git config user.email "actions@github.com"
+          git add data/*.json
+          git diff --cached --quiet && echo "No data changes" || git commit -m "chore: refresh CAN SLIM data [automated]"
+          git push
