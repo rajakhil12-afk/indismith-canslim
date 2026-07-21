@@ -1,199 +1,364 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>IndiSmith | NSE/BSE CAN SLIM® Terminal</title>
-<meta name="description" content="A premium, fully static CAN SLIM® growth-investing dashboard for NSE/BSE stocks — runs entirely in your browser, no backend required.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IndiSmith | Indian CAN SLIM Stock Research Dashboard</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Chart.js for High-Fidelity Interactive Charts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="app-container">
+        <!-- HEADER -->
+        <header class="app-header">
+            <div class="logo-area">
+                <span class="logo-icon">⚡</span>
+                <div class="logo-text">
+                    <h1>IndiSmith</h1>
+                    <span class="tagline">NSE/BSE CAN SLIM® Dashboard</span>
+                </div>
+            </div>
+            
+            <div id="market-status-banner" class="market-status-banner loading">
+                <div class="market-stat">
+                    <span class="stat-label">Nifty 50 Index</span>
+                    <span id="nifty-price" class="stat-value">--</span>
+                </div>
+                <div class="market-stat">
+                    <span class="stat-label">Market Status (M)</span>
+                    <span id="market-status-badge" class="badge">Loading...</span>
+                </div>
+                <div class="market-stat">
+                    <span class="stat-label">Distribution Days (25d)</span>
+                    <span id="nifty-dist-days" class="stat-value">--</span>
+                </div>
+            </div>
+        </header>
 
-<div class="ticker-tape" id="ticker-tape">
-  <div class="ticker-track" id="ticker-track">Loading market pulse…</div>
-</div>
+        <div class="main-layout">
+            <!-- SIDEBAR -->
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <div class="search-box">
+                        <span class="search-icon">🔍</span>
+                        <input type="text" id="stock-search" placeholder="Search Symbol or Company...">
+                    </div>
+                    <div class="universe-selector">
+                        <button class="uni-btn active" data-uni="nifty100">Nifty 100</button>
+                        <button class="uni-btn" data-uni="nifty50">Nifty 50</button>
+                        <button class="uni-btn" data-uni="nifty500">Nifty 500</button>
+                    </div>
+                </div>
+                
+                <div id="stock-list-container" class="stock-list">
+                    <div class="list-loading">Loading stock universe...</div>
+                </div>
+                
+                <div class="sidebar-footer">
+                    <button id="btn-update-rs" class="btn btn-secondary btn-sm">🔄 Recalculate RS Ratings</button>
+                </div>
+            </aside>
 
-<div class="app-container">
-  <header class="app-header">
-    <div class="logo-area">
-      <div class="logo-mark">IS</div>
-      <div class="logo-text">
-        <h1>IndiSmith</h1>
-        <span class="tagline">NSE / BSE CAN SLIM® Terminal</span>
-      </div>
+            <!-- MAIN PANEL -->
+            <main class="content-panel">
+                <div id="no-selection-screen" class="empty-state">
+                    <div class="empty-icon">📈</div>
+                    <h2>No Stock Selected</h2>
+                    <p>Select a stock from the sidebar or type to search. You can paste data from Screener.in to calculate the full CAN SLIM scorecard verdict.</p>
+                </div>
+
+                <div id="stock-dashboard" class="stock-dashboard" style="display: none;">
+                    <!-- Stock Hero Details -->
+                    <div class="stock-hero">
+                        <div class="hero-left">
+                            <h2 id="hero-symbol">RELIANCE</h2>
+                            <h1 id="hero-name">Reliance Industries Ltd.</h1>
+                            <div class="hero-tags">
+                                <span id="hero-industry" class="tag">Oil & Gas</span>
+                                <span id="hero-mcap" class="tag">MCap: -- Cr</span>
+                                <span id="hero-price" class="tag price-tag">Price: ₹--</span>
+                            </div>
+                        </div>
+                        
+                        <div class="hero-right">
+                            <div class="metric-circle-container">
+                                <div class="metric-circle" id="canslim-score-circle">
+                                    <svg viewBox="0 0 36 36" class="circular-chart">
+                                        <path class="circle-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                                        <path class="circle" id="score-circle-progress" stroke-dasharray="0, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                                        <text x="18" y="20.35" class="percentage" id="hero-score-text">--</text>
+                                    </svg>
+                                </div>
+                                <span class="circle-label">CAN SLIM Score</span>
+                            </div>
+                            <div class="metric-circle-container">
+                                <div class="rs-badge-square">
+                                    <span id="hero-rs-rating" class="rs-rating-value">--</span>
+                                </div>
+                                <span class="circle-label">RS Rating (L)</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tabs Menu -->
+                    <div class="tabs-menu">
+                        <button class="tab-btn active" data-tab="tab-scorecard">📊 CAN SLIM Scorecard</button>
+                        <button class="tab-btn" data-tab="tab-chart">📈 Price & Volume Chart</button>
+                        <button class="tab-btn" data-tab="tab-risk">🧮 Risk Calculator</button>
+                        <button class="tab-btn" data-tab="tab-paste">📋 Screener.in Paste</button>
+                        <button class="tab-btn" data-tab="tab-thesis">🤖 AI Analyst Thesis</button>
+                        <button class="tab-btn" data-tab="tab-scanner" id="btn-tab-scanner">🔍 Sector Scanner</button>
+                    </div>
+
+                    <!-- Tab Content: Scorecard -->
+                    <div id="tab-scorecard" class="tab-content active">
+                        <div class="verdict-banner" id="verdict-banner">
+                            <span class="verdict-label">CAN SLIM Verdict:</span>
+                            <span id="verdict-value" class="verdict-text">AVOID (FAILING GROWTH CRITERIA)</span>
+                        </div>
+                        
+                        <div class="scorecard-grid">
+                            <!-- C -->
+                            <div class="canslim-card" id="card-C">
+                                <div class="card-header">
+                                    <span class="letter">C</span>
+                                    <span class="title">Current Quarterly Earnings</span>
+                                    <span class="badge" id="badge-C">0/15</span>
+                                </div>
+                                <div class="card-body">
+                                    <ul id="details-C" class="details-list"></ul>
+                                </div>
+                            </div>
+                            <!-- A -->
+                            <div class="canslim-card" id="card-A">
+                                <div class="card-header">
+                                    <span class="letter">A</span>
+                                    <span class="title">Annual Earnings Growth</span>
+                                    <span class="badge" id="badge-A">0/15</span>
+                                </div>
+                                <div class="card-body">
+                                    <ul id="details-A" class="details-list"></ul>
+                                </div>
+                            </div>
+                            <!-- N -->
+                            <div class="canslim-card" id="card-N">
+                                <div class="card-header">
+                                    <span class="letter">N</span>
+                                    <span class="title">New Highs, Product, Management</span>
+                                    <span class="badge" id="badge-N">0/15</span>
+                                </div>
+                                <div class="card-body">
+                                    <ul id="details-N" class="details-list"></ul>
+                                </div>
+                            </div>
+                            <!-- S -->
+                            <div class="canslim-card" id="card-S">
+                                <div class="card-header">
+                                    <span class="letter">S</span>
+                                    <span class="title">Supply and Demand</span>
+                                    <span class="badge" id="badge-S">0/15</span>
+                                </div>
+                                <div class="card-body">
+                                    <ul id="details-S" class="details-list"></ul>
+                                </div>
+                            </div>
+                            <!-- L -->
+                            <div class="canslim-card" id="card-L">
+                                <div class="card-header">
+                                    <span class="letter">L</span>
+                                    <span class="title">Leader or Laggard</span>
+                                    <span class="badge" id="badge-L">0/15</span>
+                                </div>
+                                <div class="card-body">
+                                    <ul id="details-L" class="details-list"></ul>
+                                </div>
+                            </div>
+                            <!-- I -->
+                            <div class="canslim-card" id="card-I">
+                                <div class="card-header">
+                                    <span class="letter">I</span>
+                                    <span class="title">Institutional Sponsorship</span>
+                                    <span class="badge" id="badge-I">0/15</span>
+                                </div>
+                                <div class="card-body">
+                                    <ul id="details-I" class="details-list"></ul>
+                                    <div class="inst-bar-group" id="inst-bar-container"></div>
+                                </div>
+                            </div>
+                            <!-- M -->
+                            <div class="canslim-card" id="card-M">
+                                <div class="card-header">
+                                    <span class="letter">M</span>
+                                    <span class="title">Market Direction</span>
+                                    <span class="badge" id="badge-M">0/10</span>
+                                </div>
+                                <div class="card-body">
+                                    <ul id="details-M" class="details-list"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab Content: Chart -->
+                    <div id="tab-chart" class="tab-content">
+                        <div class="pattern-indicator-bar" id="pattern-bar">
+                            <span class="pattern-tag" id="pattern-detected-tag">☕ Pattern: Cup-with-Handle (Consolidation)</span>
+                            <span class="pivot-tag" id="pivot-price-tag">Breakout Pivot: ₹0.00</span>
+                        </div>
+                        <div class="chart-container">
+                            <canvas id="priceChart"></canvas>
+                        </div>
+                        <div class="chart-legend">
+                            <span class="legend-item"><span class="legend-color ema50"></span> 50-day EMA</span>
+                            <span class="legend-item"><span class="legend-color ema200"></span> 200-day EMA</span>
+                            <span class="legend-item"><span class="legend-color up-vol"></span> Buying Volume (Up Days)</span>
+                            <span class="legend-item"><span class="legend-color down-vol"></span> Selling Volume (Down Days)</span>
+                        </div>
+                    </div>
+
+                    <!-- Tab Content: Risk Calculator -->
+                    <div id="tab-risk" class="tab-content">
+                        <div class="risk-calc-grid">
+                            <div class="calc-box">
+                                <h4>🧮 Portfolio Risk & Position Sizing Calculator</h4>
+                                <div class="calc-input-group">
+                                    <label for="calc-capital">Total Portfolio Capital (₹):</label>
+                                    <input type="number" id="calc-capital" value="500000" step="10000">
+                                </div>
+                                <div class="calc-input-group">
+                                    <label for="calc-risk-pct">Max Trade Risk (% of Capital):</label>
+                                    <input type="number" id="calc-risk-pct" value="1.5" step="0.25">
+                                </div>
+                                <div class="calc-input-group">
+                                    <label for="calc-entry-price">Stock Entry Price (₹):</label>
+                                    <input type="number" id="calc-entry-price" value="2750">
+                                </div>
+                            </div>
+
+                            <div class="calc-box">
+                                <h4>🎯 O'Neil 7-8% Rule Targets</h4>
+                                <div class="calc-results">
+                                    <div class="calc-res-item">
+                                        <span class="calc-res-label">Max Risk Amount (₹):</span>
+                                        <span id="res-risk-amt" class="calc-res-val">₹7,500</span>
+                                    </div>
+                                    <div class="calc-res-item">
+                                        <span class="calc-res-label">7% Stop-Loss Target (Cut Loss):</span>
+                                        <span id="res-stop-loss" class="calc-res-val stop-loss">₹2,557.50</span>
+                                    </div>
+                                    <div class="calc-res-item">
+                                        <span class="calc-res-label">Max Recommended Shares:</span>
+                                        <span id="res-share-qty" class="calc-res-val">39 Shares</span>
+                                    </div>
+                                    <div class="calc-res-item">
+                                        <span class="calc-res-label">Total Position Allocation:</span>
+                                        <span id="res-total-alloc" class="calc-res-val">₹1,07,250 (21.5%)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab Content: Screener Paste -->
+                    <div id="tab-paste" class="tab-content">
+                        <div class="paste-panel">
+                            <div class="paste-instruction">
+                                <h3>📋 Copy-Paste Instructions for Screener.in</h3>
+                                <p>To evaluate quarterly/annual EPS and institutional holdings, follow these quick steps:</p>
+                                <ol>
+                                    <li>Open <a id="screener-link" href="#" target="_blank" class="text-link">Screener.in</a> for the stock.</li>
+                                    <li>Select the entire page by pressing <strong>Ctrl + A</strong> (or select the tables <strong>Quarterly Results</strong>, <strong>Profit & Loss</strong>, and <strong>Shareholding Pattern</strong>).</li>
+                                    <li>Copy it (<strong>Ctrl + C</strong>), paste it into the box below, and click <strong>Run CAN SLIM Analysis</strong>.</li>
+                                </ol>
+                                <div class="alert alert-info">
+                                    <strong>Tip:</strong> Don't worry about clean formatting. Our parser will automatically clean up the tabs and extract the correct tables!
+                                </div>
+                            </div>
+                            
+                            <div class="paste-form">
+                                <textarea id="screener-text-input" placeholder="Paste the copied Screener.in tables or whole page text here..."></textarea>
+                                <button id="btn-submit-analysis" class="btn btn-primary">🚀 Run CAN SLIM Analysis</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab Content: AI Thesis -->
+                    <div id="tab-thesis" class="tab-content">
+                        <div class="thesis-header">
+                            <h3>Investment Thesis & Catalysts</h3>
+                            <button id="btn-copy-prompt" class="btn btn-secondary btn-sm">📋 Copy Data Prompt for Claude</button>
+                        </div>
+                        <div id="thesis-content" class="thesis-markdown-body">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+
+                    <!-- Tab Content: Sector Scanner -->
+                    <div id="tab-scanner" class="tab-content">
+                        <div class="scanner-header-row">
+                            <div class="scanner-title-group">
+                                <h3>🔍 Industry Sector Scanner</h3>
+                                <p>Scan and display stock scorecards categorized by CAN SLIM grades across industry sectors.</p>
+                            </div>
+                            <div class="scanner-filters">
+                                <label for="scanner-sector-select" class="scanner-label">Filter Sector:</label>
+                                <select id="scanner-sector-select" class="scanner-select">
+                                    <option value="ALL">-- Loading Sectors --</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="scanner-grid">
+                            <!-- Column 1: Leaders (Score 80+) -->
+                            <div class="scanner-col col-leaders">
+                                <div class="col-header">
+                                    <span class="dot-green"></span>
+                                    <h4>Leaders (Score 80+)</h4>
+                                    <span id="count-leaders" class="col-count">0</span>
+                                </div>
+                                <div id="scanner-list-leaders" class="scanner-list-vertical">
+                                    <!-- Populated dynamically -->
+                                </div>
+                            </div>
+                            
+                            <!-- Column 2: Watchlist (Score 60-79) -->
+                            <div class="scanner-col col-watchlist">
+                                <div class="col-header">
+                                    <span class="dot-amber"></span>
+                                    <h4>Watchlist (Score 60-79)</h4>
+                                    <span id="count-watchlist" class="col-count">0</span>
+                                </div>
+                                <div id="scanner-list-watchlist" class="scanner-list-vertical">
+                                    <!-- Populated dynamically -->
+                                </div>
+                            </div>
+                            
+                            <!-- Column 3: Avoid & Unscored (< 60) -->
+                            <div class="scanner-col col-avoid">
+                                <div class="col-header">
+                                    <span class="dot-red"></span>
+                                    <h4>Avoid & Unscored (< 60)</h4>
+                                    <span id="count-avoid" class="col-count">0</span>
+                                </div>
+                                <div id="scanner-list-avoid" class="scanner-list-vertical">
+                                    <!-- Populated dynamically -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </main>
+        </div>
     </div>
 
-    <div class="market-pulse" id="market-pulse">
-      <div class="pulse-stat">
-        <span class="pulse-label">Nifty 50</span>
-        <span class="pulse-value" id="nifty-price">—</span>
-      </div>
-      <div class="pulse-stat">
-        <span class="pulse-label">Distribution Days</span>
-        <span class="pulse-value" id="nifty-dist-days">—</span>
-      </div>
-      <div class="pulse-stat">
-        <span class="pulse-label">Market Direction (M)</span>
-        <span class="status-pill unknown" id="market-status-badge">Loading…</span>
-      </div>
-      <div class="freshness-note" id="freshness-note">
-        <span class="freshness-dot" id="freshness-dot"></span>
-        <span id="freshness-text">Checking data freshness…</span>
-      </div>
-    </div>
-  </header>
-
-  <div class="main-layout">
-    <aside class="sidebar">
-      <div class="sidebar-header">
-        <div class="search-box">
-          <span>🔍</span>
-          <input type="text" id="stock-search" placeholder="Search symbol or company…">
-        </div>
-        <div class="universe-selector">
-          <button class="uni-btn active" data-uni="nifty100">Nifty 100</button>
-          <button class="uni-btn" data-uni="nifty50">Nifty 50</button>
-          <button class="uni-btn" data-uni="nifty500">Nifty 500</button>
-        </div>
-      </div>
-
-      <div class="sort-row">
-        <button class="sort-btn active" data-sort="rs">RS Rating</button>
-        <button class="sort-btn" data-sort="score">CAN SLIM Score</button>
-        <button class="sort-btn" data-sort="az">A–Z</button>
-      </div>
-
-      <div id="stock-list-container" class="stock-list">
-        <div class="list-loading">Loading stock universe…</div>
-      </div>
-
-      <div class="sidebar-footer">
-        <button id="btn-tab-scanner-jump" class="btn btn-block">🔍 Open Sector Scanner</button>
-      </div>
-    </aside>
-
-    <main class="content-panel">
-      <div id="no-selection-screen" class="empty-state">
-        <div class="seal">📖</div>
-        <h2>Select a stock to open its ledger</h2>
-        <p>Pick a name from the list, or search above. Paste fresh Screener.in data any time to recompute a live CAN SLIM verdict — entirely in your browser.</p>
-      </div>
-
-      <div id="stock-dashboard" class="stock-dashboard" style="display:none;">
-        <div class="stock-hero">
-          <div class="hero-left">
-            <span class="eyebrow" id="hero-industry-eyebrow">SECTOR</span>
-            <h1 id="hero-name">—</h1>
-            <div class="hero-tags">
-              <span class="tag" id="hero-symbol">—</span>
-              <span class="tag" id="hero-mcap">MCap: —</span>
-              <span class="tag price-tag" id="hero-price">Price: —</span>
-            </div>
-          </div>
-          <div class="hero-right">
-            <div class="verdict-seal" id="verdict-seal">
-              <span class="seal-score" id="hero-score-text">—</span>
-              <span class="seal-label">CAN SLIM</span>
-            </div>
-            <div class="rs-square">
-              <span class="rs-num" id="hero-rs-rating">—</span>
-              <span class="rs-tag">RS (L)</span>
-            </div>
-          </div>
-        </div>
-
-        <div class="tabs-menu">
-          <button class="tab-btn active" data-tab="tab-scorecard">Scorecard</button>
-          <button class="tab-btn" data-tab="tab-chart">Price &amp; Volume</button>
-          <button class="tab-btn" data-tab="tab-paste">Screener.in Paste</button>
-          <button class="tab-btn" data-tab="tab-thesis">AI Analyst Thesis</button>
-          <button class="tab-btn" data-tab="tab-scanner">Sector Scanner</button>
-        </div>
-
-        <div id="tab-scorecard" class="tab-content active">
-          <div class="verdict-banner">
-            <span class="verdict-label">Verdict</span>
-            <span id="verdict-value" class="verdict-text">—</span>
-          </div>
-          <div class="ledger" id="ledger-container"></div>
-        </div>
-
-        <div id="tab-chart" class="tab-content">
-          <div class="chart-container"><canvas id="priceChart"></canvas></div>
-          <div class="chart-legend">
-            <span class="legend-item"><span class="legend-color ema50"></span> 50-day EMA</span>
-            <span class="legend-item"><span class="legend-color ema200"></span> 200-day EMA</span>
-            <span class="legend-item"><span class="legend-color up-vol"></span> Up-day volume</span>
-            <span class="legend-item"><span class="legend-color down-vol"></span> Down-day volume</span>
-          </div>
-        </div>
-
-        <div id="tab-paste" class="tab-content">
-          <div class="paste-panel">
-            <div class="paste-instruction">
-              <h3>Update this ledger from Screener.in</h3>
-              <p>Pull the latest quarterly EPS, annual P&amp;L, and shareholding tables straight from the source:</p>
-              <ol>
-                <li>Open <a id="screener-link" href="#" target="_blank">Screener.in</a> for this stock.</li>
-                <li>Select the page (<strong>Ctrl/Cmd + A</strong>), focusing on <strong>Quarterly Results</strong>, <strong>Profit &amp; Loss</strong>, and <strong>Shareholding Pattern</strong>.</li>
-                <li>Copy (<strong>Ctrl/Cmd + C</strong>), paste below, then run the analysis.</li>
-              </ol>
-              <div class="alert alert-info">The parser cleans up tabs and stray formatting automatically — paste the whole page if unsure.</div>
-            </div>
-            <div class="paste-form">
-              <textarea id="screener-text-input" placeholder="Paste the copied Screener.in tables or whole page text here…"></textarea>
-              <button id="btn-submit-analysis" class="btn btn-primary btn-block">Recalculate CAN SLIM Score</button>
-            </div>
-          </div>
-        </div>
-
-        <div id="tab-thesis" class="tab-content">
-          <div class="thesis-header">
-            <h3>Investment Thesis &amp; Catalysts</h3>
-            <button id="btn-copy-prompt" class="btn btn-sm">📋 Copy prompt for Claude / Gemini</button>
-          </div>
-          <div id="thesis-content" class="thesis-markdown-body"></div>
-        </div>
-
-        <div id="tab-scanner" class="tab-content">
-          <div class="scanner-header-row">
-            <div class="scanner-title-group">
-              <h3>Industry Sector Scanner</h3>
-              <p>Every stock in the current universe, scored and grouped live in your browser.</p>
-            </div>
-            <div>
-              <select id="scanner-sector-select" class="scanner-select">
-                <option value="ALL">All sectors</option>
-              </select>
-            </div>
-          </div>
-          <div class="scanner-grid">
-            <div class="scanner-col">
-              <div class="col-header"><span class="dot-green"></span><h4>Leaders (80+)</h4><span id="count-leaders" class="col-count">0</span></div>
-              <div id="scanner-list-leaders" class="scanner-list-vertical"></div>
-            </div>
-            <div class="scanner-col">
-              <div class="col-header"><span class="dot-amber"></span><h4>Watchlist (60–79)</h4><span id="count-watchlist" class="col-count">0</span></div>
-              <div id="scanner-list-watchlist" class="scanner-list-vertical"></div>
-            </div>
-            <div class="scanner-col">
-              <div class="col-header"><span class="dot-red"></span><h4>Avoid (&lt; 60)</h4><span id="count-avoid" class="col-count">0</span></div>
-              <div id="scanner-list-avoid" class="scanner-list-vertical"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </main>
-  </div>
-</div>
-
-<div class="toast" id="toast"></div>
-
-<script src="assets/canslim.js"></script>
-<script src="app.js"></script>
+    <!-- Scripts -->
+    <script src="assets/canslim.js"></script>
+    <script src="app.js"></script>
 </body>
 </html>
