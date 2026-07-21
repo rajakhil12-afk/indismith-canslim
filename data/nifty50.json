@@ -1,402 +1,402 @@
 [
   {
-    "symbol": "360ONE",
-    "ticker": "360ONE.NS",
-    "company_name": "360ONE",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "3MINDIA",
-    "ticker": "3MINDIA.NS",
-    "company_name": "3MINDIA",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AADHARHFC",
-    "ticker": "AADHARHFC.NS",
-    "company_name": "AADHARHFC",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AARTIIND",
-    "ticker": "AARTIIND.NS",
-    "company_name": "AARTIIND",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AAVAS",
-    "ticker": "AAVAS.NS",
-    "company_name": "AAVAS",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ABB",
-    "ticker": "ABB.NS",
-    "company_name": "ABB",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ABBOTINDIA",
-    "ticker": "ABBOTINDIA.NS",
-    "company_name": "ABBOTINDIA",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ABCAPITAL",
-    "ticker": "ABCAPITAL.NS",
-    "company_name": "ABCAPITAL",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ABDL",
-    "ticker": "ABDL.NS",
-    "company_name": "ABDL",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ABFRL",
-    "ticker": "ABFRL.NS",
-    "company_name": "ABFRL",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ABLBL",
-    "ticker": "ABLBL.NS",
-    "company_name": "ABLBL",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ABREL",
-    "ticker": "ABREL.NS",
-    "company_name": "ABREL",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ABSLAMC",
-    "ticker": "ABSLAMC.NS",
-    "company_name": "ABSLAMC",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ACC",
-    "ticker": "ACC.NS",
-    "company_name": "ACC",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ACE",
-    "ticker": "ACE.NS",
-    "company_name": "ACE",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ACMESOLAR",
-    "ticker": "ACMESOLAR.NS",
-    "company_name": "ACMESOLAR",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ACUTAAS",
-    "ticker": "ACUTAAS.NS",
-    "company_name": "ACUTAAS",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ADANIENSOL",
-    "ticker": "ADANIENSOL.NS",
-    "company_name": "ADANIENSOL",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
     "symbol": "ADANIENT",
     "ticker": "ADANIENT.NS",
-    "company_name": "ADANIENT",
-    "industry": "Unclassified",
+    "company_name": "Adani Enterprises Ltd.",
+    "industry": "Metals & Mining",
     "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ADANIGREEN",
-    "ticker": "ADANIGREEN.NS",
-    "company_name": "ADANIGREEN",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
+    "isin": "INE423A01024"
   },
   {
     "symbol": "ADANIPORTS",
     "ticker": "ADANIPORTS.NS",
-    "company_name": "ADANIPORTS",
-    "industry": "Unclassified",
+    "company_name": "Adani Ports and Special Economic Zone Ltd.",
+    "industry": "Services",
     "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ADANIPOWER",
-    "ticker": "ADANIPOWER.NS",
-    "company_name": "ADANIPOWER",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AEGISLOG",
-    "ticker": "AEGISLOG.NS",
-    "company_name": "AEGISLOG",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AEGISVOPAK",
-    "ticker": "AEGISVOPAK.NS",
-    "company_name": "AEGISVOPAK",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AFCONS",
-    "ticker": "AFCONS.NS",
-    "company_name": "AFCONS",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AFFLE",
-    "ticker": "AFFLE.NS",
-    "company_name": "AFFLE",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AIAENG",
-    "ticker": "AIAENG.NS",
-    "company_name": "AIAENG",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AIIL",
-    "ticker": "AIIL.NS",
-    "company_name": "AIIL",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AJANTPHARM",
-    "ticker": "AJANTPHARM.NS",
-    "company_name": "AJANTPHARM",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ALKEM",
-    "ticker": "ALKEM.NS",
-    "company_name": "ALKEM",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AMBER",
-    "ticker": "AMBER.NS",
-    "company_name": "AMBER",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "AMBUJACEM",
-    "ticker": "AMBUJACEM.NS",
-    "company_name": "AMBUJACEM",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ANANDRATHI",
-    "ticker": "ANANDRATHI.NS",
-    "company_name": "ANANDRATHI",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ANANTRAJ",
-    "ticker": "ANANTRAJ.NS",
-    "company_name": "ANANTRAJ",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ANGELONE",
-    "ticker": "ANGELONE.NS",
-    "company_name": "ANGELONE",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ANTHEM",
-    "ticker": "ANTHEM.NS",
-    "company_name": "ANTHEM",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ANURAS",
-    "ticker": "ANURAS.NS",
-    "company_name": "ANURAS",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "APARINDS",
-    "ticker": "APARINDS.NS",
-    "company_name": "APARINDS",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "APLAPOLLO",
-    "ticker": "APLAPOLLO.NS",
-    "company_name": "APLAPOLLO",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
+    "isin": "INE742F01042"
   },
   {
     "symbol": "APOLLOHOSP",
     "ticker": "APOLLOHOSP.NS",
-    "company_name": "APOLLOHOSP",
-    "industry": "Unclassified",
+    "company_name": "Apollo Hospitals Enterprise Ltd.",
+    "industry": "Healthcare",
     "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "APOLLOTYRE",
-    "ticker": "APOLLOTYRE.NS",
-    "company_name": "APOLLOTYRE",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "APTUS",
-    "ticker": "APTUS.NS",
-    "company_name": "APTUS",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ARE&M",
-    "ticker": "ARE&M.NS",
-    "company_name": "ARE&M",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ASAHIINDIA",
-    "ticker": "ASAHIINDIA.NS",
-    "company_name": "ASAHIINDIA",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
-  },
-  {
-    "symbol": "ASHOKLEY",
-    "ticker": "ASHOKLEY.NS",
-    "company_name": "ASHOKLEY",
-    "industry": "Unclassified",
-    "series": "EQ",
-    "isin": ""
+    "isin": "INE437A01024"
   },
   {
     "symbol": "ASIANPAINT",
     "ticker": "ASIANPAINT.NS",
-    "company_name": "ASIANPAINT",
-    "industry": "Unclassified",
+    "company_name": "Asian Paints Ltd.",
+    "industry": "Consumer Durables",
     "series": "EQ",
-    "isin": ""
+    "isin": "INE021A01026"
   },
   {
-    "symbol": "ASTERDM",
-    "ticker": "ASTERDM.NS",
-    "company_name": "ASTERDM",
-    "industry": "Unclassified",
+    "symbol": "AXISBANK",
+    "ticker": "AXISBANK.NS",
+    "company_name": "Axis Bank Ltd.",
+    "industry": "Financial Services",
     "series": "EQ",
-    "isin": ""
+    "isin": "INE238A01034"
   },
   {
-    "symbol": "ASTRAL",
-    "ticker": "ASTRAL.NS",
-    "company_name": "ASTRAL",
-    "industry": "Unclassified",
+    "symbol": "BAJAJ-AUTO",
+    "ticker": "BAJAJ-AUTO.NS",
+    "company_name": "Bajaj Auto Ltd.",
+    "industry": "Automobile and Auto Components",
     "series": "EQ",
-    "isin": ""
+    "isin": "INE917I01010"
   },
   {
-    "symbol": "ATGL",
-    "ticker": "ATGL.NS",
-    "company_name": "ATGL",
-    "industry": "Unclassified",
+    "symbol": "BAJFINANCE",
+    "ticker": "BAJFINANCE.NS",
+    "company_name": "Bajaj Finance Ltd.",
+    "industry": "Financial Services",
     "series": "EQ",
-    "isin": ""
+    "isin": "INE296A01032"
   },
   {
-    "symbol": "ATHERENERG",
-    "ticker": "ATHERENERG.NS",
-    "company_name": "ATHERENERG",
-    "industry": "Unclassified",
+    "symbol": "BAJAJFINSV",
+    "ticker": "BAJAJFINSV.NS",
+    "company_name": "Bajaj Finserv Ltd.",
+    "industry": "Financial Services",
     "series": "EQ",
-    "isin": ""
+    "isin": "INE918I01026"
+  },
+  {
+    "symbol": "BEL",
+    "ticker": "BEL.NS",
+    "company_name": "Bharat Electronics Ltd.",
+    "industry": "Capital Goods",
+    "series": "EQ",
+    "isin": "INE263A01024"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "ticker": "BHARTIARTL.NS",
+    "company_name": "Bharti Airtel Ltd.",
+    "industry": "Telecommunication",
+    "series": "EQ",
+    "isin": "INE397D01024"
+  },
+  {
+    "symbol": "CIPLA",
+    "ticker": "CIPLA.NS",
+    "company_name": "Cipla Ltd.",
+    "industry": "Healthcare",
+    "series": "EQ",
+    "isin": "INE059A01026"
+  },
+  {
+    "symbol": "COALINDIA",
+    "ticker": "COALINDIA.NS",
+    "company_name": "Coal India Ltd.",
+    "industry": "Oil Gas & Consumable Fuels",
+    "series": "EQ",
+    "isin": "INE522F01014"
+  },
+  {
+    "symbol": "DRREDDY",
+    "ticker": "DRREDDY.NS",
+    "company_name": "Dr. Reddy's Laboratories Ltd.",
+    "industry": "Healthcare",
+    "series": "EQ",
+    "isin": "INE089A01031"
+  },
+  {
+    "symbol": "EICHERMOT",
+    "ticker": "EICHERMOT.NS",
+    "company_name": "Eicher Motors Ltd.",
+    "industry": "Automobile and Auto Components",
+    "series": "EQ",
+    "isin": "INE066A01021"
+  },
+  {
+    "symbol": "ETERNAL",
+    "ticker": "ETERNAL.NS",
+    "company_name": "Eternal Ltd.",
+    "industry": "Consumer Services",
+    "series": "EQ",
+    "isin": "INE758T01015"
+  },
+  {
+    "symbol": "GRASIM",
+    "ticker": "GRASIM.NS",
+    "company_name": "Grasim Industries Ltd.",
+    "industry": "Construction Materials",
+    "series": "EQ",
+    "isin": "INE047A01021"
+  },
+  {
+    "symbol": "HCLTECH",
+    "ticker": "HCLTECH.NS",
+    "company_name": "HCL Technologies Ltd.",
+    "industry": "Information Technology",
+    "series": "EQ",
+    "isin": "INE860A01027"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "ticker": "HDFCBANK.NS",
+    "company_name": "HDFC Bank Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE040A01034"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "ticker": "HDFCLIFE.NS",
+    "company_name": "HDFC Life Insurance Company Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE795G01014"
+  },
+  {
+    "symbol": "HINDALCO",
+    "ticker": "HINDALCO.NS",
+    "company_name": "Hindalco Industries Ltd.",
+    "industry": "Metals & Mining",
+    "series": "EQ",
+    "isin": "INE038A01020"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "ticker": "HINDUNILVR.NS",
+    "company_name": "Hindustan Unilever Ltd.",
+    "industry": "Fast Moving Consumer Goods",
+    "series": "EQ",
+    "isin": "INE030A01027"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "ticker": "ICICIBANK.NS",
+    "company_name": "ICICI Bank Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE090A01021"
+  },
+  {
+    "symbol": "ITC",
+    "ticker": "ITC.NS",
+    "company_name": "ITC Ltd.",
+    "industry": "Fast Moving Consumer Goods",
+    "series": "EQ",
+    "isin": "INE154A01025"
+  },
+  {
+    "symbol": "INFY",
+    "ticker": "INFY.NS",
+    "company_name": "Infosys Ltd.",
+    "industry": "Information Technology",
+    "series": "EQ",
+    "isin": "INE009A01021"
+  },
+  {
+    "symbol": "INDIGO",
+    "ticker": "INDIGO.NS",
+    "company_name": "InterGlobe Aviation Ltd.",
+    "industry": "Services",
+    "series": "EQ",
+    "isin": "INE646L01027"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "ticker": "JSWSTEEL.NS",
+    "company_name": "JSW Steel Ltd.",
+    "industry": "Metals & Mining",
+    "series": "EQ",
+    "isin": "INE019A01038"
+  },
+  {
+    "symbol": "JIOFIN",
+    "ticker": "JIOFIN.NS",
+    "company_name": "Jio Financial Services Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE758E01017"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "ticker": "KOTAKBANK.NS",
+    "company_name": "Kotak Mahindra Bank Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE237A01036"
+  },
+  {
+    "symbol": "LT",
+    "ticker": "LT.NS",
+    "company_name": "Larsen & Toubro Ltd.",
+    "industry": "Construction",
+    "series": "EQ",
+    "isin": "INE018A01030"
+  },
+  {
+    "symbol": "M&M",
+    "ticker": "M&M.NS",
+    "company_name": "Mahindra & Mahindra Ltd.",
+    "industry": "Automobile and Auto Components",
+    "series": "EQ",
+    "isin": "INE101A01026"
+  },
+  {
+    "symbol": "MARUTI",
+    "ticker": "MARUTI.NS",
+    "company_name": "Maruti Suzuki India Ltd.",
+    "industry": "Automobile and Auto Components",
+    "series": "EQ",
+    "isin": "INE585B01010"
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "ticker": "MAXHEALTH.NS",
+    "company_name": "Max Healthcare Institute Ltd.",
+    "industry": "Healthcare",
+    "series": "EQ",
+    "isin": "INE027H01010"
+  },
+  {
+    "symbol": "NTPC",
+    "ticker": "NTPC.NS",
+    "company_name": "NTPC Ltd.",
+    "industry": "Power",
+    "series": "EQ",
+    "isin": "INE733E01010"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "ticker": "NESTLEIND.NS",
+    "company_name": "Nestle India Ltd.",
+    "industry": "Fast Moving Consumer Goods",
+    "series": "EQ",
+    "isin": "INE239A01024"
+  },
+  {
+    "symbol": "ONGC",
+    "ticker": "ONGC.NS",
+    "company_name": "Oil & Natural Gas Corporation Ltd.",
+    "industry": "Oil Gas & Consumable Fuels",
+    "series": "EQ",
+    "isin": "INE213A01029"
+  },
+  {
+    "symbol": "POWERGRID",
+    "ticker": "POWERGRID.NS",
+    "company_name": "Power Grid Corporation of India Ltd.",
+    "industry": "Power",
+    "series": "EQ",
+    "isin": "INE752E01010"
+  },
+  {
+    "symbol": "RELIANCE",
+    "ticker": "RELIANCE.NS",
+    "company_name": "Reliance Industries Ltd.",
+    "industry": "Oil Gas & Consumable Fuels",
+    "series": "EQ",
+    "isin": "INE002A01018"
+  },
+  {
+    "symbol": "SBILIFE",
+    "ticker": "SBILIFE.NS",
+    "company_name": "SBI Life Insurance Company Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE123W01016"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "ticker": "SHRIRAMFIN.NS",
+    "company_name": "Shriram Finance Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE721A01047"
+  },
+  {
+    "symbol": "SBIN",
+    "ticker": "SBIN.NS",
+    "company_name": "State Bank of India",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE062A01020"
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "ticker": "SUNPHARMA.NS",
+    "company_name": "Sun Pharmaceutical Industries Ltd.",
+    "industry": "Healthcare",
+    "series": "EQ",
+    "isin": "INE044A01036"
+  },
+  {
+    "symbol": "TCS",
+    "ticker": "TCS.NS",
+    "company_name": "Tata Consultancy Services Ltd.",
+    "industry": "Information Technology",
+    "series": "EQ",
+    "isin": "INE467B01029"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "ticker": "TATACONSUM.NS",
+    "company_name": "Tata Consumer Products Ltd.",
+    "industry": "Fast Moving Consumer Goods",
+    "series": "EQ",
+    "isin": "INE192A01025"
+  },
+  {
+    "symbol": "TMPV",
+    "ticker": "TMPV.NS",
+    "company_name": "Tata Motors Passenger Vehicles Ltd.",
+    "industry": "Automobile and Auto Components",
+    "series": "EQ",
+    "isin": "INE155A01022"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "ticker": "TATASTEEL.NS",
+    "company_name": "Tata Steel Ltd.",
+    "industry": "Metals & Mining",
+    "series": "EQ",
+    "isin": "INE081A01020"
+  },
+  {
+    "symbol": "TECHM",
+    "ticker": "TECHM.NS",
+    "company_name": "Tech Mahindra Ltd.",
+    "industry": "Information Technology",
+    "series": "EQ",
+    "isin": "INE669C01036"
+  },
+  {
+    "symbol": "TITAN",
+    "ticker": "TITAN.NS",
+    "company_name": "Titan Company Ltd.",
+    "industry": "Consumer Durables",
+    "series": "EQ",
+    "isin": "INE280A01028"
+  },
+  {
+    "symbol": "TRENT",
+    "ticker": "TRENT.NS",
+    "company_name": "Trent Ltd.",
+    "industry": "Consumer Services",
+    "series": "EQ",
+    "isin": "INE849A01020"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "ticker": "ULTRACEMCO.NS",
+    "company_name": "UltraTech Cement Ltd.",
+    "industry": "Construction Materials",
+    "series": "EQ",
+    "isin": "INE481G01011"
+  },
+  {
+    "symbol": "WIPRO",
+    "ticker": "WIPRO.NS",
+    "company_name": "Wipro Ltd.",
+    "industry": "Information Technology",
+    "series": "EQ",
+    "isin": "INE075A01022"
   }
 ]

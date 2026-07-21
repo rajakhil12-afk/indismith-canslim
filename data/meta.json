@@ -1,7 +1,6 @@
 {
-  "last_build": null,
+  "last_build": "2026-07-21T15:12:46.743093Z",
   "universe": "nifty500",
   "fundamentals_universe": "nifty100",
-  "ticker_count": 501,
-  "seed_data": true
+  "ticker_count": 500
 }

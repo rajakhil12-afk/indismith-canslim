@@ -1,10 +1,10 @@
 {
-  "status": "Confirmed Uptrend",
-  "distribution_days": null,
-  "score": null,
-  "detail": "Seed placeholder \u2014 run the 'Refresh CAN SLIM Data' GitHub Action once to populate live market direction.",
-  "nifty_price": null,
-  "nifty_50_ema": null,
-  "nifty_200_ema": null,
-  "generated_at": null
+  "status": "Market in Correction",
+  "distribution_days": 5,
+  "score": 2,
+  "detail": "Nifty 50 (24187.70) is trading below its 200-day EMA (24614.72). Severe distribution/bearish conditions.",
+  "nifty_price": 24187.7,
+  "nifty_50_ema": 23992.69,
+  "nifty_200_ema": 24614.72,
+  "generated_at": "2026-07-21T15:05:13.431964Z"
 }
