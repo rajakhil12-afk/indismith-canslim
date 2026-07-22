@@ -3,18 +3,79 @@ Technicals + Relative Strength (RS) + Market Direction (M) engine.
 Runs server-side inside GitHub Actions (no browser CORS restrictions apply here).
 Output is written to /data/technicals.json and /data/market_direction.json,
 which the static frontend consumes directly.
+
+FIXES vs prior version:
+  1. quoteSummary now authenticates with Yahoo's required cookie+crumb
+     (endpoint started rejecting anonymous requests in 2024).
+  2. All network calls retry with exponential backoff on 429 / timeouts.
+  3. Per-ticker delay added by caller (build_data.py) to avoid rate-limiting
+     on large universes.
 """
 import os
 import json
 import time
+import random
 import datetime
 import urllib.request
+import urllib.error
 import urllib.parse
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
+
+# ---------------------------------------------------------------------------
+# Shared HTTP helper: retry + backoff on 429 / transient errors
+# ---------------------------------------------------------------------------
+def _fetch_with_retry(url, headers=None, timeout=20, max_retries=3):
+    headers = headers or HEADERS
+    for attempt in range(max_retries):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as res:
+                return res.read(), dict(res.headers)
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < max_retries - 1:
+                wait = (2 ** attempt) + random.uniform(0, 1)
+                print(f"[yahoo_engine] 429 rate limited on {url[:80]}..., retry in {wait:.1f}s")
+                time.sleep(wait)
+                continue
+            print(f"[yahoo_engine] HTTP {e.code} on {url[:80]}...")
+            return None, None
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
+            if attempt < max_retries - 1:
+                time.sleep(1 + attempt)
+                continue
+            print(f"[yahoo_engine] network error on {url[:80]}...: {e}")
+            return None, None
+    return None, None
+
+
+# ---------------------------------------------------------------------------
+# Yahoo now requires a cookie + crumb for quoteSummary (anonymous calls 401).
+# Fetched once per process run and cached.
+# ---------------------------------------------------------------------------
+_cookie = None
+_crumb = None
+
+def _get_crumb():
+    global _cookie, _crumb
+    if _crumb:
+        return _cookie, _crumb
+    body, resp_headers = _fetch_with_retry("https://fc.yahoo.com", timeout=10)
+    if resp_headers is None:
+        return None, None
+    _cookie = resp_headers.get("Set-Cookie", "")
+    crumb_body, _ = _fetch_with_retry(
+        "https://query1.finance.yahoo.com/v1/test/getcrumb",
+        headers={**HEADERS, "Cookie": _cookie},
+        timeout=10,
+    )
+    if crumb_body is None:
+        return None, None
+    _crumb = crumb_body.decode().strip()
+    return _cookie, _crumb
 
 
 def calculate_ema(prices, period):
@@ -48,10 +109,11 @@ def fetch_history(ticker, range_str="1y"):
     """Returns (closes, volumes, candles[])"""
     url = (f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(ticker)}"
            f"?range={range_str}&interval=1d")
-    req = urllib.request.Request(url, headers=HEADERS)
+    body, _ = _fetch_with_retry(url, timeout=20)
+    if body is None:
+        return [], [], []
     try:
-        with urllib.request.urlopen(req, timeout=20) as res:
-            data = json.loads(res.read())
+        data = json.loads(body)
         result = data.get("chart", {}).get("result", [])
         if not result:
             return [], [], []
@@ -78,17 +140,23 @@ def fetch_history(ticker, range_str="1y"):
             })
         return clean_closes, clean_vols, candles
     except Exception as e:
-        print(f"[yahoo_engine] history fetch failed for {ticker}: {e}")
+        print(f"[yahoo_engine] history parse failed for {ticker}: {e}")
         return [], [], []
 
 
 def fetch_quote_summary(ticker):
+    cookie, crumb = _get_crumb()
     url = (f"https://query1.finance.yahoo.com/v10/finance/quoteSummary/{urllib.parse.quote(ticker)}"
            f"?modules=summaryDetail,defaultKeyStatistics,financialData")
-    req = urllib.request.Request(url, headers=HEADERS)
+    headers = dict(HEADERS)
+    if cookie and crumb:
+        url += f"&crumb={urllib.parse.quote(crumb)}"
+        headers["Cookie"] = cookie
+    body, _ = _fetch_with_retry(url, headers=headers, timeout=20)
+    if body is None:
+        return {}
     try:
-        with urllib.request.urlopen(req, timeout=20) as res:
-            data = json.loads(res.read())
+        data = json.loads(body)
         result = data.get("quoteSummary", {}).get("result", [])
         if not result:
             return {}
@@ -99,7 +167,7 @@ def fetch_quote_summary(ticker):
             "returnOnEquity": (r.get("financialData", {}).get("returnOnEquity", {}).get("raw", 0.0) or 0.0) * 100,
         }
     except Exception as e:
-        print(f"[yahoo_engine] quoteSummary failed for {ticker}: {e}")
+        print(f"[yahoo_engine] quoteSummary parse failed for {ticker}: {e}")
         return {}
 
 
@@ -148,7 +216,7 @@ def analyze_market_direction():
     }
 
 
-def build_technicals(tickers, chunk_size=20, sleep_between_chunks=0.4):
+def build_technicals(tickers, chunk_size=15, sleep_between_chunks=1.0):
     """
     Uses the Yahoo 'spark' endpoint (cheap, batched) to compute RS ranks for the whole
     universe, then does a heavier per-ticker chart+quoteSummary fetch to get full
@@ -161,10 +229,12 @@ def build_technicals(tickers, chunk_size=20, sleep_between_chunks=0.4):
         chunk = all_tickers[i:i + chunk_size]
         encoded = [urllib.parse.quote(s) for s in chunk]
         url = f"https://query1.finance.yahoo.com/v7/finance/spark?symbols={','.join(encoded)}&range=1y&interval=1d"
-        req = urllib.request.Request(url, headers=HEADERS)
+        body, _ = _fetch_with_retry(url, timeout=20)
+        if body is None:
+            time.sleep(sleep_between_chunks)
+            continue
         try:
-            with urllib.request.urlopen(req, timeout=20) as res:
-                data = json.loads(res.read())
+            data = json.loads(body)
             for r in data.get("spark", {}).get("result", []):
                 symbol = r.get("symbol")
                 resp = r.get("response", [])
@@ -178,7 +248,7 @@ def build_technicals(tickers, chunk_size=20, sleep_between_chunks=0.4):
                     continue
                 scores[symbol] = calculate_weighted_rs_score(closes)
         except Exception as e:
-            print(f"[yahoo_engine] spark chunk failed ({chunk[0]}...): {e}")
+            print(f"[yahoo_engine] spark chunk parse failed ({chunk[0]}...): {e}")
         time.sleep(sleep_between_chunks)
 
     sorted_syms = sorted(scores.keys(), key=lambda s: scores[s])
@@ -226,7 +296,6 @@ def build_full_technicals_for_ticker(ticker, rs_info):
         "yahoo_roe": round(roe, 1),
         "rs_rating": rs_info.get("rs_rating", 50),
         "rs_score": rs_info.get("rs_score", 0.0),
-        # Downsample price history for chart payload size (weekly-ish granularity for older data)
         "price_history": candles[-260:],
         "updated_at": datetime.datetime.utcnow().isoformat() + "Z",
     }
