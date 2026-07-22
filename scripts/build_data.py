@@ -84,6 +84,7 @@ def main():
             fetched += 1
         else:
             failed += 1
+        time.sleep(0.5)  # avoid Yahoo rate limiting across large universes
         if fetched % 25 == 0:
             print(f"  ...{fetched} tickers processed")
     print(f"[build_data] technicals fetched={fetched} failed={failed}")
