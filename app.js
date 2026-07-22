@@ -482,6 +482,38 @@
   }
 
   // ---------------------------------------------------------------------
+  // CSV export (Sector Scanner)
+  // ---------------------------------------------------------------------
+  function exportScannerCsv() {
+    const rows = state.universes[state.currentUniverse] || [];
+    const sectorFilter = $('#scanner-sector-select').value;
+    const filtered = sectorFilter === 'ALL' ? rows : rows.filter(r => r.industry === sectorFilter);
+
+    const lines = [['Symbol', 'Company', 'Industry', 'RS Rating', 'CAN SLIM Score', 'Verdict'].join(',')];
+    filtered.forEach(row => {
+      const result = scoreStock(row);
+      const rs = rsRatingFor(row);
+      lines.push([
+        row.symbol,
+        `"${(row.company_name || '').replace(/"/g, '""')}"`,
+        row.industry,
+        rs,
+        result.total_score,
+        result.recommendation,
+      ].join(','));
+    });
+
+    const blob = new Blob([lines.join('\n')], { type: 'text/csv;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `canslim-scanner-${state.currentUniverse}-${sectorFilter}-${new Date().toISOString().slice(0, 10)}.csv`;
+    a.click();
+    URL.revokeObjectURL(url);
+    showToast(`Exported ${filtered.length} stocks to CSV`);
+  }
+
+  // ---------------------------------------------------------------------
   // Event wiring
   // ---------------------------------------------------------------------
   function wireEvents() {
@@ -523,6 +555,7 @@
     $('#btn-submit-analysis').addEventListener('click', handlePasteSubmit);
     $('#btn-copy-prompt').addEventListener('click', copyClaudePrompt);
     $('#scanner-sector-select').addEventListener('change', renderScanner);
+    $('#btn-export-csv').addEventListener('click', exportScannerCsv);
   }
 
   function debounce(fn, ms) {
