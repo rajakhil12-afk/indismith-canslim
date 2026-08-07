@@ -1,10 +1,10 @@
 {
-  "status": "Uptrend Under Pressure",
+  "status": "Market in Correction",
   "distribution_days": 3,
-  "score": 5,
-  "detail": "The 50-day EMA is below the 200-day EMA, showing long-term trend weakness.",
-  "nifty_price": 24636.0,
-  "nifty_50_ema": 24113.4,
-  "nifty_200_ema": 24629.12,
-  "generated_at": "2026-08-06T12:50:25.208132Z"
+  "score": 2,
+  "detail": "Nifty 50 (24570.65) is trading below its 200-day EMA (24634.69). Severe distribution/bearish conditions.",
+  "nifty_price": 24570.65,
+  "nifty_50_ema": 24131.33,
+  "nifty_200_ema": 24634.69,
+  "generated_at": "2026-08-07T11:37:54.999194Z"
 }
