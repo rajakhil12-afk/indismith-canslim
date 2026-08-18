@@ -301,11 +301,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 1770795.0,
-      "current_price": 1308.0,
+      "market_cap": 1782232.0,
+      "current_price": 1319.0,
       "roe": 7.71
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "SBIN": {
     "quarters": {
@@ -549,11 +549,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 989301.0,
-      "current_price": 1068.0,
+      "market_cap": 970071.0,
+      "current_price": 1054.0,
       "roe": 16.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ICICIBANK": {
     "quarters": {
@@ -783,11 +783,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 1015269.0,
-      "current_price": 1418.0,
+      "market_cap": 1010752.0,
+      "current_price": 1411.0,
       "roe": 15.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ADANIENT": {
     "quarters": {
@@ -1077,11 +1077,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 412695.0,
-      "current_price": 3040.0,
+      "market_cap": 406530.0,
+      "current_price": 3005.0,
       "roe": 2.57
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "SOLARINDS": {
     "quarters": {
@@ -1371,11 +1371,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 181102.0,
-      "current_price": 19980.0,
+      "market_cap": 182684.0,
+      "current_price": 20151.0,
       "roe": 33.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "INDIGO": {
     "quarters": {
@@ -1679,11 +1679,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 204558.0,
-      "current_price": 5310.0,
+      "market_cap": 201654.0,
+      "current_price": 5215.0,
       "roe": -30.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "AEGISLOG": {
     "quarters": {
@@ -2274,11 +2274,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 476475.0,
-      "current_price": 1169.0,
+      "market_cap": 453229.0,
+      "current_price": 1115.0,
       "roe": 35.7
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ASIANPAINT": {
     "quarters": {
@@ -2582,11 +2582,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 259839.0,
-      "current_price": 2710.0,
+      "market_cap": 251591.0,
+      "current_price": 2630.0,
       "roe": 22.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ADANIENSOL": {
     "quarters": {
@@ -2876,11 +2876,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 197879.0,
-      "current_price": 1616.0,
+      "market_cap": 195673.0,
+      "current_price": 1600.0,
       "roe": 2.81
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ADANIGREEN": {
     "quarters": {
@@ -3163,11 +3163,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 222377.0,
-      "current_price": 1348.0,
+      "market_cap": 215615.0,
+      "current_price": 1309.0,
       "roe": 7.1
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "LODHA": {
     "quarters": {
@@ -3450,11 +3450,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 123946.0,
-      "current_price": 1244.0,
+      "market_cap": 121340.0,
+      "current_price": 1214.0,
       "roe": 13.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "MOTHERSON": {
     "quarters": {
@@ -3758,11 +3758,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 177631.0,
-      "current_price": 168.0,
+      "market_cap": 179170.0,
+      "current_price": 170.0,
       "roe": 4.77
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TRENT": {
     "quarters": {
@@ -4066,11 +4066,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 158156.0,
-      "current_price": 2990.0,
+      "market_cap": 156717.0,
+      "current_price": 2943.0,
       "roe": 26.4
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ADANIPORTS": {
     "quarters": {
@@ -4360,11 +4360,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 388949.0,
-      "current_price": 1695.0,
+      "market_cap": 386495.0,
+      "current_price": 1680.0,
       "roe": 3.72
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "NESTLEIND": {
     "quarters": {
@@ -4654,11 +4654,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 291199.0,
-      "current_price": 1500.0,
+      "market_cap": 282276.0,
+      "current_price": 1464.0,
       "roe": 73.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "CIPLA": {
     "quarters": {
@@ -4962,11 +4962,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 116962.0,
-      "current_price": 1450.0,
+      "market_cap": 115794.0,
+      "current_price": 1432.0,
       "roe": 10.4
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "APOLLOHOSP": {
     "quarters": {
@@ -5270,11 +5270,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 128402.0,
-      "current_price": 8925.0,
+      "market_cap": 126207.0,
+      "current_price": 8818.0,
       "roe": 15.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "MAXHEALTH": {
     "quarters": {
@@ -5564,11 +5564,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 98570.0,
-      "current_price": 1009.0,
+      "market_cap": 98656.0,
+      "current_price": 1014.0,
       "roe": 8.46
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ETERNAL": {
     "quarters": {
@@ -5858,11 +5858,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 307364.0,
-      "current_price": 318.0,
+      "market_cap": 304951.0,
+      "current_price": 316.0,
       "roe": 7.19
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "GRASIM": {
     "quarters": {
@@ -6152,11 +6152,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 220903.0,
-      "current_price": 3249.0,
+      "market_cap": 222253.0,
+      "current_price": 3277.0,
       "roe": 0.77
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "DRREDDY": {
     "quarters": {
@@ -6446,11 +6446,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 100328.0,
-      "current_price": 1202.0,
+      "market_cap": 98533.0,
+      "current_price": 1180.0,
       "roe": 10.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BAJFINANCE": {
     "quarters": {
@@ -6694,11 +6694,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 677259.0,
-      "current_price": 1088.0,
+      "market_cap": 680029.0,
+      "current_price": 1093.0,
       "roe": 17.1
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "SUNPHARMA": {
     "quarters": {
@@ -7002,11 +7002,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 459269.0,
-      "current_price": 1925.0,
+      "market_cap": 450092.0,
+      "current_price": 1876.0,
       "roe": 12.7
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BAJAJ-AUTO": {
     "quarters": {
@@ -7310,11 +7310,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 319629.0,
-      "current_price": 11700.0,
+      "market_cap": 317601.0,
+      "current_price": 11598.0,
       "roe": 29.3
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "MARUTI": {
     "quarters": {
@@ -7618,11 +7618,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 436181.0,
-      "current_price": 13865.0,
+      "market_cap": 430110.0,
+      "current_price": 13720.0,
       "roe": 14.3
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TCS": {
     "quarters": {
@@ -7926,11 +7926,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 854262.0,
-      "current_price": 2359.0,
+      "market_cap": 824644.0,
+      "current_price": 2281.0,
       "roe": 65.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HCLTECH": {
     "quarters": {
@@ -8234,11 +8234,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 367957.0,
-      "current_price": 1360.0,
+      "market_cap": 352617.0,
+      "current_price": 1300.0,
       "roe": 40.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ONGC": {
     "quarters": {
@@ -8542,11 +8542,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 298206.0,
-      "current_price": 236.0,
+      "market_cap": 301096.0,
+      "current_price": 239.0,
       "roe": 10.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "WIPRO": {
     "quarters": {
@@ -8836,11 +8836,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 181894.0,
-      "current_price": 184.0,
+      "market_cap": 176352.0,
+      "current_price": 178.0,
       "roe": 19.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ABB": {
     "quarters": {
@@ -9130,11 +9130,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 162635.0,
-      "current_price": 7645.0,
+      "market_cap": 160241.0,
+      "current_price": 7560.0,
       "roe": 22.4
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ADANIPOWER": {
     "quarters": {
@@ -9424,11 +9424,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 396974.0,
-      "current_price": 205.0,
+      "market_cap": 393714.0,
+      "current_price": 204.0,
       "roe": 22.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "AMBUJACEM": {
     "quarters": {
@@ -9732,11 +9732,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 103840.0,
-      "current_price": 418.0,
+      "market_cap": 102486.0,
+      "current_price": 412.0,
       "roe": 7.7
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "DMART": {
     "quarters": {
@@ -10040,11 +10040,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 265726.0,
-      "current_price": 4060.0,
+      "market_cap": 259855.0,
+      "current_price": 3984.0,
       "roe": 13.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "AXISBANK": {
     "quarters": {
@@ -10274,11 +10274,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 377960.0,
-      "current_price": 1217.0,
+      "market_cap": 385448.0,
+      "current_price": 1241.0,
       "roe": 12.7
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BAJAJFINSV": {
     "quarters": {
@@ -10568,11 +10568,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 323390.0,
-      "current_price": 2030.0,
+      "market_cap": 321389.0,
+      "current_price": 2010.0,
       "roe": 15.4
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BAJAJHLDNG": {
     "quarters": {
@@ -10862,11 +10862,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 126919.0,
-      "current_price": 11407.0,
+      "market_cap": 125555.0,
+      "current_price": 11261.0,
       "roe": 11.1
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BANKBARODA": {
     "quarters": {
@@ -11110,11 +11110,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 128250.0,
-      "current_price": 248.0,
+      "market_cap": 125977.0,
+      "current_price": 244.0,
       "roe": 13.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BEL": {
     "quarters": {
@@ -11404,11 +11404,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 298901.0,
-      "current_price": 410.0,
+      "market_cap": 301126.0,
+      "current_price": 412.0,
       "roe": 27.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BPCL": {
     "quarters": {
@@ -11712,11 +11712,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 138248.0,
-      "current_price": 318.0,
+      "market_cap": 134692.0,
+      "current_price": 311.0,
       "roe": 29.9
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BHARTIARTL": {
     "quarters": {
@@ -12020,11 +12020,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 1240585.0,
-      "current_price": 1992.0,
+      "market_cap": 1207325.0,
+      "current_price": 1935.0,
       "roe": 10.7
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BOSCHLTD": {
     "quarters": {
@@ -12314,11 +12314,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 138901.0,
-      "current_price": 47061.0,
+      "market_cap": 143787.0,
+      "current_price": 48700.0,
       "roe": 14.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "BRITANNIA": {
     "quarters": {
@@ -12622,11 +12622,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 133421.0,
-      "current_price": 5550.0,
+      "market_cap": 132314.0,
+      "current_price": 5511.0,
       "roe": 60.1
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "CGPOWER": {
     "quarters": {
@@ -12930,11 +12930,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 141170.0,
-      "current_price": 893.0,
+      "market_cap": 140900.0,
+      "current_price": 894.0,
       "roe": 21.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "CANBK": {
     "quarters": {
@@ -13164,11 +13164,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 119233.0,
-      "current_price": 131.0,
+      "market_cap": 116882.0,
+      "current_price": 129.0,
       "roe": 18.1
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "CHOLAFIN": {
     "quarters": {
@@ -13398,11 +13398,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 163117.0,
-      "current_price": 1905.0,
+      "market_cap": 159683.0,
+      "current_price": 1873.0,
       "roe": 19.3
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "COALINDIA": {
     "quarters": {
@@ -13706,11 +13706,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 252856.0,
-      "current_price": 408.0,
+      "market_cap": 251038.0,
+      "current_price": 407.0,
       "roe": 84.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "CUMMINSIND": {
     "quarters": {
@@ -14014,11 +14014,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 149155.0,
-      "current_price": 5404.0,
+      "market_cap": 148413.0,
+      "current_price": 5354.0,
       "roe": 31.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "DLF": {
     "quarters": {
@@ -14322,11 +14322,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 164361.0,
-      "current_price": 663.0,
+      "market_cap": 164282.0,
+      "current_price": 667.0,
       "roe": 11.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "DIVISLAB": {
     "quarters": {
@@ -14630,11 +14630,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 225648.0,
-      "current_price": 8500.0,
+      "market_cap": 227940.0,
+      "current_price": 8600.0,
       "roe": 16.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "EICHERMOT": {
     "quarters": {
@@ -14938,11 +14938,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 223322.0,
-      "current_price": 8125.0,
+      "market_cap": 220469.0,
+      "current_price": 8036.0,
       "roe": 25.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "GAIL": {
     "quarters": {
@@ -15246,11 +15246,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 115061.0,
+      "market_cap": 113944.0,
       "current_price": 174.0,
       "roe": 9.63
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "GODREJCP": {
     "quarters": {
@@ -15540,11 +15540,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 96285.0,
-      "current_price": 936.0,
+      "market_cap": 95244.0,
+      "current_price": 931.0,
       "roe": 18.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HDFCAMC": {
     "quarters": {
@@ -15834,11 +15834,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 107132.0,
-      "current_price": 2485.0,
+      "market_cap": 108269.0,
+      "current_price": 2525.0,
       "roe": 32.9
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HDFCBANK": {
     "quarters": {
@@ -16068,11 +16068,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 1117719.0,
-      "current_price": 727.0,
+      "market_cap": 1113006.0,
+      "current_price": 723.0,
       "roe": 14.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HDFCLIFE": {
     "quarters": {
@@ -16362,11 +16362,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 116207.0,
-      "current_price": 536.0,
+      "market_cap": 116879.0,
+      "current_price": 538.0,
       "roe": 11.3
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HINDALCO": {
     "quarters": {
@@ -16670,11 +16670,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 232375.0,
-      "current_price": 1034.0,
+      "market_cap": 234251.0,
+      "current_price": 1043.0,
       "roe": 13.7
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HAL": {
     "quarters": {
@@ -16978,11 +16978,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 336656.0,
-      "current_price": 5030.0,
+      "market_cap": 341028.0,
+      "current_price": 5099.0,
       "roe": 24.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HINDUNILVR": {
     "quarters": {
@@ -17286,11 +17286,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 490607.0,
-      "current_price": 2089.0,
+      "market_cap": 476014.0,
+      "current_price": 2036.0,
       "roe": 31.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HINDZINC": {
     "quarters": {
@@ -17594,11 +17594,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 237564.0,
-      "current_price": 562.0,
+      "market_cap": 235816.0,
+      "current_price": 558.0,
       "roe": 76.4
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "HYUNDAI": {
     "quarters": {
@@ -17837,11 +17837,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 180857.0,
-      "current_price": 2199.0,
+      "market_cap": 177581.0,
+      "current_price": 2186.0,
       "roe": 30.3
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ITC": {
     "quarters": {
@@ -18131,11 +18131,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 346574.0,
-      "current_price": 278.0,
+      "market_cap": 338182.0,
+      "current_price": 270.0,
       "roe": 29.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "INDHOTEL": {
     "quarters": {
@@ -18439,11 +18439,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 102367.0,
-      "current_price": 721.0,
+      "market_cap": 102416.0,
+      "current_price": 720.0,
       "roe": 12.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "IOC": {
     "quarters": {
@@ -18747,11 +18747,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 196850.0,
-      "current_price": 139.0,
+      "market_cap": 194745.0,
+      "current_price": 138.0,
       "roe": 18.9
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "IRFC": {
     "quarters": {
@@ -18981,11 +18981,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 114376.0,
-      "current_price": 87.6,
+      "market_cap": 112585.0,
+      "current_price": 86.2,
       "roe": 12.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "JSWSTEEL": {
     "quarters": {
@@ -19289,11 +19289,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 309596.0,
-      "current_price": 1267.0,
+      "market_cap": 311993.0,
+      "current_price": 1280.0,
       "roe": 8.38
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "JINDALSTEL": {
     "quarters": {
@@ -19583,11 +19583,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 112774.0,
-      "current_price": 1100.0,
+      "market_cap": 112273.0,
+      "current_price": 1102.0,
       "roe": 8.12
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "JIOFIN": {
     "quarters": {
@@ -19870,11 +19870,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 164838.0,
-      "current_price": 249.0,
+      "market_cap": 162536.0,
+      "current_price": 246.0,
       "roe": 2.51
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "KOTAKBANK": {
     "quarters": {
@@ -20104,11 +20104,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 389344.0,
-      "current_price": 393.0,
+      "market_cap": 386295.0,
+      "current_price": 387.0,
       "roe": 11.1
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "LTM": {
     "quarters": {
@@ -20412,11 +20412,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 139740.0,
-      "current_price": 4715.0,
+      "market_cap": 135433.0,
+      "current_price": 4566.0,
       "roe": 23.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "LT": {
     "quarters": {
@@ -20706,11 +20706,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 559069.0,
-      "current_price": 4063.0,
+      "market_cap": 563103.0,
+      "current_price": 4082.0,
       "roe": 14.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "M&M": {
     "quarters": {
@@ -21014,11 +21014,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 427799.0,
-      "current_price": 3439.0,
+      "market_cap": 423590.0,
+      "current_price": 3416.0,
       "roe": 23.1
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "MAZDOCK": {
     "quarters": {
@@ -21308,11 +21308,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 104307.0,
-      "current_price": 2580.0,
+      "market_cap": 104314.0,
+      "current_price": 2586.0,
       "roe": 30.4
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "MUTHOOTFIN": {
     "quarters": {
@@ -21542,11 +21542,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 114407.0,
-      "current_price": 2845.0,
+      "market_cap": 116133.0,
+      "current_price": 2894.0,
       "roe": 30.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "NTPC": {
     "quarters": {
@@ -21684,7 +21684,7 @@
         163770.0,
         162009.0,
         170037.0,
-        165488.0,
+        165494.0,
         166752.0
       ],
       "expenses": [
@@ -21698,8 +21698,8 @@
         82221.0,
         120769.0,
         118085.0,
-        121071.0,
-        123593.0,
+        117722.0,
+        123371.0,
         126304.0
       ],
       "operating_profit": [
@@ -21713,8 +21713,8 @@
         38953.0,
         43001.0,
         43924.0,
-        48966.0,
-        41895.0,
+        52315.0,
+        42123.0,
         40448.0
       ],
       "opm_percent": [
@@ -21728,7 +21728,7 @@
         32.0,
         26.0,
         27.0,
-        29.0,
+        31.0,
         25.0,
         24.0
       ],
@@ -21850,11 +21850,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 329842.0,
-      "current_price": 341.0,
-      "roe": 13.8
+      "market_cap": 326875.0,
+      "current_price": 337.0,
+      "roe": 13.9
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "PIDILITIND": {
     "quarters": {
@@ -22158,11 +22158,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 173027.0,
-      "current_price": 1690.0,
+      "market_cap": 170200.0,
+      "current_price": 1673.0,
       "roe": 23.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "PFC": {
     "quarters": {
@@ -22392,11 +22392,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 124414.0,
-      "current_price": 377.0,
+      "market_cap": 123309.0,
+      "current_price": 374.0,
       "roe": 20.7
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "POWERGRID": {
     "quarters": {
@@ -22700,11 +22700,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 245285.0,
-      "current_price": 266.0,
+      "market_cap": 249164.0,
+      "current_price": 268.0,
       "roe": 15.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "PNB": {
     "quarters": {
@@ -22934,11 +22934,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 134459.0,
-      "current_price": 118.0,
+      "market_cap": 133917.0,
+      "current_price": 117.0,
       "roe": 12.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "RECLTD": {
     "quarters": {
@@ -23182,11 +23182,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 88835.0,
-      "current_price": 336.0,
+      "market_cap": 89530.0,
+      "current_price": 340.0,
       "roe": 20.3
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "SBILIFE": {
     "quarters": {
@@ -23476,11 +23476,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 179654.0,
-      "current_price": 1795.0,
+      "market_cap": 178435.0,
+      "current_price": 1779.0,
       "roe": 13.7
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "SHREECEM": {
     "quarters": {
@@ -23784,11 +23784,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 89615.0,
-      "current_price": 24705.0,
+      "market_cap": 88833.0,
+      "current_price": 24725.0,
       "roe": 7.8
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "SHRIRAMFIN": {
     "quarters": {
@@ -24018,11 +24018,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 265507.0,
-      "current_price": 1124.0,
+      "market_cap": 261520.0,
+      "current_price": 1110.0,
       "roe": 16.4
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ENRIN": {
     "quarters": {
@@ -24186,11 +24186,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 126137.0,
-      "current_price": 3536.0,
+      "market_cap": 127491.0,
+      "current_price": 3580.0,
       "roe": 50.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "SIEMENS": {
     "quarters": {
@@ -24480,11 +24480,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 139679.0,
-      "current_price": 3930.0,
+      "market_cap": 140807.0,
+      "current_price": 3953.0,
       "roe": 18.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TVSMOTOR": {
     "quarters": {
@@ -24774,11 +24774,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 206854.0,
-      "current_price": 4326.0,
+      "market_cap": 207173.0,
+      "current_price": 4357.0,
       "roe": 34.4
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TATACAP": {
     "quarters": {
@@ -24908,11 +24908,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 154577.0,
+      "market_cap": 154301.0,
       "current_price": 364.0,
       "roe": 9.63
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TATACONSUM": {
     "quarters": {
@@ -25216,11 +25216,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 106985.0,
-      "current_price": 1081.0,
+      "market_cap": 104832.0,
+      "current_price": 1063.0,
       "roe": 9.37
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TMCV": {
     "quarters": {
@@ -25365,11 +25365,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 174652.0,
-      "current_price": 474.0,
+      "market_cap": 173989.0,
+      "current_price": 472.0,
       "roe": 53.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TMPV": {
     "quarters": {
@@ -25673,11 +25673,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 123630.0,
-      "current_price": 334.0,
+      "market_cap": 118831.0,
+      "current_price": 323.0,
       "roe": 303.0
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TATAPOWER": {
     "quarters": {
@@ -25981,11 +25981,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 123348.0,
-      "current_price": 383.0,
+      "market_cap": 121615.0,
+      "current_price": 381.0,
       "roe": 6.09
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TATASTEEL": {
     "quarters": {
@@ -26289,11 +26289,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 228886.0,
-      "current_price": 183.0,
+      "market_cap": 231071.0,
+      "current_price": 185.0,
       "roe": 12.9
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TECHM": {
     "quarters": {
@@ -26597,11 +26597,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 159146.0,
-      "current_price": 1635.0,
+      "market_cap": 156078.0,
+      "current_price": 1592.0,
       "roe": 18.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TITAN": {
     "quarters": {
@@ -26905,11 +26905,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 452076.0,
-      "current_price": 5079.0,
+      "market_cap": 448235.0,
+      "current_price": 5050.0,
       "roe": 25.2
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "TORNTPHARM": {
     "quarters": {
@@ -27213,11 +27213,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 185552.0,
-      "current_price": 4840.0,
+      "market_cap": 189426.0,
+      "current_price": 4975.0,
       "roe": 27.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ULTRACEMCO": {
     "quarters": {
@@ -27521,11 +27521,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 343924.0,
-      "current_price": 11715.0,
+      "market_cap": 339810.0,
+      "current_price": 11495.0,
       "roe": 10.3
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "UNIONBANK": {
     "quarters": {
@@ -27755,11 +27755,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 143132.0,
-      "current_price": 187.0,
+      "market_cap": 142550.0,
+      "current_price": 186.0,
       "roe": 15.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "UNITDSPR": {
     "quarters": {
@@ -28063,11 +28063,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 109904.0,
-      "current_price": 1520.0,
+      "market_cap": 110703.0,
+      "current_price": 1522.0,
       "roe": 21.9
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "VBL": {
     "quarters": {
@@ -28371,11 +28371,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 147893.0,
-      "current_price": 435.0,
+      "market_cap": 148575.0,
+      "current_price": 439.0,
       "roe": 14.6
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "VEDL": {
     "quarters": {
@@ -28679,11 +28679,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 105619.0,
-      "current_price": 270.0,
+      "market_cap": 103275.0,
+      "current_price": 264.0,
       "roe": 17.3
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   },
   "ZYDUSLIFE": {
     "quarters": {
@@ -28987,10 +28987,10 @@
       ]
     },
     "ratios": {
-      "market_cap": 113163.0,
-      "current_price": 1140.0,
+      "market_cap": 111372.0,
+      "current_price": 1117.0,
       "roe": 16.5
     },
-    "_scraped_at": "2026-08-14T11:44:32.936721Z"
+    "_scraped_at": "2026-08-18T11:22:33.925504Z"
   }
 }
