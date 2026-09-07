@@ -1192,6 +1192,14 @@
     "isin": "INE089A01031"
   },
   {
+    "symbol": "DUMMYHEG",
+    "ticker": "DUMMYHEG.NS",
+    "company_name": "Dummy HEG Ltd.",
+    "industry": "Metals & Mining",
+    "series": "EQ",
+    "isin": "DUM545A01024"
+  },
+  {
     "symbol": "EIDPARRY",
     "ticker": "EIDPARRY.NS",
     "company_name": "E.I.D. Parry (India) Ltd.",
@@ -1568,14 +1576,6 @@
     "isin": "INE131A01031"
   },
   {
-    "symbol": "HEG",
-    "ticker": "HEG.NS",
-    "company_name": "H.E.G. Ltd.",
-    "industry": "Capital Goods",
-    "series": "EQ",
-    "isin": "INE545A01024"
-  },
-  {
     "symbol": "HBLENGINE",
     "ticker": "HBLENGINE.NS",
     "company_name": "HBL Engineering Ltd.",
@@ -1624,11 +1624,19 @@
     "isin": "INE795G01014"
   },
   {
+    "symbol": "HEG",
+    "ticker": "HEG.NS",
+    "company_name": "HEG Ltd.",
+    "industry": "Capital Goods",
+    "series": "BE",
+    "isin": "INE545A01024"
+  },
+  {
     "symbol": "HFCL",
     "ticker": "HFCL.NS",
     "company_name": "HFCL Ltd.",
     "industry": "Telecommunication",
-    "series": "EQ",
+    "series": "BE",
     "isin": "INE548A01028"
   },
   {
