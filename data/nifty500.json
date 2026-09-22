@@ -1624,11 +1624,11 @@
     "isin": "INE795G01014"
   },
   {
-    "symbol": "HEG",
-    "ticker": "HEG.NS",
-    "company_name": "HEG Ltd.",
+    "symbol": "HEGAM",
+    "ticker": "HEGAM.NS",
+    "company_name": "HEG Advanced Materials Ltd.",
     "industry": "Capital Goods",
-    "series": "BE",
+    "series": "EQ",
     "isin": "INE545A01024"
   },
   {
