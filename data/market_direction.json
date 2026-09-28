@@ -2,9 +2,9 @@
   "status": "Market in Correction",
   "distribution_days": 9,
   "score": 2,
-  "detail": "Nifty 50 (23140.50) is trading below its 200-day EMA (24479.38). Severe distribution/bearish conditions.",
-  "nifty_price": 23140.5,
-  "nifty_50_ema": 23803.81,
-  "nifty_200_ema": 24479.38,
-  "generated_at": "2026-09-25T15:39:59.577399Z"
+  "detail": "Nifty 50 (22780.25) is trading below its 200-day EMA (24468.14). Severe distribution/bearish conditions.",
+  "nifty_price": 22780.25,
+  "nifty_50_ema": 23763.68,
+  "nifty_200_ema": 24468.14,
+  "generated_at": "2026-09-28T18:18:25.304785Z"
 }
