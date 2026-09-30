@@ -88,6 +88,14 @@
     "isin": "INE238A01034"
   },
   {
+    "symbol": "BSE",
+    "ticker": "BSE.NS",
+    "company_name": "BSE Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE118H01025"
+  },
+  {
     "symbol": "BAJAJ-AUTO",
     "ticker": "BAJAJ-AUTO.NS",
     "company_name": "Bajaj Auto Ltd.",
@@ -344,6 +352,14 @@
     "isin": "INE267A01025"
   },
   {
+    "symbol": "POWERINDIA",
+    "ticker": "POWERINDIA.NS",
+    "company_name": "Hitachi Energy India Ltd.",
+    "industry": "Capital Goods",
+    "series": "EQ",
+    "isin": "INE07Y701011"
+  },
+  {
     "symbol": "HYUNDAI",
     "ticker": "HYUNDAI.NS",
     "company_name": "Hyundai Motor India Ltd.",
@@ -366,14 +382,6 @@
     "industry": "Fast Moving Consumer Goods",
     "series": "EQ",
     "isin": "INE154A01025"
-  },
-  {
-    "symbol": "INDHOTEL",
-    "ticker": "INDHOTEL.NS",
-    "company_name": "Indian Hotels Co. Ltd.",
-    "industry": "Consumer Services",
-    "series": "EQ",
-    "isin": "INE053A01029"
   },
   {
     "symbol": "IOC",
@@ -456,14 +464,6 @@
     "isin": "INE018A01030"
   },
   {
-    "symbol": "LODHA",
-    "ticker": "LODHA.NS",
-    "company_name": "Lodha Developers Ltd.",
-    "industry": "Realty",
-    "series": "EQ",
-    "isin": "INE670K01029"
-  },
-  {
     "symbol": "M&M",
     "ticker": "M&M.NS",
     "company_name": "Mahindra & Mahindra Ltd.",
@@ -536,6 +536,14 @@
     "isin": "INE318A01026"
   },
   {
+    "symbol": "POLYCAB",
+    "ticker": "POLYCAB.NS",
+    "company_name": "Polycab India Ltd.",
+    "industry": "Capital Goods",
+    "series": "EQ",
+    "isin": "INE455K01017"
+  },
+  {
     "symbol": "PFC",
     "ticker": "PFC.NS",
     "company_name": "Power Finance Corporation Ltd.",
@@ -560,14 +568,6 @@
     "isin": "INE160A01022"
   },
   {
-    "symbol": "RECLTD",
-    "ticker": "RECLTD.NS",
-    "company_name": "REC Ltd.",
-    "industry": "Financial Services",
-    "series": "EQ",
-    "isin": "INE020B01018"
-  },
-  {
     "symbol": "RELIANCE",
     "ticker": "RELIANCE.NS",
     "company_name": "Reliance Industries Ltd.",
@@ -590,14 +590,6 @@
     "industry": "Automobile and Auto Components",
     "series": "EQ",
     "isin": "INE775A01035"
-  },
-  {
-    "symbol": "SHREECEM",
-    "ticker": "SHREECEM.NS",
-    "company_name": "Shree Cement Ltd.",
-    "industry": "Construction Materials",
-    "series": "EQ",
-    "isin": "INE070A01015"
   },
   {
     "symbol": "SHRIRAMFIN",
@@ -760,14 +752,6 @@
     "isin": "INE692A01016"
   },
   {
-    "symbol": "UNITDSPR",
-    "ticker": "UNITDSPR.NS",
-    "company_name": "United Spirits Ltd.",
-    "industry": "Fast Moving Consumer Goods",
-    "series": "EQ",
-    "isin": "INE854D01024"
-  },
-  {
     "symbol": "VBL",
     "ticker": "VBL.NS",
     "company_name": "Varun Beverages Ltd.",
@@ -776,12 +760,28 @@
     "isin": "INE200M01039"
   },
   {
+    "symbol": "VAML",
+    "ticker": "VAML.NS",
+    "company_name": "Vedanta Aluminium Metal Ltd.",
+    "industry": "Metals & Mining",
+    "series": "EQ",
+    "isin": "INE1CDF01017"
+  },
+  {
     "symbol": "VEDL",
     "ticker": "VEDL.NS",
     "company_name": "Vedanta Ltd.",
     "industry": "Metals & Mining",
     "series": "EQ",
     "isin": "INE205A01025"
+  },
+  {
+    "symbol": "IDEA",
+    "ticker": "IDEA.NS",
+    "company_name": "Vodafone Idea Ltd.",
+    "industry": "Telecommunication",
+    "series": "EQ",
+    "isin": "INE669E01016"
   },
   {
     "symbol": "WIPRO",

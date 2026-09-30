@@ -40,6 +40,14 @@
     "isin": "INE238A01034"
   },
   {
+    "symbol": "BSE",
+    "ticker": "BSE.NS",
+    "company_name": "BSE Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE118H01025"
+  },
+  {
     "symbol": "BAJAJ-AUTO",
     "ticker": "BAJAJ-AUTO.NS",
     "company_name": "Bajaj Auto Ltd.",
@@ -390,13 +398,5 @@
     "industry": "Construction Materials",
     "series": "EQ",
     "isin": "INE481G01011"
-  },
-  {
-    "symbol": "WIPRO",
-    "ticker": "WIPRO.NS",
-    "company_name": "Wipro Ltd.",
-    "industry": "Information Technology",
-    "series": "EQ",
-    "isin": "INE075A01022"
   }
 ]
