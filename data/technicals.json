@@ -1988,10 +1988,10 @@
         "high": 249.1,
         "low": 242.5,
         "close": 243.2,
-        "volume": 5401157
+        "volume": 5411850
       }
     ],
-    "updated_at": "2026-10-19T17:22:51.768725Z"
+    "updated_at": "2026-10-20T15:34:40.781686Z"
   },
   "BSOFT.NS": {
     "ticker": "BSOFT.NS",
@@ -3985,7 +3985,7 @@
         "volume": 1302001
       }
     ],
-    "updated_at": "2026-10-19T17:16:56.438888Z"
+    "updated_at": "2026-10-20T15:29:52.177499Z"
   },
   "KPITTECH.NS": {
     "ticker": "KPITTECH.NS",
@@ -5976,10 +5976,10 @@
         "high": 558.7,
         "low": 534.5,
         "close": 536.95,
-        "volume": 1570759
+        "volume": 1570789
       }
     ],
-    "updated_at": "2026-10-19T17:19:46.439995Z"
+    "updated_at": "2026-10-20T15:32:13.026412Z"
   },
   "INFY.NS": {
     "ticker": "INFY.NS",
@@ -7970,10 +7970,10 @@
         "high": 1156.95,
         "low": 1125.1,
         "close": 1130.7,
-        "volume": 13255049
+        "volume": 13258477
       }
     ],
-    "updated_at": "2026-10-19T17:19:21.751961Z"
+    "updated_at": "2026-10-20T15:31:53.074393Z"
   },
   "HCLTECH.NS": {
     "ticker": "HCLTECH.NS",
@@ -9964,10 +9964,10 @@
         "high": 1399.5,
         "low": 1359.0,
         "close": 1379.9,
-        "volume": 3992586
+        "volume": 3994293
       }
     ],
-    "updated_at": "2026-10-19T17:18:36.544267Z"
+    "updated_at": "2026-10-20T15:31:15.473551Z"
   },
   "JAINREC.NS": {
     "ticker": "JAINREC.NS",
@@ -11958,10 +11958,10 @@
         "high": 297.3,
         "low": 283.5,
         "close": 285.65,
-        "volume": 709121
+        "volume": 709296
       }
     ],
-    "updated_at": "2026-10-19T17:19:35.045316Z"
+    "updated_at": "2026-10-20T15:32:03.794490Z"
   },
   "TCS.NS": {
     "ticker": "TCS.NS",
@@ -13952,10 +13952,10 @@
         "high": 2497.0,
         "low": 2432.1,
         "close": 2460.9,
-        "volume": 8674856
+        "volume": 8676373
       }
     ],
-    "updated_at": "2026-10-19T17:22:13.596482Z"
+    "updated_at": "2026-10-20T15:34:09.453513Z"
   },
   "INDIANB.NS": {
     "ticker": "INDIANB.NS",
@@ -15946,10 +15946,10 @@
         "high": 874.65,
         "low": 855.15,
         "close": 856.85,
-        "volume": 1105120
+        "volume": 1105179
       }
     ],
-    "updated_at": "2026-10-19T17:19:11.296232Z"
+    "updated_at": "2026-10-20T15:31:44.479531Z"
   },
   "LTM.NS": {
     "ticker": "LTM.NS",
@@ -17940,10 +17940,10 @@
         "high": 4360.6,
         "low": 4142.0,
         "close": 4264.9,
-        "volume": 850770
+        "volume": 850775
       }
     ],
-    "updated_at": "2026-10-19T17:20:05.920800Z"
+    "updated_at": "2026-10-20T15:32:26.068278Z"
   },
   "TATAELXSI.NS": {
     "ticker": "TATAELXSI.NS",
@@ -19934,10 +19934,10 @@
         "high": 3867.2,
         "low": 3765.3,
         "close": 3790.0,
-        "volume": 477718
+        "volume": 477758
       }
     ],
-    "updated_at": "2026-10-19T17:22:15.316236Z"
+    "updated_at": "2026-10-20T15:34:10.954905Z"
   },
   "NATCOPHARM.NS": {
     "ticker": "NATCOPHARM.NS",
@@ -21928,10 +21928,10 @@
         "high": 809.8,
         "low": 779.5,
         "close": 800.85,
-        "volume": 768048
+        "volume": 768065
       }
     ],
-    "updated_at": "2026-10-19T17:20:33.480347Z"
+    "updated_at": "2026-10-20T15:32:48.637170Z"
   },
   "MRPL.NS": {
     "ticker": "MRPL.NS",
@@ -23922,10 +23922,10 @@
         "high": 177.34,
         "low": 172.5,
         "close": 173.72,
-        "volume": 9477939
+        "volume": 9487154
       }
     ],
-    "updated_at": "2026-10-19T17:20:20.862925Z"
+    "updated_at": "2026-10-20T15:32:38.405991Z"
   },
   "BLS.NS": {
     "ticker": "BLS.NS",
@@ -25916,10 +25916,10 @@
         "high": 228.6,
         "low": 216.01,
         "close": 221.03,
-        "volume": 616086
+        "volume": 616731
       }
     ],
-    "updated_at": "2026-10-19T17:16:32.479822Z"
+    "updated_at": "2026-10-20T15:29:32.630916Z"
   },
   "FORCEMOT.NS": {
     "ticker": "FORCEMOT.NS",
@@ -27910,10 +27910,10 @@
         "high": 17953.0,
         "low": 17369.0,
         "close": 17563.0,
-        "volume": 48010
+        "volume": 48020
       }
     ],
-    "updated_at": "2026-10-19T17:18:10.911147Z"
+    "updated_at": "2026-10-20T15:30:55.169537Z"
   },
   "RVNL.NS": {
     "ticker": "RVNL.NS",
@@ -29904,10 +29904,10 @@
         "high": 200.95,
         "low": 194.01,
         "close": 194.5,
-        "volume": 1969607
+        "volume": 1970644
       }
     ],
-    "updated_at": "2026-10-19T17:21:28.167805Z"
+    "updated_at": "2026-10-20T15:33:32.318741Z"
   },
   "SUPREMEIND.NS": {
     "ticker": "SUPREMEIND.NS",
@@ -31898,10 +31898,10 @@
         "high": 3650.7,
         "low": 3588.1,
         "close": 3620.7,
-        "volume": 174265
+        "volume": 174317
       }
     ],
-    "updated_at": "2026-10-19T17:22:03.169713Z"
+    "updated_at": "2026-10-20T15:34:00.803195Z"
   },
   "SUNTV.NS": {
     "ticker": "SUNTV.NS",
@@ -33892,10 +33892,10 @@
         "high": 648.9,
         "low": 635.0,
         "close": 639.95,
-        "volume": 340886
+        "volume": 340908
       }
     ],
-    "updated_at": "2026-10-19T17:22:01.400663Z"
+    "updated_at": "2026-10-20T15:33:59.383266Z"
   },
   "ONGC.NS": {
     "ticker": "ONGC.NS",
@@ -35886,10 +35886,10 @@
         "high": 226.25,
         "low": 223.0,
         "close": 225.0,
-        "volume": 5257311
+        "volume": 5262091
       }
     ],
-    "updated_at": "2026-10-19T17:20:51.194889Z"
+    "updated_at": "2026-10-20T15:33:03.133499Z"
   },
   "KALYANKJIL.NS": {
     "ticker": "KALYANKJIL.NS",
@@ -37880,10 +37880,10 @@
         "high": 561.8,
         "low": 550.0,
         "close": 551.3,
-        "volume": 2293218
+        "volume": 2293449
       }
     ],
-    "updated_at": "2026-10-19T17:19:53.758388Z"
+    "updated_at": "2026-10-20T15:32:15.915069Z"
   },
   "WIPRO.NS": {
     "ticker": "WIPRO.NS",
@@ -37893,7 +37893,7 @@
     "ema_200": 198.5,
     "above_50_ema": true,
     "above_200_ema": false,
-    "volume_ratio": 0.62,
+    "volume_ratio": 0.63,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -39874,10 +39874,10 @@
         "high": 185.85,
         "low": 181.48,
         "close": 182.14,
-        "volume": 15769608
+        "volume": 15779196
       }
     ],
-    "updated_at": "2026-10-19T17:23:01.311155Z"
+    "updated_at": "2026-10-20T15:34:48.795608Z"
   },
   "KAYNES.NS": {
     "ticker": "KAYNES.NS",
@@ -39891,7 +39891,7 @@
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
-    "rs_rating": 68,
+    "rs_rating": 67,
     "rs_score": -0.95,
     "price_history": [
       {
@@ -41868,10 +41868,10 @@
         "high": 3290.9,
         "low": 3236.8,
         "close": 3250.0,
-        "volume": 269043
+        "volume": 269611
       }
     ],
-    "updated_at": "2026-10-19T17:19:55.477754Z"
+    "updated_at": "2026-10-20T15:32:17.317982Z"
   },
   "PINELABS.NS": {
     "ticker": "PINELABS.NS",
@@ -43726,10 +43726,10 @@
         "high": 165.89,
         "low": 163.0,
         "close": 163.79,
-        "volume": 4375589
+        "volume": 4377111
       }
     ],
-    "updated_at": "2026-10-19T17:21:10.370470Z"
+    "updated_at": "2026-10-20T15:33:18.846178Z"
   },
   "BAYERCROP.NS": {
     "ticker": "BAYERCROP.NS",
@@ -47754,10 +47754,10 @@
         "high": 182.99,
         "low": 172.42,
         "close": 180.7,
-        "volume": 45873934
+        "volume": 45883930
       }
     ],
-    "updated_at": "2026-10-19T17:22:44.056154Z"
+    "updated_at": "2026-10-20T15:34:34.297811Z"
   },
   "ZENSARTECH.NS": {
     "ticker": "ZENSARTECH.NS",
@@ -49748,10 +49748,10 @@
         "high": 523.7,
         "low": 498.9,
         "close": 513.15,
-        "volume": 1621634
+        "volume": 1621882
       }
     ],
-    "updated_at": "2026-10-19T17:23:06.601242Z"
+    "updated_at": "2026-10-20T15:34:53.151634Z"
   },
   "JINDALSTEL.NS": {
     "ticker": "JINDALSTEL.NS",
@@ -51742,10 +51742,10 @@
         "high": 1053.8,
         "low": 1032.7,
         "close": 1041.8,
-        "volume": 935689
+        "volume": 935822
       }
     ],
-    "updated_at": "2026-10-19T17:19:39.452461Z"
+    "updated_at": "2026-10-20T15:32:07.363308Z"
   },
   "INDUSTOWER.NS": {
     "ticker": "INDUSTOWER.NS",
@@ -53736,10 +53736,10 @@
         "high": 390.9,
         "low": 379.8,
         "close": 382.4,
-        "volume": 4693388
+        "volume": 4693865
       }
     ],
-    "updated_at": "2026-10-19T17:19:19.099707Z"
+    "updated_at": "2026-10-20T15:31:50.954914Z"
   },
   "NATIONALUM.NS": {
     "ticker": "NATIONALUM.NS",
@@ -55730,10 +55730,10 @@
         "high": 324.25,
         "low": 316.9,
         "close": 318.0,
-        "volume": 2825431
+        "volume": 2826003
       }
     ],
-    "updated_at": "2026-10-19T17:20:42.312441Z"
+    "updated_at": "2026-10-20T15:32:55.960075Z"
   },
   "PERSISTENT.NS": {
     "ticker": "PERSISTENT.NS",
@@ -57724,10 +57724,10 @@
         "high": 5909.0,
         "low": 5635.0,
         "close": 5690.0,
-        "volume": 1277079
+        "volume": 1277186
       }
     ],
-    "updated_at": "2026-10-19T17:21:06.026585Z"
+    "updated_at": "2026-10-20T15:33:15.328877Z"
   },
   "FIRSTCRY.NS": {
     "ticker": "FIRSTCRY.NS",
@@ -59718,10 +59718,10 @@
         "high": 180.01,
         "low": 173.16,
         "close": 174.18,
-        "volume": 836266
+        "volume": 836270
       }
     ],
-    "updated_at": "2026-10-19T17:17:00.114409Z"
+    "updated_at": "2026-10-20T15:29:55.587105Z"
   },
   "APLAPOLLO.NS": {
     "ticker": "APLAPOLLO.NS",
@@ -61712,10 +61712,10 @@
         "high": 2155.8,
         "low": 2121.0,
         "close": 2144.6,
-        "volume": 381837
+        "volume": 381848
       }
     ],
-    "updated_at": "2026-10-19T17:15:45.463133Z"
+    "updated_at": "2026-10-20T15:28:54.484102Z"
   },
   "PATANJALI.NS": {
     "ticker": "PATANJALI.NS",
@@ -63706,10 +63706,10 @@
         "high": 367.0,
         "low": 359.45,
         "close": 364.8,
-        "volume": 4011349
+        "volume": 4011352
       }
     ],
-    "updated_at": "2026-10-19T17:21:05.147969Z"
+    "updated_at": "2026-10-20T15:33:14.611137Z"
   },
   "KEC.NS": {
     "ticker": "KEC.NS",
@@ -65700,10 +65700,10 @@
         "high": 352.55,
         "low": 342.6,
         "close": 343.55,
-        "volume": 948010
+        "volume": 948088
       }
     ],
-    "updated_at": "2026-10-19T17:19:56.339943Z"
+    "updated_at": "2026-10-20T15:32:18.041442Z"
   },
   "SWIGGY.NS": {
     "ticker": "SWIGGY.NS",
@@ -67694,10 +67694,10 @@
         "high": 235.5,
         "low": 228.5,
         "close": 229.0,
-        "volume": 4799471
+        "volume": 4800001
       }
     ],
-    "updated_at": "2026-10-19T17:22:05.755578Z"
+    "updated_at": "2026-10-20T15:34:02.972918Z"
   },
   "MUTHOOTFIN.NS": {
     "ticker": "MUTHOOTFIN.NS",
@@ -69688,10 +69688,10 @@
         "high": 2623.4,
         "low": 2552.0,
         "close": 2566.0,
-        "volume": 354241
+        "volume": 354302
       }
     ],
-    "updated_at": "2026-10-19T17:20:32.543719Z"
+    "updated_at": "2026-10-20T15:32:47.912886Z"
   },
   "ICICIPRULI.NS": {
     "ticker": "ICICIPRULI.NS",
@@ -71682,10 +71682,10 @@
         "high": 448.0,
         "low": 435.05,
         "close": 438.0,
-        "volume": 1000147
+        "volume": 1000580
       }
     ],
-    "updated_at": "2026-10-19T17:18:59.844391Z"
+    "updated_at": "2026-10-20T15:31:34.742819Z"
   },
   "SBICARD.NS": {
     "ticker": "SBICARD.NS",
@@ -73676,10 +73676,10 @@
         "high": 581.4,
         "low": 565.3,
         "close": 567.4,
-        "volume": 1501952
+        "volume": 1501957
       }
     ],
-    "updated_at": "2026-10-19T17:21:35.238470Z"
+    "updated_at": "2026-10-20T15:33:38.044773Z"
   },
   "INDIAMART.NS": {
     "ticker": "INDIAMART.NS",
@@ -75670,10 +75670,10 @@
         "high": 1630.0,
         "low": 1590.0,
         "close": 1595.8,
-        "volume": 40154
+        "volume": 40168
       }
     ],
-    "updated_at": "2026-10-19T17:19:10.443725Z"
+    "updated_at": "2026-10-20T15:31:43.760682Z"
   },
   "GPIL.NS": {
     "ticker": "GPIL.NS",
@@ -77667,7 +77667,7 @@
         "volume": 512824
       }
     ],
-    "updated_at": "2026-10-19T17:18:24.885481Z"
+    "updated_at": "2026-10-20T15:31:05.898510Z"
   },
   "BANKBARODA.NS": {
     "ticker": "BANKBARODA.NS",
@@ -79658,10 +79658,10 @@
         "high": 238.7,
         "low": 229.75,
         "close": 238.2,
-        "volume": 13629493
+        "volume": 13633759
       }
     ],
-    "updated_at": "2026-10-19T17:16:42.133439Z"
+    "updated_at": "2026-10-20T15:29:40.440831Z"
   },
   "DCMSHRIRAM.NS": {
     "ticker": "DCMSHRIRAM.NS",
@@ -83678,10 +83678,10 @@
         "high": 122.78,
         "low": 118.94,
         "close": 122.0,
-        "volume": 31035024
+        "volume": 31038836
       }
     ],
-    "updated_at": "2026-10-19T17:17:09.038918Z"
+    "updated_at": "2026-10-20T15:30:02.909989Z"
   },
   "ASTRAL.NS": {
     "ticker": "ASTRAL.NS",
@@ -85672,10 +85672,10 @@
         "high": 1438.2,
         "low": 1418.5,
         "close": 1428.0,
-        "volume": 243807
+        "volume": 243811
       }
     ],
-    "updated_at": "2026-10-19T17:16:23.677679Z"
+    "updated_at": "2026-10-20T15:29:25.436883Z"
   },
   "IRFC.NS": {
     "ticker": "IRFC.NS",
@@ -87666,10 +87666,10 @@
         "high": 80.6,
         "low": 78.0,
         "close": 78.44,
-        "volume": 8408491
+        "volume": 8414248
       }
     ],
-    "updated_at": "2026-10-19T17:19:16.472897Z"
+    "updated_at": "2026-10-20T15:31:48.789360Z"
   },
   "UBL.NS": {
     "ticker": "UBL.NS",
@@ -89660,10 +89660,10 @@
         "high": 1208.9,
         "low": 1191.5,
         "close": 1204.8,
-        "volume": 557495
+        "volume": 557500
       }
     ],
-    "updated_at": "2026-10-19T17:22:44.936869Z"
+    "updated_at": "2026-10-20T15:34:35.017107Z"
   },
   "WAAREEENER.NS": {
     "ticker": "WAAREEENER.NS",
@@ -91654,10 +91654,10 @@
         "high": 2576.3,
         "low": 2498.0,
         "close": 2515.0,
-        "volume": 878040
+        "volume": 878281
       }
     ],
-    "updated_at": "2026-10-19T17:22:57.807190Z"
+    "updated_at": "2026-10-20T15:34:45.806493Z"
   },
   "CENTRALBK.NS": {
     "ticker": "CENTRALBK.NS",
@@ -93648,10 +93648,10 @@
         "high": 31.9,
         "low": 30.9,
         "close": 30.97,
-        "volume": 11467809
+        "volume": 11474831
       }
     ],
-    "updated_at": "2026-10-19T17:17:17.150528Z"
+    "updated_at": "2026-10-20T15:30:09.420333Z"
   },
   "OIL.NS": {
     "ticker": "OIL.NS",
@@ -95642,10 +95642,10 @@
         "high": 451.25,
         "low": 444.9,
         "close": 449.0,
-        "volume": 925238
+        "volume": 925310
       }
     ],
-    "updated_at": "2026-10-19T17:20:52.045803Z"
+    "updated_at": "2026-10-20T15:33:03.865369Z"
   },
   "LTFOODS.NS": {
     "ticker": "LTFOODS.NS",
@@ -97636,10 +97636,10 @@
         "high": 416.45,
         "low": 398.0,
         "close": 404.85,
-        "volume": 701750
+        "volume": 701850
       }
     ],
-    "updated_at": "2026-10-19T17:20:05.048332Z"
+    "updated_at": "2026-10-20T15:32:25.261678Z"
   },
   "GICRE.NS": {
     "ticker": "GICRE.NS",
@@ -99633,7 +99633,7 @@
         "volume": 398690
       }
     ],
-    "updated_at": "2026-10-19T17:18:19.507813Z"
+    "updated_at": "2026-10-20T15:31:01.610260Z"
   },
   "PIIND.NS": {
     "ticker": "PIIND.NS",
@@ -101624,10 +101624,10 @@
         "high": 2219.6,
         "low": 2151.0,
         "close": 2163.5,
-        "volume": 325644
+        "volume": 325681
       }
     ],
-    "updated_at": "2026-10-19T17:20:59.908865Z"
+    "updated_at": "2026-10-20T15:33:10.303368Z"
   },
   "DMART.NS": {
     "ticker": "DMART.NS",
@@ -103618,10 +103618,10 @@
         "high": 3360.0,
         "low": 3296.0,
         "close": 3304.0,
-        "volume": 420593
+        "volume": 421181
       }
     ],
-    "updated_at": "2026-10-19T17:16:28.958884Z"
+    "updated_at": "2026-10-20T15:29:29.719121Z"
   },
   "JSL.NS": {
     "ticker": "JSL.NS",
@@ -105612,10 +105612,10 @@
         "high": 747.25,
         "low": 728.2,
         "close": 734.9,
-        "volume": 884781
+        "volume": 884801
       }
     ],
-    "updated_at": "2026-10-19T17:19:38.588424Z"
+    "updated_at": "2026-10-20T15:32:06.657568Z"
   },
   "SARDAEN.NS": {
     "ticker": "SARDAEN.NS",
@@ -107606,10 +107606,10 @@
         "high": 492.8,
         "low": 480.5,
         "close": 481.0,
-        "volume": 211106
+        "volume": 211107
       }
     ],
-    "updated_at": "2026-10-19T17:21:44.297247Z"
+    "updated_at": "2026-10-20T15:33:45.541141Z"
   },
   "EIDPARRY.NS": {
     "ticker": "EIDPARRY.NS",
@@ -109600,10 +109600,10 @@
         "high": 690.0,
         "low": 671.0,
         "close": 674.05,
-        "volume": 272664
+        "volume": 272669
       }
     ],
-    "updated_at": "2026-10-19T17:17:52.867441Z"
+    "updated_at": "2026-10-20T15:30:40.221854Z"
   },
   "TATASTEEL.NS": {
     "ticker": "TATASTEEL.NS",
@@ -111594,10 +111594,10 @@
         "high": 176.4,
         "low": 173.87,
         "close": 174.04,
-        "volume": 12635985
+        "volume": 12638617
       }
     ],
-    "updated_at": "2026-10-19T17:22:20.180488Z"
+    "updated_at": "2026-10-20T15:34:14.611358Z"
   },
   "HEROMOTOCO.NS": {
     "ticker": "HEROMOTOCO.NS",
@@ -113588,10 +113588,10 @@
         "high": 5299.0,
         "low": 5183.0,
         "close": 5230.0,
-        "volume": 366027
+        "volume": 366042
       }
     ],
-    "updated_at": "2026-10-19T17:18:43.407838Z"
+    "updated_at": "2026-10-20T15:31:21.788858Z"
   },
   "TORNTPOWER.NS": {
     "ticker": "TORNTPOWER.NS",
@@ -115582,10 +115582,10 @@
         "high": 1227.0,
         "low": 1202.0,
         "close": 1210.0,
-        "volume": 118489
+        "volume": 118498
       }
     ],
-    "updated_at": "2026-10-19T17:22:34.078859Z"
+    "updated_at": "2026-10-20T15:34:26.299672Z"
   },
   "SBILIFE.NS": {
     "ticker": "SBILIFE.NS",
@@ -117579,7 +117579,7 @@
         "volume": 948959
       }
     ],
-    "updated_at": "2026-10-19T17:21:36.091781Z"
+    "updated_at": "2026-10-20T15:33:38.748219Z"
   },
   "PNB.NS": {
     "ticker": "PNB.NS",
@@ -119570,10 +119570,10 @@
         "high": 125.22,
         "low": 120.0,
         "close": 121.9,
-        "volume": 78107320
+        "volume": 78115490
       }
     ],
-    "updated_at": "2026-10-19T17:21:21.556571Z"
+    "updated_at": "2026-10-20T15:33:27.356774Z"
   },
   "SUNDARMFIN.NS": {
     "ticker": "SUNDARMFIN.NS",
@@ -121564,10 +121564,10 @@
         "high": 4267.0,
         "low": 4200.0,
         "close": 4217.0,
-        "volume": 29377
+        "volume": 29378
       }
     ],
-    "updated_at": "2026-10-19T17:22:02.244235Z"
+    "updated_at": "2026-10-20T15:34:00.080075Z"
   },
   "HINDCOPPER.NS": {
     "ticker": "HINDCOPPER.NS",
@@ -123558,10 +123558,10 @@
         "high": 460.6,
         "low": 438.1,
         "close": 441.1,
-        "volume": 4247874
+        "volume": 4249459
       }
     ],
-    "updated_at": "2026-10-19T17:18:48.172217Z"
+    "updated_at": "2026-10-20T15:31:25.554901Z"
   },
   "HDFCLIFE.NS": {
     "ticker": "HDFCLIFE.NS",
@@ -125552,10 +125552,10 @@
         "high": 555.75,
         "low": 542.3,
         "close": 545.5,
-        "volume": 1519888
+        "volume": 1519939
       }
     ],
-    "updated_at": "2026-10-19T17:18:39.975361Z"
+    "updated_at": "2026-10-20T15:31:18.699505Z"
   },
   "RAMCOCEM.NS": {
     "ticker": "RAMCOCEM.NS",
@@ -127538,10 +127538,10 @@
         "high": 807.5,
         "low": 783.45,
         "close": 787.35,
-        "volume": 90227
+        "volume": 90228
       }
     ],
-    "updated_at": "2026-10-19T17:22:28.825682Z"
+    "updated_at": "2026-10-20T15:34:21.979810Z"
   },
   "LTTS.NS": {
     "ticker": "LTTS.NS",
@@ -129532,10 +129532,10 @@
         "high": 3735.6,
         "low": 3580.0,
         "close": 3611.3,
-        "volume": 104713
+        "volume": 104714
       }
     ],
-    "updated_at": "2026-10-19T17:20:02.457232Z"
+    "updated_at": "2026-10-20T15:32:23.146337Z"
   },
   "JWL.NS": {
     "ticker": "JWL.NS",
@@ -131526,10 +131526,10 @@
         "high": 207.56,
         "low": 195.6,
         "close": 196.73,
-        "volume": 1323744
+        "volume": 1324579
       }
     ],
-    "updated_at": "2026-10-19T17:19:43.032266Z"
+    "updated_at": "2026-10-20T15:32:10.183333Z"
   },
   "WHIRLPOOL.NS": {
     "ticker": "WHIRLPOOL.NS",
@@ -133523,7 +133523,7 @@
         "volume": 246469
       }
     ],
-    "updated_at": "2026-10-19T17:23:00.468404Z"
+    "updated_at": "2026-10-20T15:34:48.092785Z"
   },
   "SAGILITY.NS": {
     "ticker": "SAGILITY.NS",
@@ -135514,10 +135514,10 @@
         "high": 45.41,
         "low": 43.83,
         "close": 43.99,
-        "volume": 7137603
+        "volume": 7146693
       }
     ],
-    "updated_at": "2026-10-19T17:21:39.662088Z"
+    "updated_at": "2026-10-20T15:33:41.693128Z"
   },
   "HAVELLS.NS": {
     "ticker": "HAVELLS.NS",
@@ -137508,10 +137508,10 @@
         "high": 1122.1,
         "low": 1098.0,
         "close": 1102.7,
-        "volume": 314277
+        "volume": 314312
       }
     ],
-    "updated_at": "2026-10-19T17:18:42.564574Z"
+    "updated_at": "2026-10-20T15:31:20.843596Z"
   },
   "IRCTC.NS": {
     "ticker": "IRCTC.NS",
@@ -139502,10 +139502,10 @@
         "high": 470.35,
         "low": 453.4,
         "close": 455.6,
-        "volume": 560736
+        "volume": 561197
       }
     ],
-    "updated_at": "2026-10-19T17:19:15.615547Z"
+    "updated_at": "2026-10-20T15:31:48.037784Z"
   },
   "LATENTVIEW.NS": {
     "ticker": "LATENTVIEW.NS",
@@ -143530,10 +143530,10 @@
         "high": 536.15,
         "low": 526.15,
         "close": 530.35,
-        "volume": 598258
+        "volume": 598405
       }
     ],
-    "updated_at": "2026-10-19T17:22:41.374486Z"
+    "updated_at": "2026-10-20T15:34:32.111568Z"
   },
   "JYOTICNC.NS": {
     "ticker": "JYOTICNC.NS",
@@ -145524,10 +145524,10 @@
         "high": 998.8,
         "low": 973.2,
         "close": 975.8,
-        "volume": 186076
+        "volume": 186078
       }
     ],
-    "updated_at": "2026-10-19T17:19:43.872677Z"
+    "updated_at": "2026-10-20T15:32:10.915110Z"
   },
   "NTPC.NS": {
     "ticker": "NTPC.NS",
@@ -147518,10 +147518,10 @@
         "high": 316.4,
         "low": 308.1,
         "close": 309.0,
-        "volume": 7888305
+        "volume": 7888611
       }
     ],
-    "updated_at": "2026-10-19T17:20:40.572993Z"
+    "updated_at": "2026-10-20T15:32:54.535933Z"
   },
   "ITC.NS": {
     "ticker": "ITC.NS",
@@ -149512,10 +149512,10 @@
         "high": 263.9,
         "low": 259.95,
         "close": 260.8,
-        "volume": 11522059
+        "volume": 11528925
       }
     ],
-    "updated_at": "2026-10-19T17:19:07.804471Z"
+    "updated_at": "2026-10-20T15:31:41.591510Z"
   },
   "BANKINDIA.NS": {
     "ticker": "BANKINDIA.NS",
@@ -151506,10 +151506,10 @@
         "high": 137.33,
         "low": 132.83,
         "close": 136.78,
-        "volume": 14613579
+        "volume": 14616945
       }
     ],
-    "updated_at": "2026-10-19T17:16:42.997277Z"
+    "updated_at": "2026-10-20T15:29:41.209755Z"
   },
   "BHARTIHEXA.NS": {
     "ticker": "BHARTIHEXA.NS",
@@ -153503,7 +153503,7 @@
         "volume": 164332
       }
     ],
-    "updated_at": "2026-10-19T17:16:53.860221Z"
+    "updated_at": "2026-10-20T15:29:49.894467Z"
   },
   "IEX.NS": {
     "ticker": "IEX.NS",
@@ -155494,10 +155494,10 @@
         "high": 107.72,
         "low": 104.52,
         "close": 104.8,
-        "volume": 1901460
+        "volume": 1901670
       }
     ],
-    "updated_at": "2026-10-19T17:19:12.151540Z"
+    "updated_at": "2026-10-20T15:31:45.199305Z"
   },
   "TATAPOWER.NS": {
     "ticker": "TATAPOWER.NS",
@@ -157488,10 +157488,10 @@
         "high": 355.35,
         "low": 350.25,
         "close": 352.25,
-        "volume": 3246918
+        "volume": 3247837
       }
     ],
-    "updated_at": "2026-10-19T17:22:19.265830Z"
+    "updated_at": "2026-10-20T15:34:13.888972Z"
   },
   "PFIZER.NS": {
     "ticker": "PFIZER.NS",
@@ -163542,10 +163542,10 @@
         "high": 890.0,
         "low": 866.5,
         "close": 872.55,
-        "volume": 384243
+        "volume": 384352
       }
     ],
-    "updated_at": "2026-10-19T17:19:57.204857Z"
+    "updated_at": "2026-10-20T15:32:18.729779Z"
   },
   "HEG.NS": {
     "ticker": "HEG.NS",
@@ -169588,10 +169588,10 @@
         "high": 419.8,
         "low": 411.7,
         "close": 411.7,
-        "volume": 3093998
+        "volume": 3094405
       }
     ],
-    "updated_at": "2026-10-19T17:17:27.554147Z"
+    "updated_at": "2026-10-20T15:30:18.070071Z"
   },
   "ASHOKLEY.NS": {
     "ticker": "ASHOKLEY.NS",
@@ -171582,10 +171582,10 @@
         "high": 149.4,
         "low": 147.21,
         "close": 147.72,
-        "volume": 8494966
+        "volume": 8502677
       }
     ],
-    "updated_at": "2026-10-19T17:16:21.110146Z"
+    "updated_at": "2026-10-20T15:29:23.260847Z"
   },
   "GRAPHITE.NS": {
     "ticker": "GRAPHITE.NS",
@@ -173576,10 +173576,10 @@
         "high": 776.0,
         "low": 740.0,
         "close": 745.5,
-        "volume": 500640
+        "volume": 500790
       }
     ],
-    "updated_at": "2026-10-19T17:18:30.400419Z"
+    "updated_at": "2026-10-20T15:31:10.444880Z"
   },
   "DALBHARAT.NS": {
     "ticker": "DALBHARAT.NS",
@@ -175570,10 +175570,10 @@
         "high": 1690.8,
         "low": 1611.0,
         "close": 1622.6,
-        "volume": 45086
+        "volume": 45206
       }
     ],
-    "updated_at": "2026-10-19T17:17:43.445555Z"
+    "updated_at": "2026-10-20T15:30:32.232064Z"
   },
   "HINDZINC.NS": {
     "ticker": "HINDZINC.NS",
@@ -177564,10 +177564,10 @@
         "high": 547.4,
         "low": 536.1,
         "close": 538.4,
-        "volume": 3040401
+        "volume": 3040983
       }
     ],
-    "updated_at": "2026-10-19T17:18:51.146108Z"
+    "updated_at": "2026-10-20T15:31:27.710727Z"
   },
   "CANHLIFE.NS": {
     "ticker": "CANHLIFE.NS",
@@ -179558,10 +179558,10 @@
         "high": 131.15,
         "low": 125.9,
         "close": 128.12,
-        "volume": 1621012
+        "volume": 1621211
       }
     ],
-    "updated_at": "2026-10-19T17:17:10.033647Z"
+    "updated_at": "2026-10-20T15:30:03.623190Z"
   },
   "POWERGRID.NS": {
     "ticker": "POWERGRID.NS",
@@ -181552,10 +181552,10 @@
         "high": 253.35,
         "low": 249.15,
         "close": 250.35,
-        "volume": 8908610
+        "volume": 8908653
       }
     ],
-    "updated_at": "2026-10-19T17:21:16.887933Z"
+    "updated_at": "2026-10-20T15:33:23.776698Z"
   },
   "JKTYRE.NS": {
     "ticker": "JKTYRE.NS",
@@ -183546,10 +183546,10 @@
         "high": 338.4,
         "low": 331.05,
         "close": 332.1,
-        "volume": 202615
+        "volume": 202730
       }
     ],
-    "updated_at": "2026-10-19T17:19:29.750940Z"
+    "updated_at": "2026-10-20T15:31:59.585797Z"
   },
   "TECHM.NS": {
     "ticker": "TECHM.NS",
@@ -185540,10 +185540,10 @@
         "high": 1796.0,
         "low": 1752.7,
         "close": 1779.1,
-        "volume": 3946128
+        "volume": 3946622
       }
     ],
-    "updated_at": "2026-10-19T17:22:22.818146Z"
+    "updated_at": "2026-10-20T15:34:16.798726Z"
   },
   "ECLERX.NS": {
     "ticker": "ECLERX.NS",
@@ -187537,7 +187537,7 @@
         "volume": 102677
       }
     ],
-    "updated_at": "2026-10-19T17:23:09.469408Z"
+    "updated_at": "2026-10-20T15:34:55.404194Z"
   },
   "COROMANDEL.NS": {
     "ticker": "COROMANDEL.NS",
@@ -189528,10 +189528,10 @@
         "high": 1775.0,
         "low": 1740.9,
         "close": 1771.1,
-        "volume": 95817
+        "volume": 95818
       }
     ],
-    "updated_at": "2026-10-19T17:17:34.555735Z"
+    "updated_at": "2026-10-20T15:30:24.705230Z"
   },
   "TIMKEN.NS": {
     "ticker": "TIMKEN.NS",
@@ -191517,7 +191517,7 @@
         "volume": 39667
       }
     ],
-    "updated_at": "2026-10-19T17:22:30.578272Z"
+    "updated_at": "2026-10-20T15:34:23.387136Z"
   },
   "JIOFIN.NS": {
     "ticker": "JIOFIN.NS",
@@ -193508,10 +193508,10 @@
         "high": 217.29,
         "low": 213.01,
         "close": 214.0,
-        "volume": 9208794
+        "volume": 9223615
       }
     ],
-    "updated_at": "2026-10-19T17:19:40.365510Z"
+    "updated_at": "2026-10-20T15:32:08.056351Z"
   },
   "ESCORTS.NS": {
     "ticker": "ESCORTS.NS",
@@ -195502,10 +195502,10 @@
         "high": 2740.0,
         "low": 2689.0,
         "close": 2706.8,
-        "volume": 44672
+        "volume": 44680
       }
     ],
-    "updated_at": "2026-10-19T17:18:02.881754Z"
+    "updated_at": "2026-10-20T15:30:48.473699Z"
   },
   "SPLPETRO.NS": {
     "ticker": "SPLPETRO.NS",
@@ -197549,7 +197549,7 @@
     "ema_200": 1017.82,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 1.62,
+    "volume_ratio": 1.63,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -199530,10 +199530,10 @@
         "high": 983.8,
         "low": 960.7,
         "close": 973.7,
-        "volume": 15079976
+        "volume": 15083265
       }
     ],
-    "updated_at": "2026-10-19T17:21:56.858298Z"
+    "updated_at": "2026-10-20T15:33:55.781168Z"
   },
   "BATAINDIA.NS": {
     "ticker": "BATAINDIA.NS",
@@ -201527,7 +201527,7 @@
         "volume": 139806
       }
     ],
-    "updated_at": "2026-10-19T17:16:44.776573Z"
+    "updated_at": "2026-10-20T15:29:42.697597Z"
   },
   "RELIANCE.NS": {
     "ticker": "RELIANCE.NS",
@@ -203518,10 +203518,10 @@
         "high": 1228.2,
         "low": 1201.0,
         "close": 1202.0,
-        "volume": 15568009
+        "volume": 15572554
       }
     ],
-    "updated_at": "2026-10-19T17:21:32.578751Z"
+    "updated_at": "2026-10-20T15:33:35.936400Z"
   },
   "MPHASIS.NS": {
     "ticker": "MPHASIS.NS",
@@ -205515,7 +205515,7 @@
         "volume": 765440
       }
     ],
-    "updated_at": "2026-10-19T17:20:30.731149Z"
+    "updated_at": "2026-10-20T15:32:46.413322Z"
   },
   "BEL.NS": {
     "ticker": "BEL.NS",
@@ -207506,10 +207506,10 @@
         "high": 380.5,
         "low": 374.55,
         "close": 377.2,
-        "volume": 5415423
+        "volume": 5419051
       }
     ],
-    "updated_at": "2026-10-19T17:16:49.126933Z"
+    "updated_at": "2026-10-20T15:29:46.316040Z"
   },
   "NTPCGREEN.NS": {
     "ticker": "NTPCGREEN.NS",
@@ -209500,10 +209500,10 @@
         "high": 90.25,
         "low": 87.3,
         "close": 87.68,
-        "volume": 2199831
+        "volume": 2200335
       }
     ],
-    "updated_at": "2026-10-19T17:20:39.702284Z"
+    "updated_at": "2026-10-20T15:32:53.766917Z"
   },
   "JKCEMENT.NS": {
     "ticker": "JKCEMENT.NS",
@@ -211497,7 +211497,7 @@
         "volume": 19845
       }
     ],
-    "updated_at": "2026-10-19T17:19:28.045500Z"
+    "updated_at": "2026-10-20T15:31:58.153687Z"
   },
   "BRITANNIA.NS": {
     "ticker": "BRITANNIA.NS",
@@ -213488,10 +213488,10 @@
         "high": 4787.9,
         "low": 4703.9,
         "close": 4705.0,
-        "volume": 130752
+        "volume": 130763
       }
     ],
-    "updated_at": "2026-10-19T17:17:01.872234Z"
+    "updated_at": "2026-10-20T15:29:57.136260Z"
   },
   "IGL.NS": {
     "ticker": "IGL.NS",
@@ -215482,10 +215482,10 @@
         "high": 144.33,
         "low": 142.18,
         "close": 142.54,
-        "volume": 599035
+        "volume": 599141
       }
     ],
-    "updated_at": "2026-10-19T17:19:18.199408Z"
+    "updated_at": "2026-10-20T15:31:50.258627Z"
   },
   "TEGA.NS": {
     "ticker": "TEGA.NS",
@@ -217479,7 +217479,7 @@
         "volume": 126165
       }
     ],
-    "updated_at": "2026-10-19T17:22:24.530157Z"
+    "updated_at": "2026-10-20T15:34:18.302414Z"
   },
   "BLUESTARCO.NS": {
     "ticker": "BLUESTARCO.NS",
@@ -219473,7 +219473,7 @@
         "volume": 194246
       }
     ],
-    "updated_at": "2026-10-19T17:16:58.318957Z"
+    "updated_at": "2026-10-20T15:29:53.686930Z"
   },
   "BLUEDART.NS": {
     "ticker": "BLUEDART.NS",
@@ -223490,10 +223490,10 @@
         "high": 365.0,
         "low": 356.7,
         "close": 361.85,
-        "volume": 1571219
+        "volume": 1571724
       }
     ],
-    "updated_at": "2026-10-19T17:16:11.367303Z"
+    "updated_at": "2026-10-20T15:29:15.307732Z"
   },
   "IRB.NS": {
     "ticker": "IRB.NS",
@@ -225484,10 +225484,10 @@
         "high": 17.68,
         "low": 17.32,
         "close": 17.37,
-        "volume": 4143821
+        "volume": 4146675
       }
     ],
-    "updated_at": "2026-10-19T17:19:05.221188Z"
+    "updated_at": "2026-10-20T15:31:39.485234Z"
   },
   "IOC.NS": {
     "ticker": "IOC.NS",
@@ -227478,10 +227478,10 @@
         "high": 130.83,
         "low": 129.36,
         "close": 130.25,
-        "volume": 4563622
+        "volume": 4567989
       }
     ],
-    "updated_at": "2026-10-19T17:19:13.901143Z"
+    "updated_at": "2026-10-20T15:31:46.631841Z"
   },
   "ACC.NS": {
     "ticker": "ACC.NS",
@@ -229472,10 +229472,10 @@
         "high": 1208.8,
         "low": 1156.0,
         "close": 1167.8,
-        "volume": 138694
+        "volume": 138695
       }
     ],
-    "updated_at": "2026-10-19T17:15:42.869256Z"
+    "updated_at": "2026-10-20T15:28:52.336590Z"
   },
   "TMCV.NS": {
     "ticker": "TMCV.NS",
@@ -231346,10 +231346,10 @@
         "high": 421.2,
         "low": 415.0,
         "close": 418.75,
-        "volume": 2192795
+        "volume": 2192941
       }
     ],
-    "updated_at": "2026-10-19T17:22:17.160402Z"
+    "updated_at": "2026-10-20T15:34:12.373502Z"
   },
   "NAUKRI.NS": {
     "ticker": "NAUKRI.NS",
@@ -233340,10 +233340,10 @@
         "high": 1265.9,
         "low": 1220.0,
         "close": 1220.0,
-        "volume": 750545
+        "volume": 750602
       }
     ],
-    "updated_at": "2026-10-19T17:19:20.894333Z"
+    "updated_at": "2026-10-20T15:31:52.361802Z"
   },
   "IOB.NS": {
     "ticker": "IOB.NS",
@@ -235334,10 +235334,10 @@
         "high": 31.5,
         "low": 30.61,
         "close": 30.71,
-        "volume": 2477806
+        "volume": 2479843
       }
     ],
-    "updated_at": "2026-10-19T17:19:14.746080Z"
+    "updated_at": "2026-10-20T15:31:47.321036Z"
   },
   "DOMS.NS": {
     "ticker": "DOMS.NS",
@@ -237331,7 +237331,7 @@
         "volume": 8027
       }
     ],
-    "updated_at": "2026-10-19T17:17:41.636852Z"
+    "updated_at": "2026-10-20T15:30:30.625978Z"
   },
   "TECHNOE.NS": {
     "ticker": "TECHNOE.NS",
@@ -239322,10 +239322,10 @@
         "high": 952.0,
         "low": 936.8,
         "close": 940.0,
-        "volume": 48726
+        "volume": 48731
       }
     ],
-    "updated_at": "2026-10-19T17:22:23.659804Z"
+    "updated_at": "2026-10-20T15:34:17.574882Z"
   },
   "GALLANTT.NS": {
     "ticker": "GALLANTT.NS",
@@ -241308,10 +241308,10 @@
         "high": 678.85,
         "low": 584.65,
         "close": 626.2,
-        "volume": 17327830
+        "volume": 17327902
       }
     ],
-    "updated_at": "2026-10-19T17:18:17.739699Z"
+    "updated_at": "2026-10-20T15:31:00.198580Z"
   },
   "GMDCLTD.NS": {
     "ticker": "GMDCLTD.NS",
@@ -243302,10 +243302,10 @@
         "high": 472.8,
         "low": 456.0,
         "close": 458.75,
-        "volume": 456630
+        "volume": 456655
       }
     ],
-    "updated_at": "2026-10-19T17:18:34.808061Z"
+    "updated_at": "2026-10-20T15:31:14.051692Z"
   },
   "MFSL.NS": {
     "ticker": "MFSL.NS",
@@ -245296,10 +245296,10 @@
         "high": 1293.1,
         "low": 1262.6,
         "close": 1281.0,
-        "volume": 911127
+        "volume": 911205
       }
     ],
-    "updated_at": "2026-10-19T17:20:24.467736Z"
+    "updated_at": "2026-10-20T15:32:41.327117Z"
   },
   "ZFCVINDIA.NS": {
     "ticker": "ZFCVINDIA.NS",
@@ -247290,10 +247290,10 @@
         "high": 2159.1,
         "low": 2112.0,
         "close": 2140.8,
-        "volume": 103851
+        "volume": 103856
       }
     ],
-    "updated_at": "2026-10-19T17:23:03.969183Z"
+    "updated_at": "2026-10-20T15:34:50.916620Z"
   },
   "M&M.NS": {
     "ticker": "M&M.NS",
@@ -249284,10 +249284,10 @@
         "high": 2938.6,
         "low": 2885.6,
         "close": 2907.0,
-        "volume": 2142358
+        "volume": 2142503
       }
     ],
-    "updated_at": "2026-10-19T17:20:19.077533Z"
+    "updated_at": "2026-10-20T15:32:36.937706Z"
   },
   "BRIGADE.NS": {
     "ticker": "BRIGADE.NS",
@@ -251281,7 +251281,7 @@
         "volume": 108944
       }
     ],
-    "updated_at": "2026-10-19T17:17:01.009748Z"
+    "updated_at": "2026-10-20T15:29:56.403362Z"
   },
   "TITAN.NS": {
     "ticker": "TITAN.NS",
@@ -253272,10 +253272,10 @@
         "high": 4494.4,
         "low": 4402.7,
         "close": 4424.2,
-        "volume": 651489
+        "volume": 651506
       }
     ],
-    "updated_at": "2026-10-19T17:22:32.355384Z"
+    "updated_at": "2026-10-20T15:34:24.841109Z"
   },
   "EMAMILTD.NS": {
     "ticker": "EMAMILTD.NS",
@@ -255266,10 +255266,10 @@
         "high": 376.15,
         "low": 370.3,
         "close": 375.05,
-        "volume": 414225
+        "volume": 414526
       }
     ],
-    "updated_at": "2026-10-19T17:17:58.280496Z"
+    "updated_at": "2026-10-20T15:30:44.600120Z"
   },
   "IRCON.NS": {
     "ticker": "IRCON.NS",
@@ -257260,10 +257260,10 @@
         "high": 107.49,
         "low": 103.8,
         "close": 104.14,
-        "volume": 1635747
+        "volume": 1640229
       }
     ],
-    "updated_at": "2026-10-19T17:19:06.081645Z"
+    "updated_at": "2026-10-20T15:31:40.191703Z"
   },
   "TVSMOTOR.NS": {
     "ticker": "TVSMOTOR.NS",
@@ -259257,7 +259257,7 @@
         "volume": 472084
       }
     ],
-    "updated_at": "2026-10-19T17:22:10.167684Z"
+    "updated_at": "2026-10-20T15:34:06.496489Z"
   },
   "LINDEINDIA.NS": {
     "ticker": "LINDEINDIA.NS",
@@ -261240,10 +261240,10 @@
         "high": 6196.0,
         "low": 5991.5,
         "close": 6003.5,
-        "volume": 12232
+        "volume": 12236
       }
     ],
-    "updated_at": "2026-10-19T17:20:11.058120Z"
+    "updated_at": "2026-10-20T15:32:30.309036Z"
   },
   "KOTAKBANK.NS": {
     "ticker": "KOTAKBANK.NS",
@@ -263234,10 +263234,10 @@
         "high": 447.15,
         "low": 438.6,
         "close": 442.3,
-        "volume": 15003825
+        "volume": 15004260
       }
     ],
-    "updated_at": "2026-10-19T17:19:59.914067Z"
+    "updated_at": "2026-10-20T15:32:20.925391Z"
   },
   "AXISBANK.NS": {
     "ticker": "AXISBANK.NS",
@@ -265228,10 +265228,10 @@
         "high": 1264.9,
         "low": 1225.3,
         "close": 1236.0,
-        "volume": 12761304
+        "volume": 12762071
       }
     ],
-    "updated_at": "2026-10-19T17:16:29.818487Z"
+    "updated_at": "2026-10-20T15:29:30.408357Z"
   },
   "ULTRACEMCO.NS": {
     "ticker": "ULTRACEMCO.NS",
@@ -267222,10 +267222,10 @@
         "high": 11219.0,
         "low": 10551.0,
         "close": 10650.0,
-        "volume": 609123
+        "volume": 609128
       }
     ],
-    "updated_at": "2026-10-19T17:22:43.213683Z"
+    "updated_at": "2026-10-20T15:34:33.576739Z"
   },
   "INOXWIND.NS": {
     "ticker": "INOXWIND.NS",
@@ -269216,10 +269216,10 @@
         "high": 67.95,
         "low": 64.78,
         "close": 64.89,
-        "volume": 8222357
+        "volume": 8224708
       }
     ],
-    "updated_at": "2026-10-19T17:19:22.750537Z"
+    "updated_at": "2026-10-20T15:31:53.771792Z"
   },
   "JUBLFOOD.NS": {
     "ticker": "JUBLFOOD.NS",
@@ -271210,10 +271210,10 @@
         "high": 420.0,
         "low": 412.0,
         "close": 413.5,
-        "volume": 795535
+        "volume": 795567
       }
     ],
-    "updated_at": "2026-10-19T17:19:41.295641Z"
+    "updated_at": "2026-10-20T15:32:08.761790Z"
   },
   "PFC.NS": {
     "ticker": "PFC.NS",
@@ -273204,10 +273204,10 @@
         "high": 337.55,
         "low": 330.3,
         "close": 332.4,
-        "volume": 7888591
+        "volume": 7892261
       }
     ],
-    "updated_at": "2026-10-19T17:21:16.048890Z"
+    "updated_at": "2026-10-20T15:33:23.084785Z"
   },
   "LT.NS": {
     "ticker": "LT.NS",
@@ -275198,10 +275198,10 @@
         "high": 3687.7,
         "low": 3632.0,
         "close": 3661.9,
-        "volume": 2331099
+        "volume": 2331147
       }
     ],
-    "updated_at": "2026-10-19T17:20:06.789135Z"
+    "updated_at": "2026-10-20T15:32:26.760031Z"
   },
   "INDIACEM.NS": {
     "ticker": "INDIACEM.NS",
@@ -277192,10 +277192,10 @@
         "high": 315.0,
         "low": 286.5,
         "close": 294.35,
-        "volume": 2106956
+        "volume": 2107356
       }
     ],
-    "updated_at": "2026-10-19T17:19:09.502218Z"
+    "updated_at": "2026-10-20T15:31:42.993610Z"
   },
   "ATUL.NS": {
     "ticker": "ATUL.NS",
@@ -279186,10 +279186,10 @@
         "high": 6229.0,
         "low": 6070.0,
         "close": 6082.0,
-        "volume": 11281
+        "volume": 11282
       }
     ],
-    "updated_at": "2026-10-19T17:16:25.375303Z"
+    "updated_at": "2026-10-20T15:29:26.819750Z"
   },
   "GILLETTE.NS": {
     "ticker": "GILLETTE.NS",
@@ -281183,7 +281183,7 @@
         "volume": 9875
       }
     ],
-    "updated_at": "2026-10-19T17:18:20.382996Z"
+    "updated_at": "2026-10-20T15:31:02.312124Z"
   },
   "CYIENT.NS": {
     "ticker": "CYIENT.NS",
@@ -283174,10 +283174,10 @@
         "high": 1204.9,
         "low": 1162.5,
         "close": 1172.4,
-        "volume": 300713
+        "volume": 300722
       }
     ],
-    "updated_at": "2026-10-19T17:17:39.818107Z"
+    "updated_at": "2026-10-20T15:30:29.212084Z"
   },
   "GESHIP.NS": {
     "ticker": "GESHIP.NS",
@@ -285168,10 +285168,10 @@
         "high": 1525.0,
         "low": 1486.2,
         "close": 1519.3,
-        "volume": 439886
+        "volume": 439944
       }
     ],
-    "updated_at": "2026-10-19T17:18:33.000487Z"
+    "updated_at": "2026-10-20T15:31:12.576920Z"
   },
   "VOLTAS.NS": {
     "ticker": "VOLTAS.NS",
@@ -287162,10 +287162,10 @@
         "high": 1033.5,
         "low": 1013.2,
         "close": 1019.6,
-        "volume": 376732
+        "volume": 376832
       }
     ],
-    "updated_at": "2026-10-19T17:22:56.980224Z"
+    "updated_at": "2026-10-20T15:34:45.042636Z"
   },
   "CONCOR.NS": {
     "ticker": "CONCOR.NS",
@@ -289156,10 +289156,10 @@
         "high": 449.7,
         "low": 440.0,
         "close": 441.65,
-        "volume": 406197
+        "volume": 406198
       }
     ],
-    "updated_at": "2026-10-19T17:17:33.635527Z"
+    "updated_at": "2026-10-20T15:30:24.022798Z"
   },
   "HDFCBANK.NS": {
     "ticker": "HDFCBANK.NS",
@@ -291150,10 +291150,10 @@
         "high": 733.4,
         "low": 707.15,
         "close": 712.0,
-        "volume": 33521732
+        "volume": 33524133
       }
     ],
-    "updated_at": "2026-10-19T17:18:39.106662Z"
+    "updated_at": "2026-10-20T15:31:17.976607Z"
   },
   "SJVN.NS": {
     "ticker": "SJVN.NS",
@@ -293144,10 +293144,10 @@
         "high": 53.21,
         "low": 51.0,
         "close": 51.11,
-        "volume": 8916668
+        "volume": 8920563
       }
     ],
-    "updated_at": "2026-10-19T17:21:37.003951Z"
+    "updated_at": "2026-10-20T15:33:39.496913Z"
   },
   "SIGNATURE.NS": {
     "ticker": "SIGNATURE.NS",
@@ -295133,7 +295133,7 @@
         "volume": 225731
       }
     ],
-    "updated_at": "2026-10-19T17:21:52.325226Z"
+    "updated_at": "2026-10-20T15:33:52.200460Z"
   },
   "PETRONET.NS": {
     "ticker": "PETRONET.NS",
@@ -297124,10 +297124,10 @@
         "high": 295.4,
         "low": 291.05,
         "close": 293.65,
-        "volume": 1333113
+        "volume": 1333698
       }
     ],
-    "updated_at": "2026-10-19T17:21:06.873504Z"
+    "updated_at": "2026-10-20T15:33:16.023350Z"
   },
   "RPOWER.NS": {
     "ticker": "RPOWER.NS",
@@ -297137,7 +297137,7 @@
     "ema_200": 26.51,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 0.88,
+    "volume_ratio": 0.89,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -299118,10 +299118,10 @@
         "high": 18.77,
         "low": 17.65,
         "close": 17.89,
-        "volume": 20453773
+        "volume": 20467940
       }
     ],
-    "updated_at": "2026-10-19T17:21:33.429361Z"
+    "updated_at": "2026-10-20T15:33:36.637226Z"
   },
   "TRAVELFOOD.NS": {
     "ticker": "TRAVELFOOD.NS",
@@ -303146,10 +303146,10 @@
         "high": 1694.5,
         "low": 1642.0,
         "close": 1650.0,
-        "volume": 510863
+        "volume": 510963
       }
     ],
-    "updated_at": "2026-10-19T17:18:58.029151Z"
+    "updated_at": "2026-10-20T15:31:33.336717Z"
   },
   "ANURAS.NS": {
     "ticker": "ANURAS.NS",
@@ -305140,10 +305140,10 @@
         "high": 1170.3,
         "low": 1096.5,
         "close": 1109.7,
-        "volume": 667042
+        "volume": 667051
       }
     ],
-    "updated_at": "2026-10-19T17:16:15.734485Z"
+    "updated_at": "2026-10-20T15:29:18.918992Z"
   },
   "GLAXO.NS": {
     "ticker": "GLAXO.NS",
@@ -307134,10 +307134,10 @@
         "high": 2555.2,
         "low": 2473.3,
         "close": 2495.4,
-        "volume": 21133
+        "volume": 21147
       }
     ],
-    "updated_at": "2026-10-19T17:18:22.199701Z"
+    "updated_at": "2026-10-20T15:31:03.754459Z"
   },
   "ASAHIINDIA.NS": {
     "ticker": "ASAHIINDIA.NS",
@@ -309128,10 +309128,10 @@
         "high": 929.95,
         "low": 915.2,
         "close": 920.3,
-        "volume": 34181
+        "volume": 34206
       }
     ],
-    "updated_at": "2026-10-19T17:16:20.185205Z"
+    "updated_at": "2026-10-20T15:29:22.544909Z"
   },
   "VMM.NS": {
     "ticker": "VMM.NS",
@@ -311122,10 +311122,10 @@
         "high": 96.2,
         "low": 94.01,
         "close": 94.44,
-        "volume": 5403062
+        "volume": 5406486
       }
     ],
-    "updated_at": "2026-10-19T17:22:55.193288Z"
+    "updated_at": "2026-10-20T15:34:43.596605Z"
   },
   "NCC.NS": {
     "ticker": "NCC.NS",
@@ -313116,10 +313116,10 @@
         "high": 129.5,
         "low": 126.55,
         "close": 127.8,
-        "volume": 3265478
+        "volume": 3270723
       }
     ],
-    "updated_at": "2026-10-19T17:20:35.278802Z"
+    "updated_at": "2026-10-20T15:32:50.091798Z"
   },
   "INDGN.NS": {
     "ticker": "INDGN.NS",
@@ -317147,7 +317147,7 @@
         "volume": 117092
       }
     ],
-    "updated_at": "2026-10-19T17:16:06.164309Z"
+    "updated_at": "2026-10-20T15:29:11.023214Z"
   },
   "CIEINDIA.NS": {
     "ticker": "CIEINDIA.NS",
@@ -319130,10 +319130,10 @@
         "high": 379.6,
         "low": 370.6,
         "close": 371.4,
-        "volume": 130559
+        "volume": 130615
       }
     ],
-    "updated_at": "2026-10-19T17:17:06.321895Z"
+    "updated_at": "2026-10-20T15:30:00.700692Z"
   },
   "CHAMBLFERT.NS": {
     "ticker": "CHAMBLFERT.NS",
@@ -321124,10 +321124,10 @@
         "high": 389.75,
         "low": 381.5,
         "close": 382.95,
-        "volume": 288969
+        "volume": 288999
       }
     ],
-    "updated_at": "2026-10-19T17:17:19.743736Z"
+    "updated_at": "2026-10-20T15:30:11.548082Z"
   },
   "RHIM.NS": {
     "ticker": "RHIM.NS",
@@ -323121,7 +323121,7 @@
         "volume": 272327
       }
     ],
-    "updated_at": "2026-10-19T17:21:24.942451Z"
+    "updated_at": "2026-10-20T15:33:30.198755Z"
   },
   "UCOBANK.NS": {
     "ticker": "UCOBANK.NS",
@@ -325112,10 +325112,10 @@
         "high": 24.31,
         "low": 23.55,
         "close": 23.61,
-        "volume": 5389085
+        "volume": 5390426
       }
     ],
-    "updated_at": "2026-10-19T17:22:39.577451Z"
+    "updated_at": "2026-10-20T15:34:30.661508Z"
   },
   "JMFINANCIL.NS": {
     "ticker": "JMFINANCIL.NS",
@@ -327106,10 +327106,10 @@
         "high": 121.9,
         "low": 116.78,
         "close": 117.24,
-        "volume": 1723536
+        "volume": 1723566
       }
     ],
-    "updated_at": "2026-10-19T17:19:30.609942Z"
+    "updated_at": "2026-10-20T15:32:00.288681Z"
   },
   "NMDC.NS": {
     "ticker": "NMDC.NS",
@@ -329100,10 +329100,10 @@
         "high": 72.1,
         "low": 70.3,
         "close": 70.5,
-        "volume": 9844559
+        "volume": 9863444
       }
     ],
-    "updated_at": "2026-10-19T17:20:37.981712Z"
+    "updated_at": "2026-10-20T15:32:52.326081Z"
   },
   "HINDUNILVR.NS": {
     "ticker": "HINDUNILVR.NS",
@@ -331094,10 +331094,10 @@
         "high": 1889.0,
         "low": 1848.1,
         "close": 1853.2,
-        "volume": 1225670
+        "volume": 1226363
       }
     ],
-    "updated_at": "2026-10-19T17:18:50.281343Z"
+    "updated_at": "2026-10-20T15:31:27.002030Z"
   },
   "CASTROLIND.NS": {
     "ticker": "CASTROLIND.NS",
@@ -333088,10 +333088,10 @@
         "high": 199.72,
         "low": 196.05,
         "close": 196.79,
-        "volume": 2265429
+        "volume": 2266126
       }
     ],
-    "updated_at": "2026-10-19T17:17:14.518509Z"
+    "updated_at": "2026-10-20T15:30:07.263522Z"
   },
   "UTIAMC.NS": {
     "ticker": "UTIAMC.NS",
@@ -335085,7 +335085,7 @@
         "volume": 50232
       }
     ],
-    "updated_at": "2026-10-19T17:22:42.219712Z"
+    "updated_at": "2026-10-20T15:34:32.844930Z"
   },
   "SAIL.NS": {
     "ticker": "SAIL.NS",
@@ -337076,10 +337076,10 @@
         "high": 171.7,
         "low": 168.3,
         "close": 168.97,
-        "volume": 4229263
+        "volume": 4231992
       }
     ],
-    "updated_at": "2026-10-19T17:21:57.726272Z"
+    "updated_at": "2026-10-20T15:33:56.475672Z"
   },
   "HINDALCO.NS": {
     "ticker": "HINDALCO.NS",
@@ -339070,10 +339070,10 @@
         "high": 916.7,
         "low": 899.65,
         "close": 900.45,
-        "volume": 2006602
+        "volume": 2007016
       }
     ],
-    "updated_at": "2026-10-19T17:18:46.224810Z"
+    "updated_at": "2026-10-20T15:31:24.053056Z"
   },
   "CHOLAHLDNG.NS": {
     "ticker": "CHOLAHLDNG.NS",
@@ -341067,7 +341067,7 @@
         "volume": 97923
       }
     ],
-    "updated_at": "2026-10-19T17:17:22.399338Z"
+    "updated_at": "2026-10-20T15:30:13.771470Z"
   },
   "BPCL.NS": {
     "ticker": "BPCL.NS",
@@ -343058,10 +343058,10 @@
         "high": 298.0,
         "low": 292.0,
         "close": 294.3,
-        "volume": 2430982
+        "volume": 2432283
       }
     ],
-    "updated_at": "2026-10-19T17:16:51.790456Z"
+    "updated_at": "2026-10-20T15:29:48.477362Z"
   },
   "AFCONS.NS": {
     "ticker": "AFCONS.NS",
@@ -345052,10 +345052,10 @@
         "high": 248.0,
         "low": 240.3,
         "close": 245.11,
-        "volume": 387767
+        "volume": 387769
       }
     ],
-    "updated_at": "2026-10-19T17:16:05.341167Z"
+    "updated_at": "2026-10-20T15:29:10.317810Z"
   },
   "BHARTIARTL.NS": {
     "ticker": "BHARTIARTL.NS",
@@ -347046,10 +347046,10 @@
         "high": 1929.6,
         "low": 1863.9,
         "close": 1875.2,
-        "volume": 8585764
+        "volume": 8586339
       }
     ],
-    "updated_at": "2026-10-19T17:16:52.642356Z"
+    "updated_at": "2026-10-20T15:29:49.207921Z"
   },
   "IREDA.NS": {
     "ticker": "IREDA.NS",
@@ -349040,10 +349040,10 @@
         "high": 110.1,
         "low": 106.2,
         "close": 106.54,
-        "volume": 4511523
+        "volume": 4513745
       }
     ],
-    "updated_at": "2026-10-19T17:19:17.340236Z"
+    "updated_at": "2026-10-20T15:31:49.504477Z"
   },
   "LICHSGFIN.NS": {
     "ticker": "LICHSGFIN.NS",
@@ -351034,10 +351034,10 @@
         "high": 523.8,
         "low": 510.8,
         "close": 511.5,
-        "volume": 831449
+        "volume": 832228
       }
     ],
-    "updated_at": "2026-10-19T17:20:04.191934Z"
+    "updated_at": "2026-10-20T15:32:24.558130Z"
   },
   "TMPV.NS": {
     "ticker": "TMPV.NS",
@@ -353028,10 +353028,10 @@
         "high": 285.85,
         "low": 277.8,
         "close": 278.0,
-        "volume": 5260729
+        "volume": 5268186
       }
     ],
-    "updated_at": "2026-10-19T17:22:18.067094Z"
+    "updated_at": "2026-10-20T15:34:13.098327Z"
   },
   "TTML.NS": {
     "ticker": "TTML.NS",
@@ -355022,10 +355022,10 @@
         "high": 33.89,
         "low": 32.76,
         "close": 32.87,
-        "volume": 870525
+        "volume": 871621
       }
     ],
-    "updated_at": "2026-10-19T17:22:21.942240Z"
+    "updated_at": "2026-10-20T15:34:16.086478Z"
   },
   "SHRIRAMFIN.NS": {
     "ticker": "SHRIRAMFIN.NS",
@@ -357016,10 +357016,10 @@
         "high": 938.7,
         "low": 924.0,
         "close": 926.5,
-        "volume": 3408306
+        "volume": 3408806
       }
     ],
-    "updated_at": "2026-10-19T17:21:48.791909Z"
+    "updated_at": "2026-10-20T15:33:49.199069Z"
   },
   "ABBOTINDIA.NS": {
     "ticker": "ABBOTINDIA.NS",
@@ -359013,7 +359013,7 @@
         "volume": 2009
       }
     ],
-    "updated_at": "2026-10-19T17:15:50.984476Z"
+    "updated_at": "2026-10-20T15:28:58.766935Z"
   },
   "BALKRISIND.NS": {
     "ticker": "BALKRISIND.NS",
@@ -361007,7 +361007,7 @@
         "volume": 187143
       }
     ],
-    "updated_at": "2026-10-19T17:16:39.522250Z"
+    "updated_at": "2026-10-20T15:29:38.291861Z"
   },
   "JSWSTEEL.NS": {
     "ticker": "JSWSTEEL.NS",
@@ -362998,10 +362998,10 @@
         "high": 1247.2,
         "low": 1211.3,
         "close": 1241.3,
-        "volume": 3320032
+        "volume": 3320243
       }
     ],
-    "updated_at": "2026-10-19T17:19:34.134843Z"
+    "updated_at": "2026-10-20T15:32:03.094368Z"
   },
   "NHPC.NS": {
     "ticker": "NHPC.NS",
@@ -364992,10 +364992,10 @@
         "high": 71.93,
         "low": 70.56,
         "close": 70.7,
-        "volume": 8893905
+        "volume": 8894570
       }
     ],
-    "updated_at": "2026-10-19T17:20:36.192602Z"
+    "updated_at": "2026-10-20T15:32:50.874004Z"
   },
   "BIKAJI.NS": {
     "ticker": "BIKAJI.NS",
@@ -371046,10 +371046,10 @@
         "high": 353.5,
         "low": 338.95,
         "close": 341.45,
-        "volume": 923858
+        "volume": 924467
       }
     ],
-    "updated_at": "2026-10-19T17:20:49.386699Z"
+    "updated_at": "2026-10-20T15:33:01.728951Z"
   },
   "UNOMINDA.NS": {
     "ticker": "UNOMINDA.NS",
@@ -373043,7 +373043,7 @@
         "volume": 168761
       }
     ],
-    "updated_at": "2026-10-19T17:22:40.431473Z"
+    "updated_at": "2026-10-20T15:34:31.373599Z"
   },
   "TENNIND.NS": {
     "ticker": "TENNIND.NS",
@@ -374874,10 +374874,10 @@
         "high": 460.4,
         "low": 448.0,
         "close": 449.95,
-        "volume": 349823
+        "volume": 349872
       }
     ],
-    "updated_at": "2026-10-19T17:22:26.202232Z"
+    "updated_at": "2026-10-20T15:34:19.756787Z"
   },
   "APOLLOTYRE.NS": {
     "ticker": "APOLLOTYRE.NS",
@@ -376868,10 +376868,10 @@
         "high": 417.45,
         "low": 406.25,
         "close": 416.75,
-        "volume": 538840
+        "volume": 538860
       }
     ],
-    "updated_at": "2026-10-19T17:16:18.448589Z"
+    "updated_at": "2026-10-20T15:29:21.073108Z"
   },
   "GLENMARK.NS": {
     "ticker": "GLENMARK.NS",
@@ -378862,10 +378862,10 @@
         "high": 2269.9,
         "low": 2200.0,
         "close": 2210.2,
-        "volume": 285701
+        "volume": 285702
       }
     ],
-    "updated_at": "2026-10-19T17:18:23.063262Z"
+    "updated_at": "2026-10-20T15:31:04.444186Z"
   },
   "SBFC.NS": {
     "ticker": "SBFC.NS",
@@ -382890,10 +382890,10 @@
         "high": 22.44,
         "low": 21.9,
         "close": 21.92,
-        "volume": 2428255
+        "volume": 2430716
       }
     ],
-    "updated_at": "2026-10-19T17:22:36.774269Z"
+    "updated_at": "2026-10-20T15:34:28.487748Z"
   },
   "EICHERMOT.NS": {
     "ticker": "EICHERMOT.NS",
@@ -384884,10 +384884,10 @@
         "high": 7438.5,
         "low": 7308.0,
         "close": 7349.0,
-        "volume": 490127
+        "volume": 490129
       }
     ],
-    "updated_at": "2026-10-19T17:17:55.579738Z"
+    "updated_at": "2026-10-20T15:30:42.455925Z"
   },
   "BAJAJFINSV.NS": {
     "ticker": "BAJAJFINSV.NS",
@@ -386878,10 +386878,10 @@
         "high": 1734.2,
         "low": 1694.0,
         "close": 1700.0,
-        "volume": 969235
+        "volume": 969243
       }
     ],
-    "updated_at": "2026-10-19T17:16:36.974262Z"
+    "updated_at": "2026-10-20T15:29:36.149179Z"
   },
   "MCX.NS": {
     "ticker": "MCX.NS",
@@ -388872,10 +388872,10 @@
         "high": 3224.4,
         "low": 3155.6,
         "close": 3184.5,
-        "volume": 1155513
+        "volume": 1155788
       }
     ],
-    "updated_at": "2026-10-19T17:20:31.680083Z"
+    "updated_at": "2026-10-20T15:32:47.151739Z"
   },
   "ABFRL.NS": {
     "ticker": "ABFRL.NS",
@@ -394929,7 +394929,7 @@
         "volume": 12480
       }
     ],
-    "updated_at": "2026-10-19T17:17:07.231489Z"
+    "updated_at": "2026-10-20T15:30:01.467679Z"
   },
   "TATACONSUM.NS": {
     "ticker": "TATACONSUM.NS",
@@ -396920,10 +396920,10 @@
         "high": 978.85,
         "low": 961.8,
         "close": 966.5,
-        "volume": 546754
+        "volume": 546793
       }
     ],
-    "updated_at": "2026-10-19T17:22:14.475970Z"
+    "updated_at": "2026-10-20T15:34:10.176850Z"
   },
   "DABUR.NS": {
     "ticker": "DABUR.NS",
@@ -398914,10 +398914,10 @@
         "high": 385.8,
         "low": 377.0,
         "close": 378.5,
-        "volume": 1103111
+        "volume": 1103124
       }
     ],
-    "updated_at": "2026-10-19T17:17:42.583808Z"
+    "updated_at": "2026-10-20T15:30:31.417154Z"
   },
   "LEMONTREE.NS": {
     "ticker": "LEMONTREE.NS",
@@ -400908,10 +400908,10 @@
         "high": 114.07,
         "low": 111.15,
         "close": 111.67,
-        "volume": 1750224
+        "volume": 1750386
       }
     ],
-    "updated_at": "2026-10-19T17:20:08.479129Z"
+    "updated_at": "2026-10-20T15:32:28.153232Z"
   },
   "POLICYBZR.NS": {
     "ticker": "POLICYBZR.NS",
@@ -402894,10 +402894,10 @@
         "high": 1067.3,
         "low": 1032.0,
         "close": 1035.0,
-        "volume": 1591273
+        "volume": 1591356
       }
     ],
-    "updated_at": "2026-10-19T17:20:57.269989Z"
+    "updated_at": "2026-10-20T15:33:08.195256Z"
   },
   "ICICIAMC.NS": {
     "ticker": "ICICIAMC.NS",
@@ -404552,10 +404552,10 @@
         "high": 2822.2,
         "low": 2752.5,
         "close": 2775.5,
-        "volume": 484312
+        "volume": 484366
       }
     ],
-    "updated_at": "2026-10-19T17:18:58.865433Z"
+    "updated_at": "2026-10-20T15:31:34.034281Z"
   },
   "CDSL.NS": {
     "ticker": "CDSL.NS",
@@ -404565,7 +404565,7 @@
     "ema_200": 1354.23,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 0.62,
+    "volume_ratio": 0.63,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -406546,10 +406546,10 @@
         "high": 1293.7,
         "low": 1266.0,
         "close": 1270.0,
-        "volume": 555148
+        "volume": 555214
       }
     ],
-    "updated_at": "2026-10-19T17:17:17.994948Z"
+    "updated_at": "2026-10-20T15:30:10.110572Z"
   },
   "MSUMI.NS": {
     "ticker": "MSUMI.NS",
@@ -408540,10 +408540,10 @@
         "high": 35.6,
         "low": 35.0,
         "close": 35.38,
-        "volume": 6779283
+        "volume": 6781634
       }
     ],
-    "updated_at": "2026-10-19T17:20:29.028498Z"
+    "updated_at": "2026-10-20T15:32:44.915463Z"
   },
   "LENSKART.NS": {
     "ticker": "LENSKART.NS",
@@ -410430,10 +410430,10 @@
         "high": 651.15,
         "low": 635.15,
         "close": 639.95,
-        "volume": 1787265
+        "volume": 1787720
       }
     ],
-    "updated_at": "2026-10-19T17:20:09.309228Z"
+    "updated_at": "2026-10-20T15:32:28.844543Z"
   },
   "IGIL.NS": {
     "ticker": "IGIL.NS",
@@ -412424,10 +412424,10 @@
         "high": 328.2,
         "low": 319.05,
         "close": 321.95,
-        "volume": 609153
+        "volume": 609258
       }
     ],
-    "updated_at": "2026-10-19T17:19:25.388860Z"
+    "updated_at": "2026-10-20T15:31:56.050560Z"
   },
   "PVRINOX.NS": {
     "ticker": "PVRINOX.NS",
@@ -414418,10 +414418,10 @@
         "high": 1432.0,
         "low": 1385.9,
         "close": 1402.1,
-        "volume": 541401
+        "volume": 541403
       }
     ],
-    "updated_at": "2026-10-19T17:21:02.593450Z"
+    "updated_at": "2026-10-20T15:33:12.415741Z"
   },
   "MARUTI.NS": {
     "ticker": "MARUTI.NS",
@@ -416412,10 +416412,10 @@
         "high": 11702.0,
         "low": 11440.0,
         "close": 11475.0,
-        "volume": 453824
+        "volume": 453832
       }
     ],
-    "updated_at": "2026-10-19T17:20:23.508101Z"
+    "updated_at": "2026-10-20T15:32:40.638572Z"
   },
   "SWANCORP.NS": {
     "ticker": "SWANCORP.NS",
@@ -418406,10 +418406,10 @@
         "high": 264.6,
         "low": 254.1,
         "close": 256.25,
-        "volume": 363587
+        "volume": 363742
       }
     ],
-    "updated_at": "2026-10-19T17:22:04.916240Z"
+    "updated_at": "2026-10-20T15:34:02.271555Z"
   },
   "RECLTD.NS": {
     "ticker": "RECLTD.NS",
@@ -420400,10 +420400,10 @@
         "high": 309.75,
         "low": 302.0,
         "close": 302.35,
-        "volume": 3556752
+        "volume": 3558062
       }
     ],
-    "updated_at": "2026-10-19T17:21:24.093564Z"
+    "updated_at": "2026-10-20T15:33:29.498275Z"
   },
   "SCHAEFFLER.NS": {
     "ticker": "SCHAEFFLER.NS",
@@ -422394,10 +422394,10 @@
         "high": 3675.5,
         "low": 3603.6,
         "close": 3623.4,
-        "volume": 57627
+        "volume": 57628
       }
     ],
-    "updated_at": "2026-10-19T17:21:45.152240Z"
+    "updated_at": "2026-10-20T15:33:46.278291Z"
   },
   "AWL.NS": {
     "ticker": "AWL.NS",
@@ -424388,10 +424388,10 @@
         "high": 187.93,
         "low": 179.2,
         "close": 180.62,
-        "volume": 5055862
+        "volume": 5057477
       }
     ],
-    "updated_at": "2026-10-19T17:15:47.315214Z"
+    "updated_at": "2026-10-20T15:28:55.891254Z"
   },
   "PREMIERENE.NS": {
     "ticker": "PREMIERENE.NS",
@@ -426382,10 +426382,10 @@
         "high": 931.6,
         "low": 899.0,
         "close": 899.0,
-        "volume": 1560984
+        "volume": 1561240
       }
     ],
-    "updated_at": "2026-10-19T17:21:17.879076Z"
+    "updated_at": "2026-10-20T15:33:24.506963Z"
   },
   "NAVA.NS": {
     "ticker": "NAVA.NS",
@@ -428376,10 +428376,10 @@
         "high": 546.0,
         "low": 534.5,
         "close": 536.2,
-        "volume": 120547
+        "volume": 120624
       }
     ],
-    "updated_at": "2026-10-19T17:20:43.185410Z"
+    "updated_at": "2026-10-20T15:32:56.724413Z"
   },
   "BAJAJHFL.NS": {
     "ticker": "BAJAJHFL.NS",
@@ -428389,7 +428389,7 @@
     "ema_200": 88.06,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 1.46,
+    "volume_ratio": 1.47,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -430370,10 +430370,10 @@
         "high": 83.2,
         "low": 81.24,
         "close": 82.71,
-        "volume": 5240821
+        "volume": 5243607
       }
     ],
-    "updated_at": "2026-10-19T17:16:38.667564Z"
+    "updated_at": "2026-10-20T15:29:37.580664Z"
   },
   "MRF.NS": {
     "ticker": "MRF.NS",
@@ -432359,7 +432359,7 @@
         "volume": 2209
       }
     ],
-    "updated_at": "2026-10-19T17:20:15.434159Z"
+    "updated_at": "2026-10-20T15:32:34.139270Z"
   },
   "ALKEM.NS": {
     "ticker": "ALKEM.NS",
@@ -434345,7 +434345,7 @@
         "volume": 95218
       }
     ],
-    "updated_at": "2026-10-19T17:16:07.886358Z"
+    "updated_at": "2026-10-20T15:29:12.522786Z"
   },
   "CCL.NS": {
     "ticker": "CCL.NS",
@@ -436339,7 +436339,7 @@
         "volume": 249871
       }
     ],
-    "updated_at": "2026-10-19T17:17:03.583212Z"
+    "updated_at": "2026-10-20T15:29:58.514276Z"
   },
   "GODFRYPHLP.NS": {
     "ticker": "GODFRYPHLP.NS",
@@ -438330,10 +438330,10 @@
         "high": 1858.0,
         "low": 1795.5,
         "close": 1807.5,
-        "volume": 107824
+        "volume": 107848
       }
     ],
-    "updated_at": "2026-10-19T17:18:25.747004Z"
+    "updated_at": "2026-10-20T15:31:06.679379Z"
   },
   "GODREJCP.NS": {
     "ticker": "GODREJCP.NS",
@@ -440324,10 +440324,10 @@
         "high": 858.0,
         "low": 843.4,
         "close": 847.0,
-        "volume": 709238
+        "volume": 709267
       }
     ],
-    "updated_at": "2026-10-19T17:18:26.843749Z"
+    "updated_at": "2026-10-20T15:31:07.381746Z"
   },
   "BAJAJ-AUTO.NS": {
     "ticker": "BAJAJ-AUTO.NS",
@@ -442318,10 +442318,10 @@
         "high": 10499.0,
         "low": 10287.0,
         "close": 10287.0,
-        "volume": 110830
+        "volume": 110832
       }
     ],
-    "updated_at": "2026-10-19T17:16:35.175560Z"
+    "updated_at": "2026-10-20T15:29:34.619058Z"
   },
   "MAPMYINDIA.NS": {
     "ticker": "MAPMYINDIA.NS",
@@ -446338,10 +446338,10 @@
         "high": 618.2,
         "low": 601.05,
         "close": 604.5,
-        "volume": 200224
+        "volume": 200455
       }
     ],
-    "updated_at": "2026-10-19T17:22:16.241288Z"
+    "updated_at": "2026-10-20T15:34:11.688519Z"
   },
   "TATACAP.NS": {
     "ticker": "TATACAP.NS",
@@ -448332,10 +448332,10 @@
         "high": 321.2,
         "low": 313.65,
         "close": 314.25,
-        "volume": 1736894
+        "volume": 1737179
       }
     ],
-    "updated_at": "2026-10-19T17:22:11.012515Z"
+    "updated_at": "2026-10-20T15:34:07.264687Z"
   },
   "FACT.NS": {
     "ticker": "FACT.NS",
@@ -450329,7 +450329,7 @@
         "volume": 31628
       }
     ],
-    "updated_at": "2026-10-19T17:18:07.380173Z"
+    "updated_at": "2026-10-20T15:30:52.258684Z"
   },
   "CEATLTD.NS": {
     "ticker": "CEATLTD.NS",
@@ -452320,10 +452320,10 @@
         "high": 3314.3,
         "low": 3254.2,
         "close": 3290.5,
-        "volume": 59854
+        "volume": 59862
       }
     ],
-    "updated_at": "2026-10-19T17:17:15.359394Z"
+    "updated_at": "2026-10-20T15:30:07.967594Z"
   },
   "TATACHEM.NS": {
     "ticker": "TATACHEM.NS",
@@ -454314,10 +454314,10 @@
         "high": 647.05,
         "low": 623.5,
         "close": 637.65,
-        "volume": 2236035
+        "volume": 2236583
       }
     ],
-    "updated_at": "2026-10-19T17:22:11.888329Z"
+    "updated_at": "2026-10-20T15:34:07.978213Z"
   },
   "MAZDOCK.NS": {
     "ticker": "MAZDOCK.NS",
@@ -456308,10 +456308,10 @@
         "high": 2092.0,
         "low": 2050.0,
         "close": 2052.0,
-        "volume": 290517
+        "volume": 290592
       }
     ],
-    "updated_at": "2026-10-19T17:20:26.276911Z"
+    "updated_at": "2026-10-20T15:32:42.761453Z"
   },
   "RKFORGE.NS": {
     "ticker": "RKFORGE.NS",
@@ -458302,10 +458302,10 @@
         "high": 700.8,
         "low": 678.35,
         "close": 685.0,
-        "volume": 375985
+        "volume": 375986
       }
     ],
-    "updated_at": "2026-10-19T17:21:30.847897Z"
+    "updated_at": "2026-10-20T15:33:34.503216Z"
   },
   "JPPOWER.NS": {
     "ticker": "JPPOWER.NS",
@@ -460296,10 +460296,10 @@
         "high": 15.05,
         "low": 14.66,
         "close": 14.91,
-        "volume": 45540266
+        "volume": 45542589
       }
     ],
-    "updated_at": "2026-10-19T17:19:35.980523Z"
+    "updated_at": "2026-10-20T15:32:04.489013Z"
   },
   "DEVYANI.NS": {
     "ticker": "DEVYANI.NS",
@@ -462290,10 +462290,10 @@
         "high": 122.1,
         "low": 117.8,
         "close": 118.32,
-        "volume": 569758
+        "volume": 569778
       }
     ],
-    "updated_at": "2026-10-19T17:17:47.815104Z"
+    "updated_at": "2026-10-20T15:30:36.039494Z"
   },
   "JSWDULUX.NS": {
     "ticker": "JSWDULUX.NS",
@@ -466318,10 +466318,10 @@
         "high": 117.9,
         "low": 114.8,
         "close": 115.72,
-        "volume": 1870161
+        "volume": 1870290
       }
     ],
-    "updated_at": "2026-10-19T17:19:31.518503Z"
+    "updated_at": "2026-10-20T15:32:00.982983Z"
   },
   "ABB.NS": {
     "ticker": "ABB.NS",
@@ -468312,10 +468312,10 @@
         "high": 7019.5,
         "low": 6771.0,
         "close": 6974.0,
-        "volume": 557379
+        "volume": 557390
       }
     ],
-    "updated_at": "2026-10-19T17:15:41.909674Z"
+    "updated_at": "2026-10-20T15:28:51.572963Z"
   },
   "SYNGENE.NS": {
     "ticker": "SYNGENE.NS",
@@ -470306,10 +470306,10 @@
         "high": 402.0,
         "low": 382.5,
         "close": 397.5,
-        "volume": 1709849
+        "volume": 1709879
       }
     ],
-    "updated_at": "2026-10-19T17:22:06.610947Z"
+    "updated_at": "2026-10-20T15:34:03.664893Z"
   },
   "RITES.NS": {
     "ticker": "RITES.NS",
@@ -472300,10 +472300,10 @@
         "high": 209.0,
         "low": 203.0,
         "close": 203.89,
-        "volume": 479297
+        "volume": 479711
       }
     ],
-    "updated_at": "2026-10-19T17:21:26.408073Z"
+    "updated_at": "2026-10-20T15:33:30.912280Z"
   },
   "CHALET.NS": {
     "ticker": "CHALET.NS",
@@ -476328,10 +476328,10 @@
         "high": 376.25,
         "low": 355.45,
         "close": 370.05,
-        "volume": 13857646
+        "volume": 13858311
       }
     ],
-    "updated_at": "2026-10-19T17:19:54.649075Z"
+    "updated_at": "2026-10-20T15:32:16.629160Z"
   },
   "LICI.NS": {
     "ticker": "LICI.NS",
@@ -478322,10 +478322,10 @@
         "high": 398.0,
         "low": 391.0,
         "close": 393.35,
-        "volume": 5723530
+        "volume": 5725234
       }
     ],
-    "updated_at": "2026-10-19T17:20:10.219142Z"
+    "updated_at": "2026-10-20T15:32:29.531409Z"
   },
   "CLEAN.NS": {
     "ticker": "CLEAN.NS",
@@ -480316,10 +480316,10 @@
         "high": 787.15,
         "low": 754.15,
         "close": 759.85,
-        "volume": 213689
+        "volume": 213700
       }
     ],
-    "updated_at": "2026-10-19T17:17:26.698127Z"
+    "updated_at": "2026-10-20T15:30:17.328225Z"
   },
   "CESC.NS": {
     "ticker": "CESC.NS",
@@ -482310,10 +482310,10 @@
         "high": 136.17,
         "low": 133.0,
         "close": 133.35,
-        "volume": 903218
+        "volume": 903439
       }
     ],
-    "updated_at": "2026-10-19T17:17:04.568763Z"
+    "updated_at": "2026-10-20T15:29:59.219718Z"
   },
   "BAJAJHLDNG.NS": {
     "ticker": "BAJAJHLDNG.NS",
@@ -484304,10 +484304,10 @@
         "high": 11310.0,
         "low": 11103.0,
         "close": 11265.0,
-        "volume": 25957
+        "volume": 25967
       }
     ],
-    "updated_at": "2026-10-19T17:16:37.831543Z"
+    "updated_at": "2026-10-20T15:29:36.863670Z"
   },
   "LUPIN.NS": {
     "ticker": "LUPIN.NS",
@@ -486298,10 +486298,10 @@
         "high": 1971.6,
         "low": 1930.0,
         "close": 1939.2,
-        "volume": 601910
+        "volume": 602008
       }
     ],
-    "updated_at": "2026-10-19T17:20:13.680408Z"
+    "updated_at": "2026-10-20T15:32:32.648114Z"
   },
   "RAILTEL.NS": {
     "ticker": "RAILTEL.NS",
@@ -488292,10 +488292,10 @@
         "high": 261.25,
         "low": 248.7,
         "close": 250.5,
-        "volume": 643886
+        "volume": 643903
       }
     ],
-    "updated_at": "2026-10-19T17:21:29.066451Z"
+    "updated_at": "2026-10-20T15:33:33.007267Z"
   },
   "EIHOTEL.NS": {
     "ticker": "EIHOTEL.NS",
@@ -490286,10 +490286,10 @@
         "high": 307.0,
         "low": 298.0,
         "close": 304.85,
-        "volume": 309103
+        "volume": 309104
       }
     ],
-    "updated_at": "2026-10-19T17:17:53.797247Z"
+    "updated_at": "2026-10-20T15:30:40.955353Z"
   },
   "ICICIBANK.NS": {
     "ticker": "ICICIBANK.NS",
@@ -492280,10 +492280,10 @@
         "high": 1411.8,
         "low": 1377.9,
         "close": 1381.0,
-        "volume": 25149120
+        "volume": 25149396
       }
     ],
-    "updated_at": "2026-10-19T17:18:57.173968Z"
+    "updated_at": "2026-10-20T15:31:32.625499Z"
   },
   "JSWENERGY.NS": {
     "ticker": "JSWENERGY.NS",
@@ -494274,10 +494274,10 @@
         "high": 485.5,
         "low": 478.75,
         "close": 482.2,
-        "volume": 1408167
+        "volume": 1408997
       }
     ],
-    "updated_at": "2026-10-19T17:19:32.370553Z"
+    "updated_at": "2026-10-20T15:32:01.699936Z"
   },
   "COLPAL.NS": {
     "ticker": "COLPAL.NS",
@@ -496268,10 +496268,10 @@
         "high": 1776.5,
         "low": 1723.1,
         "close": 1741.1,
-        "volume": 527752
+        "volume": 527783
       }
     ],
-    "updated_at": "2026-10-19T17:17:31.017148Z"
+    "updated_at": "2026-10-20T15:30:21.899188Z"
   },
   "LGEINDIA.NS": {
     "ticker": "LGEINDIA.NS",
@@ -498262,10 +498262,10 @@
         "high": 1717.6,
         "low": 1680.0,
         "close": 1705.2,
-        "volume": 218719
+        "volume": 218787
       }
     ],
-    "updated_at": "2026-10-19T17:20:03.341866Z"
+    "updated_at": "2026-10-20T15:32:23.827858Z"
   },
   "COCHINSHIP.NS": {
     "ticker": "COCHINSHIP.NS",
@@ -500256,10 +500256,10 @@
         "high": 1249.4,
         "low": 1222.0,
         "close": 1226.5,
-        "volume": 294344
+        "volume": 294423
       }
     ],
-    "updated_at": "2026-10-19T17:17:28.401440Z"
+    "updated_at": "2026-10-20T15:30:18.775222Z"
   },
   "HDFCAMC.NS": {
     "ticker": "HDFCAMC.NS",
@@ -502250,10 +502250,10 @@
         "high": 2418.9,
         "low": 2342.7,
         "close": 2349.2,
-        "volume": 503368
+        "volume": 503541
       }
     ],
-    "updated_at": "2026-10-19T17:18:38.245269Z"
+    "updated_at": "2026-10-20T15:31:17.145173Z"
   },
   "SHREECEM.NS": {
     "ticker": "SHREECEM.NS",
@@ -504247,7 +504247,7 @@
         "volume": 62653
       }
     ],
-    "updated_at": "2026-10-19T17:21:47.862042Z"
+    "updated_at": "2026-10-20T15:33:48.477532Z"
   },
   "PAYTM.NS": {
     "ticker": "PAYTM.NS",
@@ -506238,10 +506238,10 @@
         "high": 1717.0,
         "low": 1674.1,
         "close": 1685.8,
-        "volume": 1374418
+        "volume": 1374419
       }
     ],
-    "updated_at": "2026-10-19T17:20:54.604121Z"
+    "updated_at": "2026-10-20T15:33:06.027168Z"
   },
   "URBANCO.NS": {
     "ticker": "URBANCO.NS",
@@ -508232,10 +508232,10 @@
         "high": 152.38,
         "low": 141.0,
         "close": 142.48,
-        "volume": 22133158
+        "volume": 22133536
       }
     ],
-    "updated_at": "2026-10-19T17:22:46.625562Z"
+    "updated_at": "2026-10-20T15:34:36.417942Z"
   },
   "NSLNISP.NS": {
     "ticker": "NSLNISP.NS",
@@ -510226,10 +510226,10 @@
         "high": 40.5,
         "low": 39.84,
         "close": 40.22,
-        "volume": 2768507
+        "volume": 2774515
       }
     ],
-    "updated_at": "2026-10-19T17:20:38.851806Z"
+    "updated_at": "2026-10-20T15:32:53.049627Z"
   },
   "JUBLINGREA.NS": {
     "ticker": "JUBLINGREA.NS",
@@ -512223,7 +512223,7 @@
         "volume": 119235
       }
     ],
-    "updated_at": "2026-10-19T17:19:42.123167Z"
+    "updated_at": "2026-10-20T15:32:09.469679Z"
   },
   "AUBANK.NS": {
     "ticker": "AUBANK.NS",
@@ -514214,10 +514214,10 @@
         "high": 993.8,
         "low": 968.7,
         "close": 971.7,
-        "volume": 1493791
+        "volume": 1493862
       }
     ],
-    "updated_at": "2026-10-19T17:15:46.310960Z"
+    "updated_at": "2026-10-20T15:28:55.192818Z"
   },
   "HINDPETRO.NS": {
     "ticker": "HINDPETRO.NS",
@@ -516208,10 +516208,10 @@
         "high": 349.55,
         "low": 344.0,
         "close": 348.5,
-        "volume": 3971710
+        "volume": 3972010
       }
     ],
-    "updated_at": "2026-10-19T17:18:49.411055Z"
+    "updated_at": "2026-10-20T15:31:26.265939Z"
   },
   "CANFINHOME.NS": {
     "ticker": "CANFINHOME.NS",
@@ -518202,10 +518202,10 @@
         "high": 740.0,
         "low": 726.3,
         "close": 732.2,
-        "volume": 91676
+        "volume": 91683
       }
     ],
-    "updated_at": "2026-10-19T17:17:08.177980Z"
+    "updated_at": "2026-10-20T15:30:02.190530Z"
   },
   "ERIS.NS": {
     "ticker": "ERIS.NS",
@@ -522214,10 +522214,10 @@
         "high": 2239.9,
         "low": 2160.0,
         "close": 2170.0,
-        "volume": 193213
+        "volume": 193264
       }
     ],
-    "updated_at": "2026-10-19T17:22:38.635610Z"
+    "updated_at": "2026-10-20T15:34:29.899925Z"
   },
   "GROWW.NS": {
     "ticker": "GROWW.NS",
@@ -524088,10 +524088,10 @@
         "high": 202.95,
         "low": 197.61,
         "close": 198.08,
-        "volume": 20898701
+        "volume": 20901514
       }
     ],
-    "updated_at": "2026-10-19T17:16:54.715972Z"
+    "updated_at": "2026-10-20T15:29:50.633573Z"
   },
   "SAPPHIRE.NS": {
     "ticker": "SAPPHIRE.NS",
@@ -528116,10 +528116,10 @@
         "high": 221.73,
         "low": 207.89,
         "close": 208.45,
-        "volume": 8046446
+        "volume": 8047666
       }
     ],
-    "updated_at": "2026-10-19T17:17:37.151437Z"
+    "updated_at": "2026-10-20T15:30:26.891063Z"
   },
   "SIEMENS.NS": {
     "ticker": "SIEMENS.NS",
@@ -528129,7 +528129,7 @@
     "ema_200": 3551.08,
     "above_50_ema": false,
     "above_200_ema": true,
-    "volume_ratio": 0.56,
+    "volume_ratio": 0.57,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -530102,10 +530102,10 @@
         "high": 3650.0,
         "low": 3591.2,
         "close": 3623.0,
-        "volume": 113028
+        "volume": 113112
       }
     ],
-    "updated_at": "2026-10-19T17:21:51.412899Z"
+    "updated_at": "2026-10-20T15:33:51.464927Z"
   },
   "ITI.NS": {
     "ticker": "ITI.NS",
@@ -532096,10 +532096,10 @@
         "high": 243.97,
         "low": 236.51,
         "close": 238.01,
-        "volume": 134638
+        "volume": 134639
       }
     ],
-    "updated_at": "2026-10-19T17:19:08.649634Z"
+    "updated_at": "2026-10-20T15:31:42.281055Z"
   },
   "SUNPHARMA.NS": {
     "ticker": "SUNPHARMA.NS",
@@ -534090,10 +534090,10 @@
         "high": 1768.9,
         "low": 1735.3,
         "close": 1743.0,
-        "volume": 829135
+        "volume": 829445
       }
     ],
-    "updated_at": "2026-10-19T17:22:00.463554Z"
+    "updated_at": "2026-10-20T15:33:58.678031Z"
   },
   "GRSE.NS": {
     "ticker": "GRSE.NS",
@@ -536084,10 +536084,10 @@
         "high": 2119.4,
         "low": 2082.9,
         "close": 2085.8,
-        "volume": 207055
+        "volume": 207103
       }
     ],
-    "updated_at": "2026-10-19T17:18:18.587995Z"
+    "updated_at": "2026-10-20T15:31:00.904179Z"
   },
   "M&MFIN.NS": {
     "ticker": "M&MFIN.NS",
@@ -538078,10 +538078,10 @@
         "high": 315.25,
         "low": 302.0,
         "close": 304.9,
-        "volume": 2331509
+        "volume": 2332226
       }
     ],
-    "updated_at": "2026-10-19T17:20:18.126621Z"
+    "updated_at": "2026-10-20T15:32:36.241550Z"
   },
   "CAMS.NS": {
     "ticker": "CAMS.NS",
@@ -540075,7 +540075,7 @@
         "volume": 304532
       }
     ],
-    "updated_at": "2026-10-19T17:17:31.878774Z"
+    "updated_at": "2026-10-20T15:30:22.614037Z"
   },
   "ANTHEM.NS": {
     "ticker": "ANTHEM.NS",
@@ -542066,10 +542066,10 @@
         "high": 825.8,
         "low": 802.85,
         "close": 808.5,
-        "volume": 360862
+        "volume": 360867
       }
     ],
-    "updated_at": "2026-10-19T17:16:14.872917Z"
+    "updated_at": "2026-10-20T15:29:18.153630Z"
   },
   "FSL.NS": {
     "ticker": "FSL.NS",
@@ -544060,10 +544060,10 @@
         "high": 284.2,
         "low": 274.8,
         "close": 275.8,
-        "volume": 508544
+        "volume": 508601
       }
     ],
-    "updated_at": "2026-10-19T17:18:09.130987Z"
+    "updated_at": "2026-10-20T15:30:53.662530Z"
   },
   "MARICO.NS": {
     "ticker": "MARICO.NS",
@@ -546057,7 +546057,7 @@
         "volume": 1297998
       }
     ],
-    "updated_at": "2026-10-19T17:20:22.575492Z"
+    "updated_at": "2026-10-20T15:32:39.943413Z"
   },
   "ABREL.NS": {
     "ticker": "ABREL.NS",
@@ -548051,7 +548051,7 @@
         "volume": 59459
       }
     ],
-    "updated_at": "2026-10-19T17:15:59.611450Z"
+    "updated_at": "2026-10-20T15:29:05.921141Z"
   },
   "NBCC.NS": {
     "ticker": "NBCC.NS",
@@ -550042,10 +550042,10 @@
         "high": 75.69,
         "low": 73.5,
         "close": 73.7,
-        "volume": 3364663
+        "volume": 3369427
       }
     ],
-    "updated_at": "2026-10-19T17:20:34.338722Z"
+    "updated_at": "2026-10-20T15:32:49.362261Z"
   },
   "ENDURANCE.NS": {
     "ticker": "ENDURANCE.NS",
@@ -552036,10 +552036,10 @@
         "high": 2417.6,
         "low": 2350.1,
         "close": 2368.8,
-        "volume": 63779
+        "volume": 63784
       }
     ],
-    "updated_at": "2026-10-19T17:18:01.140855Z"
+    "updated_at": "2026-10-20T15:30:46.658586Z"
   },
   "INTELLECT.NS": {
     "ticker": "INTELLECT.NS",
@@ -554033,7 +554033,7 @@
         "volume": 306219
       }
     ],
-    "updated_at": "2026-10-19T17:19:23.602315Z"
+    "updated_at": "2026-10-20T15:31:54.637988Z"
   },
   "BAJFINANCE.NS": {
     "ticker": "BAJFINANCE.NS",
@@ -556024,10 +556024,10 @@
         "high": 985.5,
         "low": 955.6,
         "close": 957.35,
-        "volume": 8307809
+        "volume": 8308852
       }
     ],
-    "updated_at": "2026-10-19T17:16:36.032690Z"
+    "updated_at": "2026-10-20T15:29:35.316792Z"
   },
   "SONATSOFTW.NS": {
     "ticker": "SONATSOFTW.NS",
@@ -560052,10 +560052,10 @@
         "high": 1985.0,
         "low": 1947.2,
         "close": 1955.0,
-        "volume": 487119
+        "volume": 487177
       }
     ],
-    "updated_at": "2026-10-19T17:18:56.272610Z"
+    "updated_at": "2026-10-20T15:31:31.927361Z"
   },
   "SOBHA.NS": {
     "ticker": "SOBHA.NS",
@@ -562041,7 +562041,7 @@
         "volume": 164715
       }
     ],
-    "updated_at": "2026-10-19T17:21:53.239216Z"
+    "updated_at": "2026-10-20T15:33:52.924049Z"
   },
   "PTCIL.NS": {
     "ticker": "PTCIL.NS",
@@ -564024,10 +564024,10 @@
         "high": 25400.0,
         "low": 24130.0,
         "close": 25045.0,
-        "volume": 31652
+        "volume": 31661
       }
     ],
-    "updated_at": "2026-10-19T17:21:01.728921Z"
+    "updated_at": "2026-10-20T15:33:11.698219Z"
   },
   "MMTC.NS": {
     "ticker": "MMTC.NS",
@@ -566018,10 +566018,10 @@
         "high": 56.48,
         "low": 54.4,
         "close": 54.89,
-        "volume": 1059417
+        "volume": 1065503
       }
     ],
-    "updated_at": "2026-10-19T17:20:14.544718Z"
+    "updated_at": "2026-10-20T15:32:33.416773Z"
   },
   "JUBLPHARMA.NS": {
     "ticker": "JUBLPHARMA.NS",
@@ -570038,10 +570038,10 @@
         "high": 404.8,
         "low": 396.4,
         "close": 400.0,
-        "volume": 1220255
+        "volume": 1220263
       }
     ],
-    "updated_at": "2026-10-19T17:17:46.876311Z"
+    "updated_at": "2026-10-20T15:30:35.325707Z"
   },
   "CHENNPETRO.NS": {
     "ticker": "CHENNPETRO.NS",
@@ -572032,10 +572032,10 @@
         "high": 1458.8,
         "low": 1411.0,
         "close": 1432.4,
-        "volume": 2109455
+        "volume": 2109928
       }
     ],
-    "updated_at": "2026-10-19T17:17:20.624221Z"
+    "updated_at": "2026-10-20T15:30:12.287765Z"
   },
   "ARE&M.NS": {
     "ticker": "ARE&M.NS",
@@ -572045,7 +572045,7 @@
     "ema_200": 852.81,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 0.71,
+    "volume_ratio": 0.72,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -574026,10 +574026,10 @@
         "high": 745.35,
         "low": 731.0,
         "close": 732.9,
-        "volume": 256627
+        "volume": 256665
       }
     ],
-    "updated_at": "2026-10-19T17:16:09.661600Z"
+    "updated_at": "2026-10-20T15:29:13.910923Z"
   },
   "RAINBOW.NS": {
     "ticker": "RAINBOW.NS",
@@ -576012,10 +576012,10 @@
         "high": 1260.0,
         "low": 1229.8,
         "close": 1236.0,
-        "volume": 59030
+        "volume": 59031
       }
     ],
-    "updated_at": "2026-10-19T17:21:29.926598Z"
+    "updated_at": "2026-10-20T15:33:33.741273Z"
   },
   "ANANTRAJ.NS": {
     "ticker": "ANANTRAJ.NS",
@@ -578006,10 +578006,10 @@
         "high": 520.9,
         "low": 496.0,
         "close": 497.55,
-        "volume": 2140822
+        "volume": 2141048
       }
     ],
-    "updated_at": "2026-10-19T17:16:13.158190Z"
+    "updated_at": "2026-10-20T15:29:16.788135Z"
   },
   "HAL.NS": {
     "ticker": "HAL.NS",
@@ -580000,10 +580000,10 @@
         "high": 5012.0,
         "low": 4923.0,
         "close": 4959.0,
-        "volume": 583301
+        "volume": 583323
       }
     ],
-    "updated_at": "2026-10-19T17:18:47.336986Z"
+    "updated_at": "2026-10-20T15:31:24.866290Z"
   },
   "BDL.NS": {
     "ticker": "BDL.NS",
@@ -581994,10 +581994,10 @@
         "high": 1114.7,
         "low": 1085.0,
         "close": 1088.0,
-        "volume": 366411
+        "volume": 366812
       }
     ],
-    "updated_at": "2026-10-19T17:16:48.241881Z"
+    "updated_at": "2026-10-20T15:29:45.596873Z"
   },
   "IDBI.NS": {
     "ticker": "IDBI.NS",
@@ -583988,10 +583988,10 @@
         "high": 84.75,
         "low": 81.99,
         "close": 82.24,
-        "volume": 9904833
+        "volume": 9907175
       }
     ],
-    "updated_at": "2026-10-19T17:19:00.796885Z"
+    "updated_at": "2026-10-20T15:31:35.510073Z"
   },
   "RBLBANK.NS": {
     "ticker": "RBLBANK.NS",
@@ -585982,10 +585982,10 @@
         "high": 381.0,
         "low": 374.0,
         "close": 375.75,
-        "volume": 2253231
+        "volume": 2253293
       }
     ],
-    "updated_at": "2026-10-19T17:21:23.259061Z"
+    "updated_at": "2026-10-20T15:33:28.810264Z"
   },
   "GAIL.NS": {
     "ticker": "GAIL.NS",
@@ -587976,10 +587976,10 @@
         "high": 169.3,
         "low": 166.5,
         "close": 167.3,
-        "volume": 3175641
+        "volume": 3179082
       }
     ],
-    "updated_at": "2026-10-19T17:18:13.529521Z"
+    "updated_at": "2026-10-20T15:30:57.306381Z"
   },
   "NLCINDIA.NS": {
     "ticker": "NLCINDIA.NS",
@@ -589970,10 +589970,10 @@
         "high": 252.45,
         "low": 243.6,
         "close": 244.35,
-        "volume": 575608
+        "volume": 575935
       }
     ],
-    "updated_at": "2026-10-19T17:20:37.115899Z"
+    "updated_at": "2026-10-20T15:32:51.605410Z"
   },
   "UNITDSPR.NS": {
     "ticker": "UNITDSPR.NS",
@@ -591964,10 +591964,10 @@
         "high": 1384.3,
         "low": 1360.0,
         "close": 1364.0,
-        "volume": 317551
+        "volume": 317558
       }
     ],
-    "updated_at": "2026-10-19T17:22:45.793726Z"
+    "updated_at": "2026-10-20T15:34:35.729207Z"
   },
   "SHYAMMETL.NS": {
     "ticker": "SHYAMMETL.NS",
@@ -593958,10 +593958,10 @@
         "high": 1240.5,
         "low": 1178.5,
         "close": 1226.6,
-        "volume": 765134
+        "volume": 765369
       }
     ],
-    "updated_at": "2026-10-19T17:21:49.644999Z"
+    "updated_at": "2026-10-20T15:33:50.046203Z"
   },
   "BELRISE.NS": {
     "ticker": "BELRISE.NS",
@@ -595952,10 +595952,10 @@
         "high": 232.45,
         "low": 225.32,
         "close": 227.2,
-        "volume": 1180295
+        "volume": 1181565
       }
     ],
-    "updated_at": "2026-10-19T17:16:45.673853Z"
+    "updated_at": "2026-10-20T15:29:43.443109Z"
   },
   "KAJARIACER.NS": {
     "ticker": "KAJARIACER.NS",
@@ -597946,10 +597946,10 @@
         "high": 1235.5,
         "low": 1201.0,
         "close": 1208.5,
-        "volume": 154400
+        "volume": 154450
       }
     ],
-    "updated_at": "2026-10-19T17:19:48.373419Z"
+    "updated_at": "2026-10-20T15:32:14.495630Z"
   },
   "DRREDDY.NS": {
     "ticker": "DRREDDY.NS",
@@ -599940,10 +599940,10 @@
         "high": 1245.0,
         "low": 1227.0,
         "close": 1242.5,
-        "volume": 1023834
+        "volume": 1023837
       }
     ],
-    "updated_at": "2026-10-19T17:17:51.394407Z"
+    "updated_at": "2026-10-20T15:30:38.879346Z"
   },
   "POONAWALLA.NS": {
     "ticker": "POONAWALLA.NS",
@@ -601934,10 +601934,10 @@
         "high": 450.0,
         "low": 441.55,
         "close": 445.7,
-        "volume": 1052058
+        "volume": 1052168
       }
     ],
-    "updated_at": "2026-10-19T17:21:14.777182Z"
+    "updated_at": "2026-10-20T15:33:22.387767Z"
   },
   "DEEPAKNTR.NS": {
     "ticker": "DEEPAKNTR.NS",
@@ -603928,10 +603928,10 @@
         "high": 1598.5,
         "low": 1542.0,
         "close": 1550.6,
-        "volume": 81643
+        "volume": 81731
       }
     ],
-    "updated_at": "2026-10-19T17:17:46.021267Z"
+    "updated_at": "2026-10-20T15:30:34.615099Z"
   },
   "HEXT.NS": {
     "ticker": "HEXT.NS",
@@ -605917,7 +605917,7 @@
         "volume": 222727
       }
     ],
-    "updated_at": "2026-10-19T17:18:44.421441Z"
+    "updated_at": "2026-10-20T15:31:22.535256Z"
   },
   "SAMMAANCAP.NS": {
     "ticker": "SAMMAANCAP.NS",
@@ -605927,7 +605927,7 @@
     "ema_200": 151.31,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 1.99,
+    "volume_ratio": 2.0,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -607908,10 +607908,10 @@
         "high": 134.05,
         "low": 124.1,
         "close": 125.8,
-        "volume": 10254071
+        "volume": 10256705
       }
     ],
-    "updated_at": "2026-10-19T17:21:41.352010Z"
+    "updated_at": "2026-10-20T15:33:43.114016Z"
   },
   "AARTIIND.NS": {
     "ticker": "AARTIIND.NS",
@@ -609902,10 +609902,10 @@
         "high": 495.8,
         "low": 475.0,
         "close": 479.0,
-        "volume": 554648
+        "volume": 554747
       }
     ],
-    "updated_at": "2026-10-19T17:15:49.147162Z"
+    "updated_at": "2026-10-20T15:28:57.316780Z"
   },
   "INDHOTEL.NS": {
     "ticker": "INDHOTEL.NS",
@@ -611896,10 +611896,10 @@
         "high": 775.0,
         "low": 756.55,
         "close": 760.0,
-        "volume": 3712536
+        "volume": 3712637
       }
     ],
-    "updated_at": "2026-10-19T17:19:13.038279Z"
+    "updated_at": "2026-10-20T15:31:45.912663Z"
   },
   "SRF.NS": {
     "ticker": "SRF.NS",
@@ -613890,10 +613890,10 @@
         "high": 2474.7,
         "low": 2415.1,
         "close": 2432.0,
-        "volume": 215207
+        "volume": 215333
       }
     ],
-    "updated_at": "2026-10-19T17:21:38.810980Z"
+    "updated_at": "2026-10-20T15:33:40.988850Z"
   },
   "CUMMINSIND.NS": {
     "ticker": "CUMMINSIND.NS",
@@ -615884,10 +615884,10 @@
         "high": 4645.4,
         "low": 4586.9,
         "close": 4612.0,
-        "volume": 218939
+        "volume": 218940
       }
     ],
-    "updated_at": "2026-10-19T17:17:38.116596Z"
+    "updated_at": "2026-10-20T15:30:27.636298Z"
   },
   "ETERNAL.NS": {
     "ticker": "ETERNAL.NS",
@@ -617878,10 +617878,10 @@
         "high": 327.1,
         "low": 319.5,
         "close": 320.2,
-        "volume": 17848709
+        "volume": 17850721
       }
     ],
-    "updated_at": "2026-10-19T17:18:03.737499Z"
+    "updated_at": "2026-10-20T15:30:49.178381Z"
   },
   "NH.NS": {
     "ticker": "NH.NS",
@@ -619872,10 +619872,10 @@
         "high": 1748.1,
         "low": 1703.0,
         "close": 1740.9,
-        "volume": 100828
+        "volume": 100860
       }
     ],
-    "updated_at": "2026-10-19T17:20:41.445243Z"
+    "updated_at": "2026-10-20T15:32:55.226102Z"
   },
   "KEI.NS": {
     "ticker": "KEI.NS",
@@ -621866,10 +621866,10 @@
         "high": 4520.5,
         "low": 4420.6,
         "close": 4442.0,
-        "volume": 210418
+        "volume": 210454
       }
     ],
-    "updated_at": "2026-10-19T17:19:45.591228Z"
+    "updated_at": "2026-10-20T15:32:12.333359Z"
   },
   "GRASIM.NS": {
     "ticker": "GRASIM.NS",
@@ -623863,7 +623863,7 @@
         "volume": 308699
       }
     ],
-    "updated_at": "2026-10-19T17:18:31.277794Z"
+    "updated_at": "2026-10-20T15:31:11.149369Z"
   },
   "FORTIS.NS": {
     "ticker": "FORTIS.NS",
@@ -625854,10 +625854,10 @@
         "high": 745.15,
         "low": 731.8,
         "close": 737.8,
-        "volume": 1076024
+        "volume": 1076545
       }
     ],
-    "updated_at": "2026-10-19T17:18:11.763141Z"
+    "updated_at": "2026-10-20T15:30:55.891891Z"
   },
   "360ONE.NS": {
     "ticker": "360ONE.NS",
@@ -627843,7 +627843,7 @@
         "volume": 1696837
       }
     ],
-    "updated_at": "2026-10-19T17:15:41.054622Z"
+    "updated_at": "2026-10-20T15:28:50.820521Z"
   },
   "COFORGE.NS": {
     "ticker": "COFORGE.NS",
@@ -629834,10 +629834,10 @@
         "high": 1964.7,
         "low": 1916.4,
         "close": 1925.0,
-        "volume": 1309589
+        "volume": 1309638
       }
     ],
-    "updated_at": "2026-10-19T17:17:29.236436Z"
+    "updated_at": "2026-10-20T15:30:19.491371Z"
   },
   "BEML.NS": {
     "ticker": "BEML.NS",
@@ -631828,10 +631828,10 @@
         "high": 2004.9,
         "low": 1930.0,
         "close": 1938.4,
-        "volume": 176278
+        "volume": 176296
       }
     ],
-    "updated_at": "2026-10-19T17:16:31.621169Z"
+    "updated_at": "2026-10-20T15:29:31.859545Z"
   },
   "POLYMED.NS": {
     "ticker": "POLYMED.NS",
@@ -633822,10 +633822,10 @@
         "high": 1594.9,
         "low": 1543.0,
         "close": 1550.7,
-        "volume": 55794
+        "volume": 55799
       }
     ],
-    "updated_at": "2026-10-19T17:21:12.985762Z"
+    "updated_at": "2026-10-20T15:33:20.994459Z"
   },
   "DIVISLAB.NS": {
     "ticker": "DIVISLAB.NS",
@@ -635816,10 +635816,10 @@
         "high": 9323.5,
         "low": 9045.0,
         "close": 9087.0,
-        "volume": 448902
+        "volume": 448972
       }
     ],
-    "updated_at": "2026-10-19T17:17:48.677879Z"
+    "updated_at": "2026-10-20T15:30:36.800860Z"
   },
   "EMCURE.NS": {
     "ticker": "EMCURE.NS",
@@ -637810,10 +637810,10 @@
         "high": 1829.0,
         "low": 1746.5,
         "close": 1766.6,
-        "volume": 108207
+        "volume": 108214
       }
     ],
-    "updated_at": "2026-10-19T17:17:59.219230Z"
+    "updated_at": "2026-10-20T15:30:45.293354Z"
   },
   "VBL.NS": {
     "ticker": "VBL.NS",
@@ -639804,10 +639804,10 @@
         "high": 430.45,
         "low": 418.5,
         "close": 420.55,
-        "volume": 4710703
+        "volume": 4711070
       }
     ],
-    "updated_at": "2026-10-19T17:22:49.250576Z"
+    "updated_at": "2026-10-20T15:34:38.533880Z"
   },
   "ACE.NS": {
     "ticker": "ACE.NS",
@@ -641798,10 +641798,10 @@
         "high": 1140.4,
         "low": 1100.1,
         "close": 1108.1,
-        "volume": 312881
+        "volume": 312883
       }
     ],
-    "updated_at": "2026-10-19T17:15:51.846861Z"
+    "updated_at": "2026-10-20T15:28:59.478392Z"
   },
   "CUB.NS": {
     "ticker": "CUB.NS",
@@ -643792,10 +643792,10 @@
         "high": 231.7,
         "low": 225.0,
         "close": 230.95,
-        "volume": 1114931
+        "volume": 1115071
       }
     ],
-    "updated_at": "2026-10-19T17:17:24.953715Z"
+    "updated_at": "2026-10-20T15:30:15.942364Z"
   },
   "DLF.NS": {
     "ticker": "DLF.NS",
@@ -645789,7 +645789,7 @@
         "volume": 2504625
       }
     ],
-    "updated_at": "2026-10-19T17:17:40.707953Z"
+    "updated_at": "2026-10-20T15:30:29.934211Z"
   },
   "NIVABUPA.NS": {
     "ticker": "NIVABUPA.NS",
@@ -649806,10 +649806,10 @@
         "high": 161.9,
         "low": 155.5,
         "close": 156.31,
-        "volume": 2260194
+        "volume": 2260383
       }
     ],
-    "updated_at": "2026-10-19T17:18:55.439898Z"
+    "updated_at": "2026-10-20T15:31:31.205361Z"
   },
   "PARADEEP.NS": {
     "ticker": "PARADEEP.NS",
@@ -651800,10 +651800,10 @@
         "high": 147.7,
         "low": 143.48,
         "close": 144.26,
-        "volume": 783846
+        "volume": 783988
       }
     ],
-    "updated_at": "2026-10-19T17:21:04.295603Z"
+    "updated_at": "2026-10-20T15:33:13.867122Z"
   },
   "MGL.NS": {
     "ticker": "MGL.NS",
@@ -653797,7 +653797,7 @@
         "volume": 54238
       }
     ],
-    "updated_at": "2026-10-19T17:20:17.269602Z"
+    "updated_at": "2026-10-20T15:32:35.537294Z"
   },
   "SUMICHEM.NS": {
     "ticker": "SUMICHEM.NS",
@@ -655788,10 +655788,10 @@
         "high": 404.05,
         "low": 391.0,
         "close": 392.35,
-        "volume": 159009
+        "volume": 159012
       }
     ],
-    "updated_at": "2026-10-19T17:21:59.514633Z"
+    "updated_at": "2026-10-20T15:33:57.940361Z"
   },
   "AADHARHFC.NS": {
     "ticker": "AADHARHFC.NS",
@@ -657785,7 +657785,7 @@
         "volume": 139321
       }
     ],
-    "updated_at": "2026-10-19T17:15:48.164006Z"
+    "updated_at": "2026-10-20T15:28:56.571189Z"
   },
   "IIFL.NS": {
     "ticker": "IIFL.NS",
@@ -659776,10 +659776,10 @@
         "high": 628.5,
         "low": 610.0,
         "close": 612.5,
-        "volume": 1788072
+        "volume": 1788198
       }
     ],
-    "updated_at": "2026-10-19T17:19:03.453055Z"
+    "updated_at": "2026-10-20T15:31:37.685593Z"
   },
   "ENGINERSIN.NS": {
     "ticker": "ENGINERSIN.NS",
@@ -661770,10 +661770,10 @@
         "high": 274.05,
         "low": 266.9,
         "close": 269.85,
-        "volume": 2294876
+        "volume": 2296228
       }
     ],
-    "updated_at": "2026-10-19T17:18:01.995178Z"
+    "updated_at": "2026-10-20T15:30:47.360407Z"
   },
   "GRAVITA.NS": {
     "ticker": "GRAVITA.NS",
@@ -663764,10 +663764,10 @@
         "high": 1497.0,
         "low": 1441.0,
         "close": 1447.5,
-        "volume": 147046
+        "volume": 147047
       }
     ],
-    "updated_at": "2026-10-19T17:18:32.141622Z"
+    "updated_at": "2026-10-20T15:31:11.870727Z"
   },
   "PGEL.NS": {
     "ticker": "PGEL.NS",
@@ -665758,10 +665758,10 @@
         "high": 522.8,
         "low": 505.3,
         "close": 508.0,
-        "volume": 877986
+        "volume": 878350
       }
     ],
-    "updated_at": "2026-10-19T17:20:58.981863Z"
+    "updated_at": "2026-10-20T15:33:09.615586Z"
   },
   "AIIL.NS": {
     "ticker": "AIIL.NS",
@@ -665771,7 +665771,7 @@
     "ema_200": 531.87,
     "above_50_ema": true,
     "above_200_ema": true,
-    "volume_ratio": 0.67,
+    "volume_ratio": 0.68,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -667752,10 +667752,10 @@
         "high": 570.2,
         "low": 543.55,
         "close": 548.95,
-        "volume": 111189
+        "volume": 112278
       }
     ],
-    "updated_at": "2026-10-19T17:16:27.115422Z"
+    "updated_at": "2026-10-20T15:29:28.277387Z"
   },
   "LLOYDSME.NS": {
     "ticker": "LLOYDSME.NS",
@@ -669746,10 +669746,10 @@
         "high": 1869.0,
         "low": 1801.0,
         "close": 1804.1,
-        "volume": 303889
+        "volume": 304034
       }
     ],
-    "updated_at": "2026-10-19T17:20:11.893182Z"
+    "updated_at": "2026-10-20T15:32:31.059949Z"
   },
   "AMBER.NS": {
     "ticker": "AMBER.NS",
@@ -671740,10 +671740,10 @@
         "high": 6725.0,
         "low": 6501.0,
         "close": 6529.5,
-        "volume": 67192
+        "volume": 67193
       }
     ],
-    "updated_at": "2026-10-19T17:16:10.495230Z"
+    "updated_at": "2026-10-20T15:29:14.592229Z"
   },
   "FLUOROCHEM.NS": {
     "ticker": "FLUOROCHEM.NS",
@@ -673734,10 +673734,10 @@
         "high": 4519.0,
         "low": 4350.9,
         "close": 4454.1,
-        "volume": 130446
+        "volume": 130457
       }
     ],
-    "updated_at": "2026-10-19T17:18:33.862762Z"
+    "updated_at": "2026-10-20T15:31:13.266370Z"
   },
   "ELGIEQUIP.NS": {
     "ticker": "ELGIEQUIP.NS",
@@ -675728,10 +675728,10 @@
         "high": 572.0,
         "low": 542.1,
         "close": 544.35,
-        "volume": 260368
+        "volume": 260373
       }
     ],
-    "updated_at": "2026-10-19T17:17:57.352886Z"
+    "updated_at": "2026-10-20T15:30:43.878790Z"
   },
   "HBLENGINE.NS": {
     "ticker": "HBLENGINE.NS",
@@ -677722,10 +677722,10 @@
         "high": 832.85,
         "low": 800.4,
         "close": 812.95,
-        "volume": 5496996
+        "volume": 5497271
       }
     ],
-    "updated_at": "2026-10-19T17:18:35.664159Z"
+    "updated_at": "2026-10-20T15:31:14.775996Z"
   },
   "ASTERDM.NS": {
     "ticker": "ASTERDM.NS",
@@ -679716,10 +679716,10 @@
         "high": 684.85,
         "low": 664.8,
         "close": 667.15,
-        "volume": 413093
+        "volume": 413105
       }
     ],
-    "updated_at": "2026-10-19T17:16:22.815523Z"
+    "updated_at": "2026-10-20T15:29:24.719363Z"
   },
   "BALRAMCHIN.NS": {
     "ticker": "BALRAMCHIN.NS",
@@ -681710,10 +681710,10 @@
         "high": 708.3,
         "low": 692.2,
         "close": 701.85,
-        "volume": 970739
+        "volume": 970774
       }
     ],
-    "updated_at": "2026-10-19T17:16:40.385353Z"
+    "updated_at": "2026-10-20T15:29:39.021852Z"
   },
   "HDBFS.NS": {
     "ticker": "HDBFS.NS",
@@ -683704,10 +683704,10 @@
         "high": 517.85,
         "low": 504.1,
         "close": 509.05,
-        "volume": 1654125
+        "volume": 1655913
       }
     ],
-    "updated_at": "2026-10-19T17:18:37.397658Z"
+    "updated_at": "2026-10-20T15:31:16.377902Z"
   },
   "HOMEFIRST.NS": {
     "ticker": "HOMEFIRST.NS",
@@ -685701,7 +685701,7 @@
         "volume": 326033
       }
     ],
-    "updated_at": "2026-10-19T17:18:52.892209Z"
+    "updated_at": "2026-10-20T15:31:29.104933Z"
   },
   "CHOLAFIN.NS": {
     "ticker": "CHOLAFIN.NS",
@@ -687692,10 +687692,10 @@
         "high": 1590.3,
         "low": 1548.1,
         "close": 1553.0,
-        "volume": 573612
+        "volume": 573647
       }
     ],
-    "updated_at": "2026-10-19T17:17:23.241213Z"
+    "updated_at": "2026-10-20T15:30:14.477179Z"
   },
   "ABSLAMC.NS": {
     "ticker": "ABSLAMC.NS",
@@ -689686,10 +689686,10 @@
         "high": 976.05,
         "low": 954.65,
         "close": 958.7,
-        "volume": 104727
+        "volume": 104739
       }
     ],
-    "updated_at": "2026-10-19T17:16:00.659003Z"
+    "updated_at": "2026-10-20T15:29:06.608657Z"
   },
   "JBMA.NS": {
     "ticker": "JBMA.NS",
@@ -691680,10 +691680,10 @@
         "high": 543.95,
         "low": 527.5,
         "close": 529.2,
-        "volume": 111630
+        "volume": 111655
       }
     ],
-    "updated_at": "2026-10-19T17:19:28.916473Z"
+    "updated_at": "2026-10-20T15:31:58.877280Z"
   },
   "AUROPHARMA.NS": {
     "ticker": "AUROPHARMA.NS",
@@ -693666,10 +693666,10 @@
         "high": 1681.6,
         "low": 1615.6,
         "close": 1621.4,
-        "volume": 735824
+        "volume": 736433
       }
     ],
-    "updated_at": "2026-10-19T17:16:26.237647Z"
+    "updated_at": "2026-10-20T15:29:27.538370Z"
   },
   "PCBL.NS": {
     "ticker": "PCBL.NS",
@@ -695660,10 +695660,10 @@
         "high": 310.5,
         "low": 301.55,
         "close": 302.75,
-        "volume": 443854
+        "volume": 444566
       }
     ],
-    "updated_at": "2026-10-19T17:20:58.142041Z"
+    "updated_at": "2026-10-20T15:33:08.886663Z"
   },
   "TORNTPHARM.NS": {
     "ticker": "TORNTPHARM.NS",
@@ -697657,7 +697657,7 @@
         "volume": 250305
       }
     ],
-    "updated_at": "2026-10-19T17:22:33.206637Z"
+    "updated_at": "2026-10-20T15:34:25.567610Z"
   },
   "BERGEPAINT.NS": {
     "ticker": "BERGEPAINT.NS",
@@ -699651,7 +699651,7 @@
         "volume": 114310
       }
     ],
-    "updated_at": "2026-10-19T17:16:46.541226Z"
+    "updated_at": "2026-10-20T15:29:44.185099Z"
   },
   "VTL.NS": {
     "ticker": "VTL.NS",
@@ -701645,7 +701645,7 @@
         "volume": 302820
       }
     ],
-    "updated_at": "2026-10-19T17:22:48.381970Z"
+    "updated_at": "2026-10-20T15:34:37.844240Z"
   },
   "FEDERALBNK.NS": {
     "ticker": "FEDERALBNK.NS",
@@ -703636,10 +703636,10 @@
         "high": 355.5,
         "low": 321.35,
         "close": 348.85,
-        "volume": 31068999
+        "volume": 31072948
       }
     ],
-    "updated_at": "2026-10-19T17:18:06.500708Z"
+    "updated_at": "2026-10-20T15:30:51.504651Z"
   },
   "BHARATFORG.NS": {
     "ticker": "BHARATFORG.NS",
@@ -705622,10 +705622,10 @@
         "high": 1840.0,
         "low": 1792.1,
         "close": 1798.6,
-        "volume": 428940
+        "volume": 429055
       }
     ],
-    "updated_at": "2026-10-19T17:16:49.999191Z"
+    "updated_at": "2026-10-20T15:29:47.040325Z"
   },
   "APOLLOHOSP.NS": {
     "ticker": "APOLLOHOSP.NS",
@@ -705635,7 +705635,7 @@
     "ema_200": 8063.99,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 0.59,
+    "volume_ratio": 0.6,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -707616,10 +707616,10 @@
         "high": 7895.0,
         "low": 7664.5,
         "close": 7700.0,
-        "volume": 422417
+        "volume": 422465
       }
     ],
-    "updated_at": "2026-10-19T17:16:17.587460Z"
+    "updated_at": "2026-10-20T15:29:20.359487Z"
   },
   "BSE.NS": {
     "ticker": "BSE.NS",
@@ -709610,10 +709610,10 @@
         "high": 3396.4,
         "low": 3330.0,
         "close": 3336.0,
-        "volume": 1702031
+        "volume": 1702894
       }
     ],
-    "updated_at": "2026-10-19T17:16:33.544974Z"
+    "updated_at": "2026-10-20T15:29:33.348245Z"
   },
   "GODREJPROP.NS": {
     "ticker": "GODREJPROP.NS",
@@ -711604,10 +711604,10 @@
         "high": 1627.5,
         "low": 1579.2,
         "close": 1589.0,
-        "volume": 263436
+        "volume": 264019
       }
     ],
-    "updated_at": "2026-10-19T17:18:28.682262Z"
+    "updated_at": "2026-10-20T15:31:08.836861Z"
   },
   "MAXHEALTH.NS": {
     "ticker": "MAXHEALTH.NS",
@@ -713598,10 +713598,10 @@
         "high": 855.55,
         "low": 828.6,
         "close": 830.0,
-        "volume": 2042768
+        "volume": 2042848
       }
     ],
-    "updated_at": "2026-10-19T17:20:25.373524Z"
+    "updated_at": "2026-10-20T15:32:42.046522Z"
   },
   "3MINDIA.NS": {
     "ticker": "3MINDIA.NS",
@@ -717602,10 +717602,10 @@
         "high": 2336.8,
         "low": 2310.0,
         "close": 2330.7,
-        "volume": 497370
+        "volume": 497488
       }
     ],
-    "updated_at": "2026-10-19T17:16:21.961476Z"
+    "updated_at": "2026-10-20T15:29:23.957905Z"
   },
   "ZYDUSWELL.NS": {
     "ticker": "ZYDUSWELL.NS",
@@ -719596,10 +719596,10 @@
         "high": 516.75,
         "low": 501.55,
         "close": 515.4,
-        "volume": 61333
+        "volume": 61362
       }
     ],
-    "updated_at": "2026-10-19T17:23:08.469755Z"
+    "updated_at": "2026-10-20T15:34:54.643643Z"
   },
   "ITCHOTELS.NS": {
     "ticker": "ITCHOTELS.NS",
@@ -721590,10 +721590,10 @@
         "high": 163.41,
         "low": 157.87,
         "close": 158.5,
-        "volume": 1136292
+        "volume": 1136523
       }
     ],
-    "updated_at": "2026-10-19T17:19:06.931083Z"
+    "updated_at": "2026-10-20T15:31:40.889756Z"
   },
   "ABCAPITAL.NS": {
     "ticker": "ABCAPITAL.NS",
@@ -723584,10 +723584,10 @@
         "high": 381.0,
         "low": 373.05,
         "close": 373.05,
-        "volume": 1354499
+        "volume": 1354690
       }
     ],
-    "updated_at": "2026-10-19T17:15:58.751864Z"
+    "updated_at": "2026-10-20T15:29:05.208007Z"
   },
   "CIPLA.NS": {
     "ticker": "CIPLA.NS",
@@ -725578,10 +725578,10 @@
         "high": 1339.0,
         "low": 1321.6,
         "close": 1324.1,
-        "volume": 1387203
+        "volume": 1387215
       }
     ],
-    "updated_at": "2026-10-19T17:17:24.092243Z"
+    "updated_at": "2026-10-20T15:30:15.248241Z"
   },
   "TARIL.NS": {
     "ticker": "TARIL.NS",
@@ -727572,10 +727572,10 @@
         "high": 331.9,
         "low": 320.6,
         "close": 326.1,
-        "volume": 3544350
+        "volume": 3544760
       }
     ],
-    "updated_at": "2026-10-19T17:22:34.941669Z"
+    "updated_at": "2026-10-20T15:34:27.010351Z"
   },
   "THELEELA.NS": {
     "ticker": "THELEELA.NS",
@@ -731584,10 +731584,10 @@
         "high": 349.9,
         "low": 340.0,
         "close": 340.0,
-        "volume": 3222302
+        "volume": 3222416
       }
     ],
-    "updated_at": "2026-10-19T17:16:55.597184Z"
+    "updated_at": "2026-10-20T15:29:51.460200Z"
   },
   "PAGEIND.NS": {
     "ticker": "PAGEIND.NS",
@@ -733570,10 +733570,10 @@
         "high": 36255.0,
         "low": 35550.0,
         "close": 35770.0,
-        "volume": 8743
+        "volume": 8744
       }
     ],
-    "updated_at": "2026-10-19T17:21:03.452198Z"
+    "updated_at": "2026-10-20T15:33:13.180386Z"
   },
   "NESTLEIND.NS": {
     "ticker": "NESTLEIND.NS",
@@ -735564,10 +735564,10 @@
         "high": 1264.9,
         "low": 1238.5,
         "close": 1242.7,
-        "volume": 1186969
+        "volume": 1187523
       }
     ],
-    "updated_at": "2026-10-19T17:20:44.901064Z"
+    "updated_at": "2026-10-20T15:32:58.203306Z"
   },
   "USHAMART.NS": {
     "ticker": "USHAMART.NS",
@@ -737561,7 +737561,7 @@
         "volume": 481055
       }
     ],
-    "updated_at": "2026-10-19T17:22:47.502141Z"
+    "updated_at": "2026-10-20T15:34:37.122354Z"
   },
   "LTF.NS": {
     "ticker": "LTF.NS",
@@ -739552,10 +739552,10 @@
         "high": 254.8,
         "low": 249.15,
         "close": 253.0,
-        "volume": 5031842
+        "volume": 5032735
       }
     ],
-    "updated_at": "2026-10-19T17:20:01.609194Z"
+    "updated_at": "2026-10-20T15:32:22.436616Z"
   },
   "KPIL.NS": {
     "ticker": "KPIL.NS",
@@ -741538,10 +741538,10 @@
         "high": 1382.9,
         "low": 1340.0,
         "close": 1346.7,
-        "volume": 84427
+        "volume": 84429
       }
     ],
-    "updated_at": "2026-10-19T17:19:52.926590Z"
+    "updated_at": "2026-10-20T15:32:15.187963Z"
   },
   "GVT&D.NS": {
     "ticker": "GVT&D.NS",
@@ -743532,10 +743532,10 @@
         "high": 3970.5,
         "low": 3915.0,
         "close": 3925.0,
-        "volume": 390289
+        "volume": 390489
       }
     ],
-    "updated_at": "2026-10-19T17:18:14.506366Z"
+    "updated_at": "2026-10-20T15:30:58.023916Z"
   },
   "CONCORDBIO.NS": {
     "ticker": "CONCORDBIO.NS",
@@ -745526,10 +745526,10 @@
         "high": 1350.0,
         "low": 1276.1,
         "close": 1285.8,
-        "volume": 79837
+        "volume": 79842
       }
     ],
-    "updated_at": "2026-10-19T17:17:32.767678Z"
+    "updated_at": "2026-10-20T15:30:23.304008Z"
   },
   "LALPATHLAB.NS": {
     "ticker": "LALPATHLAB.NS",
@@ -747523,7 +747523,7 @@
         "volume": 190469
       }
     ],
-    "updated_at": "2026-10-19T17:17:50.542527Z"
+    "updated_at": "2026-10-20T15:30:38.182403Z"
   },
   "TITAGARH.NS": {
     "ticker": "TITAGARH.NS",
@@ -749514,10 +749514,10 @@
         "high": 755.85,
         "low": 739.0,
         "close": 740.85,
-        "volume": 146364
+        "volume": 146388
       }
     ],
-    "updated_at": "2026-10-19T17:22:31.435625Z"
+    "updated_at": "2026-10-20T15:34:24.124295Z"
   },
   "JBCHEPHARM.NS": {
     "ticker": "JBCHEPHARM.NS",
@@ -751525,10 +751525,10 @@
         "high": 78.59,
         "low": 76.24,
         "close": 76.33,
-        "volume": 11812421
+        "volume": 11815153
       }
     ],
-    "updated_at": "2026-10-19T17:19:01.722289Z"
+    "updated_at": "2026-10-20T15:31:36.223282Z"
   },
   "CHOICEIN.NS": {
     "ticker": "CHOICEIN.NS",
@@ -751538,7 +751538,7 @@
     "ema_200": 751.31,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 0.58,
+    "volume_ratio": 0.62,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -753519,10 +753519,10 @@
         "high": 744.25,
         "low": 731.9,
         "close": 733.65,
-        "volume": 224402
+        "volume": 238330
       }
     ],
-    "updated_at": "2026-10-19T17:17:21.473198Z"
+    "updated_at": "2026-10-20T15:30:13.043571Z"
   },
   "ANANDRATHI.NS": {
     "ticker": "ANANDRATHI.NS",
@@ -755513,10 +755513,10 @@
         "high": 2172.0,
         "low": 2143.5,
         "close": 2163.9,
-        "volume": 235615
+        "volume": 235630
       }
     ],
-    "updated_at": "2026-10-19T17:16:12.299039Z"
+    "updated_at": "2026-10-20T15:29:16.084450Z"
   },
   "NYKAA.NS": {
     "ticker": "NYKAA.NS",
@@ -757507,10 +757507,10 @@
         "high": 348.4,
         "low": 335.3,
         "close": 336.65,
-        "volume": 3891754
+        "volume": 3892230
       }
     ],
-    "updated_at": "2026-10-19T17:18:05.525509Z"
+    "updated_at": "2026-10-20T15:30:50.722627Z"
   },
   "IPCALAB.NS": {
     "ticker": "IPCALAB.NS",
@@ -759496,7 +759496,7 @@
         "volume": 167626
       }
     ],
-    "updated_at": "2026-10-19T17:19:27.109482Z"
+    "updated_at": "2026-10-20T15:31:57.452492Z"
   },
   "SCI.NS": {
     "ticker": "SCI.NS",
@@ -761487,10 +761487,10 @@
         "high": 285.05,
         "low": 274.2,
         "close": 275.8,
-        "volume": 1365629
+        "volume": 1366053
       }
     ],
-    "updated_at": "2026-10-19T17:21:46.930581Z"
+    "updated_at": "2026-10-20T15:33:47.729759Z"
   },
   "MAHABANK.NS": {
     "ticker": "MAHABANK.NS",
@@ -763481,10 +763481,10 @@
         "high": 81.63,
         "low": 79.86,
         "close": 80.96,
-        "volume": 14557427
+        "volume": 14565080
       }
     ],
-    "updated_at": "2026-10-19T17:16:43.924789Z"
+    "updated_at": "2026-10-20T15:29:41.994794Z"
   },
   "PPLPHARMA.NS": {
     "ticker": "PPLPHARMA.NS",
@@ -765475,10 +765475,10 @@
         "high": 201.73,
         "low": 193.81,
         "close": 194.44,
-        "volume": 1318010
+        "volume": 1318209
       }
     ],
-    "updated_at": "2026-10-19T17:21:12.065919Z"
+    "updated_at": "2026-10-20T15:33:20.286216Z"
   },
   "STARHEALTH.NS": {
     "ticker": "STARHEALTH.NS",
@@ -767469,10 +767469,10 @@
         "high": 549.0,
         "low": 540.0,
         "close": 542.05,
-        "volume": 69196
+        "volume": 69243
       }
     ],
-    "updated_at": "2026-10-19T17:21:55.927069Z"
+    "updated_at": "2026-10-20T15:33:55.061297Z"
   },
   "ONESOURCE.NS": {
     "ticker": "ONESOURCE.NS",
@@ -769463,10 +769463,10 @@
         "high": 1413.3,
         "low": 1352.3,
         "close": 1366.6,
-        "volume": 92337
+        "volume": 92387
       }
     ],
-    "updated_at": "2026-10-19T17:20:55.449659Z"
+    "updated_at": "2026-10-20T15:33:06.789384Z"
   },
   "KIMS.NS": {
     "ticker": "KIMS.NS",
@@ -771460,7 +771460,7 @@
         "volume": 399573
       }
     ],
-    "updated_at": "2026-10-19T17:20:00.766603Z"
+    "updated_at": "2026-10-20T15:32:21.676526Z"
   },
   "MEESHO.NS": {
     "ticker": "MEESHO.NS",
@@ -773171,10 +773171,10 @@
         "high": 230.3,
         "low": 224.73,
         "close": 229.59,
-        "volume": 6963957
+        "volume": 6964195
       }
     ],
-    "updated_at": "2026-10-19T17:20:27.125627Z"
+    "updated_at": "2026-10-20T15:32:43.443555Z"
   },
   "AJANTPHARM.NS": {
     "ticker": "AJANTPHARM.NS",
@@ -775160,7 +775160,7 @@
         "volume": 36644
       }
     ],
-    "updated_at": "2026-10-19T17:16:07.026231Z"
+    "updated_at": "2026-10-20T15:29:11.840666Z"
   },
   "MANKIND.NS": {
     "ticker": "MANKIND.NS",
@@ -777151,10 +777151,10 @@
         "high": 2348.5,
         "low": 2246.0,
         "close": 2253.2,
-        "volume": 1228663
+        "volume": 1228705
       }
     ],
-    "updated_at": "2026-10-19T17:20:21.712293Z"
+    "updated_at": "2026-10-20T15:32:39.114639Z"
   },
   "GMRAIRPORT.NS": {
     "ticker": "GMRAIRPORT.NS",
@@ -779145,10 +779145,10 @@
         "high": 90.45,
         "low": 89.0,
         "close": 90.1,
-        "volume": 6632470
+        "volume": 6633009
       }
     ],
-    "updated_at": "2026-10-19T17:18:15.541602Z"
+    "updated_at": "2026-10-20T15:30:58.716031Z"
   },
   "PNBHOUSING.NS": {
     "ticker": "PNBHOUSING.NS",
@@ -781139,10 +781139,10 @@
         "high": 1174.2,
         "low": 1146.7,
         "close": 1147.9,
-        "volume": 352948
+        "volume": 352954
       }
     ],
-    "updated_at": "2026-10-19T17:21:00.834097Z"
+    "updated_at": "2026-10-20T15:33:11.011557Z"
   },
   "PIDILITIND.NS": {
     "ticker": "PIDILITIND.NS",
@@ -783133,10 +783133,10 @@
         "high": 1506.0,
         "low": 1477.1,
         "close": 1482.6,
-        "volume": 413685
+        "volume": 413687
       }
     ],
-    "updated_at": "2026-10-19T17:21:09.443600Z"
+    "updated_at": "2026-10-20T15:33:18.149396Z"
   },
   "POWERINDIA.NS": {
     "ticker": "POWERINDIA.NS",
@@ -785127,10 +785127,10 @@
         "high": 29015.0,
         "low": 28605.0,
         "close": 28730.0,
-        "volume": 49169
+        "volume": 49179
       }
     ],
-    "updated_at": "2026-10-19T17:18:51.986852Z"
+    "updated_at": "2026-10-20T15:31:28.418313Z"
   },
   "PIRAMALFIN.NS": {
     "ticker": "PIRAMALFIN.NS",
@@ -787025,10 +787025,10 @@
         "high": 1970.2,
         "low": 1939.0,
         "close": 1948.7,
-        "volume": 196163
+        "volume": 197162
       }
     ],
-    "updated_at": "2026-10-19T17:21:11.210304Z"
+    "updated_at": "2026-10-20T15:33:19.603992Z"
   },
   "SONACOMS.NS": {
     "ticker": "SONACOMS.NS",
@@ -789019,10 +789019,10 @@
         "high": 812.4,
         "low": 791.6,
         "close": 794.0,
-        "volume": 1425586
+        "volume": 1426449
       }
     ],
-    "updated_at": "2026-10-19T17:21:55.019253Z"
+    "updated_at": "2026-10-20T15:33:54.357369Z"
   },
   "DIXON.NS": {
     "ticker": "DIXON.NS",
@@ -791013,10 +791013,10 @@
         "high": 12495.0,
         "low": 12084.0,
         "close": 12100.0,
-        "volume": 310758
+        "volume": 310831
       }
     ],
-    "updated_at": "2026-10-19T17:17:49.534407Z"
+    "updated_at": "2026-10-20T15:30:37.487951Z"
   },
   "AAVAS.NS": {
     "ticker": "AAVAS.NS",
@@ -793007,10 +793007,10 @@
         "high": 1192.7,
         "low": 1165.0,
         "close": 1167.0,
-        "volume": 63163
+        "volume": 63168
       }
     ],
-    "updated_at": "2026-10-19T17:15:50.053931Z"
+    "updated_at": "2026-10-20T15:28:57.999286Z"
   },
   "MOTILALOFS.NS": {
     "ticker": "MOTILALOFS.NS",
@@ -795001,10 +795001,10 @@
         "high": 1064.95,
         "low": 1014.25,
         "close": 1021.0,
-        "volume": 957185
+        "volume": 957323
       }
     ],
-    "updated_at": "2026-10-19T17:20:29.871222Z"
+    "updated_at": "2026-10-20T15:32:45.661327Z"
   },
   "BANDHANBNK.NS": {
     "ticker": "BANDHANBNK.NS",
@@ -796995,10 +796995,10 @@
         "high": 169.4,
         "low": 163.43,
         "close": 163.8,
-        "volume": 4981072
+        "volume": 4983682
       }
     ],
-    "updated_at": "2026-10-19T17:16:41.274701Z"
+    "updated_at": "2026-10-20T15:29:39.711728Z"
   },
   "BOSCHLTD.NS": {
     "ticker": "BOSCHLTD.NS",
@@ -798989,10 +798989,10 @@
         "high": 45675.0,
         "low": 44955.0,
         "close": 45195.0,
-        "volume": 10240
+        "volume": 10241
       }
     ],
-    "updated_at": "2026-10-19T17:16:59.191345Z"
+    "updated_at": "2026-10-20T15:29:54.384240Z"
   },
   "POLYCAB.NS": {
     "ticker": "POLYCAB.NS",
@@ -800983,10 +800983,10 @@
         "high": 8238.0,
         "low": 7990.0,
         "close": 8025.0,
-        "volume": 294278
+        "volume": 294308
       }
     ],
-    "updated_at": "2026-10-19T17:21:13.858549Z"
+    "updated_at": "2026-10-20T15:33:21.678824Z"
   },
   "ELECON.NS": {
     "ticker": "ELECON.NS",
@@ -802977,10 +802977,10 @@
         "high": 480.0,
         "low": 458.55,
         "close": 460.7,
-        "volume": 552482
+        "volume": 552547
       }
     ],
-    "updated_at": "2026-10-19T17:17:56.439473Z"
+    "updated_at": "2026-10-20T15:30:43.157643Z"
   },
   "ENRIN.NS": {
     "ticker": "ENRIN.NS",
@@ -804971,10 +804971,10 @@
         "high": 2909.8,
         "low": 2832.0,
         "close": 2832.0,
-        "volume": 275956
+        "volume": 276028
       }
     ],
-    "updated_at": "2026-10-19T17:21:50.562528Z"
+    "updated_at": "2026-10-20T15:33:50.745672Z"
   },
   "SAILIFE.NS": {
     "ticker": "SAILIFE.NS",
@@ -806965,10 +806965,10 @@
         "high": 1412.6,
         "low": 1370.4,
         "close": 1395.9,
-        "volume": 290381
+        "volume": 290389
       }
     ],
-    "updated_at": "2026-10-19T17:21:40.505631Z"
+    "updated_at": "2026-10-20T15:33:42.400604Z"
   },
   "INDIGO.NS": {
     "ticker": "INDIGO.NS",
@@ -808959,10 +808959,10 @@
         "high": 4744.2,
         "low": 4663.4,
         "close": 4700.0,
-        "volume": 576254
+        "volume": 576282
       }
     ],
-    "updated_at": "2026-10-19T17:19:24.540036Z"
+    "updated_at": "2026-10-20T15:31:55.369315Z"
   },
   "TATATECH.NS": {
     "ticker": "TATATECH.NS",
@@ -810953,10 +810953,10 @@
         "high": 725.45,
         "low": 702.3,
         "close": 705.15,
-        "volume": 407295
+        "volume": 407426
       }
     ],
-    "updated_at": "2026-10-19T17:22:21.096790Z"
+    "updated_at": "2026-10-20T15:34:15.363718Z"
   },
   "REDINGTON.NS": {
     "ticker": "REDINGTON.NS",
@@ -812947,10 +812947,10 @@
         "high": 387.5,
         "low": 366.2,
         "close": 371.05,
-        "volume": 4118768
+        "volume": 4118778
       }
     ],
-    "updated_at": "2026-10-19T17:21:31.706534Z"
+    "updated_at": "2026-10-20T15:33:35.225455Z"
   },
   "JSWINFRA.NS": {
     "ticker": "JSWINFRA.NS",
@@ -814941,10 +814941,10 @@
         "high": 340.45,
         "low": 328.15,
         "close": 328.95,
-        "volume": 871098
+        "volume": 871673
       }
     ],
-    "updated_at": "2026-10-19T17:19:33.294042Z"
+    "updated_at": "2026-10-20T15:32:02.382857Z"
   },
   "CGPOWER.NS": {
     "ticker": "CGPOWER.NS",
@@ -816935,10 +816935,10 @@
         "high": 865.5,
         "low": 843.2,
         "close": 855.0,
-        "volume": 3963393
+        "volume": 3963727
       }
     ],
-    "updated_at": "2026-10-19T17:17:05.460342Z"
+    "updated_at": "2026-10-20T15:29:59.982391Z"
   },
   "YESBANK.NS": {
     "ticker": "YESBANK.NS",
@@ -818929,10 +818929,10 @@
         "high": 17.73,
         "low": 16.81,
         "close": 16.88,
-        "volume": 206537067
+        "volume": 206773668
       }
     ],
-    "updated_at": "2026-10-19T17:23:03.112773Z"
+    "updated_at": "2026-10-20T15:34:50.179078Z"
   },
   "ZENTEC.NS": {
     "ticker": "ZENTEC.NS",
@@ -820923,10 +820923,10 @@
         "high": 1668.1,
         "low": 1618.3,
         "close": 1627.4,
-        "volume": 153707
+        "volume": 153731
       }
     ],
-    "updated_at": "2026-10-19T17:23:05.678948Z"
+    "updated_at": "2026-10-20T15:34:52.401009Z"
   },
   "FINCABLES.NS": {
     "ticker": "FINCABLES.NS",
@@ -822917,10 +822917,10 @@
         "high": 1360.8,
         "low": 1268.1,
         "close": 1282.5,
-        "volume": 1225112
+        "volume": 1225139
       }
     ],
-    "updated_at": "2026-10-19T17:18:08.252987Z"
+    "updated_at": "2026-10-20T15:30:52.958216Z"
   },
   "ADANIPORTS.NS": {
     "ticker": "ADANIPORTS.NS",
@@ -824911,10 +824911,10 @@
         "high": 1784.9,
         "low": 1746.0,
         "close": 1766.0,
-        "volume": 2526316
+        "volume": 2526448
       }
     ],
-    "updated_at": "2026-10-19T17:15:56.138684Z"
+    "updated_at": "2026-10-20T15:29:03.065889Z"
   },
   "MANAPPURAM.NS": {
     "ticker": "MANAPPURAM.NS",
@@ -824924,7 +824924,7 @@
     "ema_200": 310.66,
     "above_50_ema": false,
     "above_200_ema": true,
-    "volume_ratio": 0.44,
+    "volume_ratio": 0.45,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -826905,10 +826905,10 @@
         "high": 325.95,
         "low": 316.2,
         "close": 319.55,
-        "volume": 1857336
+        "volume": 1895664
       }
     ],
-    "updated_at": "2026-10-19T17:20:19.931483Z"
+    "updated_at": "2026-10-20T15:32:37.702534Z"
   },
   "TRENT.NS": {
     "ticker": "TRENT.NS",
@@ -828899,10 +828899,10 @@
         "high": 2958.0,
         "low": 2867.0,
         "close": 2891.6,
-        "volume": 813587
+        "volume": 813750
       }
     ],
-    "updated_at": "2026-10-19T17:22:35.843822Z"
+    "updated_at": "2026-10-20T15:34:27.795736Z"
   },
   "CREDITACC.NS": {
     "ticker": "CREDITACC.NS",
@@ -830896,7 +830896,7 @@
         "volume": 76818
       }
     ],
-    "updated_at": "2026-10-19T17:17:36.300505Z"
+    "updated_at": "2026-10-20T15:30:26.127714Z"
   },
   "OBEROIRLTY.NS": {
     "ticker": "OBEROIRLTY.NS",
@@ -832887,10 +832887,10 @@
         "high": 1725.0,
         "low": 1666.8,
         "close": 1676.4,
-        "volume": 256402
+        "volume": 256418
       }
     ],
-    "updated_at": "2026-10-19T17:20:50.257829Z"
+    "updated_at": "2026-10-20T15:33:02.411989Z"
   },
   "IKS.NS": {
     "ticker": "IKS.NS",
@@ -834873,10 +834873,10 @@
         "high": 1745.8,
         "low": 1678.0,
         "close": 1685.8,
-        "volume": 68266
+        "volume": 68271
       }
     ],
-    "updated_at": "2026-10-19T17:19:26.219213Z"
+    "updated_at": "2026-10-20T15:31:56.754506Z"
   },
   "INDUSINDBK.NS": {
     "ticker": "INDUSINDBK.NS",
@@ -836867,10 +836867,10 @@
         "high": 882.6,
         "low": 859.7,
         "close": 863.2,
-        "volume": 1283729
+        "volume": 1283832
       }
     ],
-    "updated_at": "2026-10-19T17:19:19.971653Z"
+    "updated_at": "2026-10-20T15:31:51.672864Z"
   },
   "ZYDUSLIFE.NS": {
     "ticker": "ZYDUSLIFE.NS",
@@ -838861,10 +838861,10 @@
         "high": 1134.2,
         "low": 1110.3,
         "close": 1113.9,
-        "volume": 253446
+        "volume": 253448
       }
     ],
-    "updated_at": "2026-10-19T17:23:07.483903Z"
+    "updated_at": "2026-10-20T15:34:53.931141Z"
   },
   "TATACOMM.NS": {
     "ticker": "TATACOMM.NS",
@@ -840855,10 +840855,10 @@
         "high": 1725.0,
         "low": 1679.0,
         "close": 1718.5,
-        "volume": 446609
+        "volume": 446691
       }
     ],
-    "updated_at": "2026-10-19T17:22:12.751226Z"
+    "updated_at": "2026-10-20T15:34:08.715309Z"
   },
   "PRESTIGE.NS": {
     "ticker": "PRESTIGE.NS",
@@ -842849,10 +842849,10 @@
         "high": 1503.0,
         "low": 1464.0,
         "close": 1475.0,
-        "volume": 287542
+        "volume": 287546
       }
     ],
-    "updated_at": "2026-10-19T17:21:18.826851Z"
+    "updated_at": "2026-10-20T15:33:25.210881Z"
   },
   "ZEEL.NS": {
     "ticker": "ZEEL.NS",
@@ -844843,10 +844843,10 @@
         "high": 73.25,
         "low": 70.92,
         "close": 73.13,
-        "volume": 11635176
+        "volume": 11642458
       }
     ],
-    "updated_at": "2026-10-19T17:23:04.831678Z"
+    "updated_at": "2026-10-20T15:34:51.687901Z"
   },
   "ANGELONE.NS": {
     "ticker": "ANGELONE.NS",
@@ -846837,10 +846837,10 @@
         "high": 304.35,
         "low": 298.2,
         "close": 302.9,
-        "volume": 6096417
+        "volume": 6096648
       }
     ],
-    "updated_at": "2026-10-19T17:16:14.021112Z"
+    "updated_at": "2026-10-20T15:29:17.470123Z"
   },
   "TEJASNET.NS": {
     "ticker": "TEJASNET.NS",
@@ -848831,10 +848831,10 @@
         "high": 467.8,
         "low": 446.0,
         "close": 453.25,
-        "volume": 1299330
+        "volume": 1299689
       }
     ],
-    "updated_at": "2026-10-19T17:22:25.360256Z"
+    "updated_at": "2026-10-20T15:34:19.048595Z"
   },
   "ATGL.NS": {
     "ticker": "ATGL.NS",
@@ -850828,7 +850828,7 @@
         "volume": 325938
       }
     ],
-    "updated_at": "2026-10-19T17:15:57.875420Z"
+    "updated_at": "2026-10-20T15:29:04.529334Z"
   },
   "JINDALSAW.NS": {
     "ticker": "JINDALSAW.NS",
@@ -852819,10 +852819,10 @@
         "high": 299.05,
         "low": 278.7,
         "close": 295.6,
-        "volume": 3510439
+        "volume": 3510549
       }
     ],
-    "updated_at": "2026-10-19T17:19:37.722087Z"
+    "updated_at": "2026-10-20T15:32:05.925237Z"
   },
   "ADANIPOWER.NS": {
     "ticker": "ADANIPOWER.NS",
@@ -854813,10 +854813,10 @@
         "high": 197.16,
         "low": 192.63,
         "close": 194.08,
-        "volume": 8534143
+        "volume": 8537257
       }
     ],
-    "updated_at": "2026-10-19T17:15:56.982166Z"
+    "updated_at": "2026-10-20T15:29:03.811216Z"
   },
   "AIAENG.NS": {
     "ticker": "AIAENG.NS",
@@ -856802,7 +856802,7 @@
         "volume": 33135
       }
     ],
-    "updated_at": "2026-10-19T17:15:44.568394Z"
+    "updated_at": "2026-10-20T15:28:53.800999Z"
   },
   "TBOTEK.NS": {
     "ticker": "TBOTEK.NS",
@@ -858793,10 +858793,10 @@
         "high": 1640.0,
         "low": 1606.0,
         "close": 1613.6,
-        "volume": 90081
+        "volume": 90084
       }
     ],
-    "updated_at": "2026-10-19T17:22:08.331876Z"
+    "updated_at": "2026-10-20T15:34:05.041353Z"
   },
   "MEDANTA.NS": {
     "ticker": "MEDANTA.NS",
@@ -860790,7 +860790,7 @@
         "volume": 114325
       }
     ],
-    "updated_at": "2026-10-19T17:18:24.022643Z"
+    "updated_at": "2026-10-20T15:31:05.155908Z"
   },
   "PHOENIXLTD.NS": {
     "ticker": "PHOENIXLTD.NS",
@@ -862776,7 +862776,7 @@
         "volume": 423330
       }
     ],
-    "updated_at": "2026-10-19T17:21:07.738527Z"
+    "updated_at": "2026-10-20T15:33:16.753266Z"
   },
   "EXIDEIND.NS": {
     "ticker": "EXIDEIND.NS",
@@ -864767,10 +864767,10 @@
         "high": 373.0,
         "low": 358.45,
         "close": 360.15,
-        "volume": 1598958
+        "volume": 1599353
       }
     ],
-    "updated_at": "2026-10-19T17:18:04.662889Z"
+    "updated_at": "2026-10-20T15:30:49.958726Z"
   },
   "GRANULES.NS": {
     "ticker": "GRANULES.NS",
@@ -866753,10 +866753,10 @@
         "high": 836.95,
         "low": 799.3,
         "close": 806.05,
-        "volume": 873275
+        "volume": 874275
       }
     ],
-    "updated_at": "2026-10-19T17:18:29.536431Z"
+    "updated_at": "2026-10-20T15:31:09.717217Z"
   },
   "J&KBANK.NS": {
     "ticker": "J&KBANK.NS",
@@ -868747,10 +868747,10 @@
         "high": 140.27,
         "low": 134.35,
         "close": 139.35,
-        "volume": 2899631
+        "volume": 2900382
       }
     ],
-    "updated_at": "2026-10-19T17:19:36.844558Z"
+    "updated_at": "2026-10-20T15:32:05.219834Z"
   },
   "NAVINFLUOR.NS": {
     "ticker": "NAVINFLUOR.NS",
@@ -870733,10 +870733,10 @@
         "high": 8198.0,
         "low": 8111.0,
         "close": 8152.5,
-        "volume": 39468
+        "volume": 39470
       }
     ],
-    "updated_at": "2026-10-19T17:20:44.040784Z"
+    "updated_at": "2026-10-20T15:32:57.507566Z"
   },
   "CARBORUNIV.NS": {
     "ticker": "CARBORUNIV.NS",
@@ -872719,10 +872719,10 @@
         "high": 1114.2,
         "low": 1080.5,
         "close": 1089.0,
-        "volume": 207111
+        "volume": 207116
       }
     ],
-    "updated_at": "2026-10-19T17:17:12.820183Z"
+    "updated_at": "2026-10-20T15:30:05.792075Z"
   },
   "NETWEB.NS": {
     "ticker": "NETWEB.NS",
@@ -874713,10 +874713,10 @@
         "high": 4730.0,
         "low": 4588.9,
         "close": 4699.9,
-        "volume": 752806
+        "volume": 752958
       }
     ],
-    "updated_at": "2026-10-19T17:20:45.852687Z"
+    "updated_at": "2026-10-20T15:32:58.909686Z"
   },
   "SUZLON.NS": {
     "ticker": "SUZLON.NS",
@@ -876707,10 +876707,10 @@
         "high": 41.58,
         "low": 40.25,
         "close": 40.38,
-        "volume": 65155205
+        "volume": 65237716
       }
     ],
-    "updated_at": "2026-10-19T17:22:04.058256Z"
+    "updated_at": "2026-10-20T15:34:01.553330Z"
   },
   "NAM-INDIA.NS": {
     "ticker": "NAM-INDIA.NS",
@@ -878701,10 +878701,10 @@
         "high": 1068.8,
         "low": 1033.0,
         "close": 1038.4,
-        "volume": 387716
+        "volume": 387722
       }
     ],
-    "updated_at": "2026-10-19T17:20:47.641168Z"
+    "updated_at": "2026-10-20T15:33:00.306851Z"
   },
   "MOTHERSON.NS": {
     "ticker": "MOTHERSON.NS",
@@ -880695,10 +880695,10 @@
         "high": 161.22,
         "low": 157.65,
         "close": 158.15,
-        "volume": 9407196
+        "volume": 9408721
       }
     ],
-    "updated_at": "2026-10-19T17:21:42.421289Z"
+    "updated_at": "2026-10-20T15:33:43.811750Z"
   },
   "APTUS.NS": {
     "ticker": "APTUS.NS",
@@ -882689,10 +882689,10 @@
         "high": 221.85,
         "low": 212.5,
         "close": 213.25,
-        "volume": 1143311
+        "volume": 1143337
       }
     ],
-    "updated_at": "2026-10-19T17:16:19.311549Z"
+    "updated_at": "2026-10-20T15:29:21.834547Z"
   },
   "NEULANDLAB.NS": {
     "ticker": "NEULANDLAB.NS",
@@ -884683,10 +884683,10 @@
         "high": 19940.0,
         "low": 19135.0,
         "close": 19220.0,
-        "volume": 31497
+        "volume": 31501
       }
     ],
-    "updated_at": "2026-10-19T17:20:46.730528Z"
+    "updated_at": "2026-10-20T15:32:59.597794Z"
   },
   "CRAFTSMAN.NS": {
     "ticker": "CRAFTSMAN.NS",
@@ -886672,7 +886672,7 @@
         "volume": 36306
       }
     ],
-    "updated_at": "2026-10-19T17:17:35.395250Z"
+    "updated_at": "2026-10-20T15:30:25.417394Z"
   },
   "CGCL.NS": {
     "ticker": "CGCL.NS",
@@ -888663,10 +888663,10 @@
         "high": 258.8,
         "low": 242.21,
         "close": 243.69,
-        "volume": 24608896
+        "volume": 24609198
       }
     ],
-    "updated_at": "2026-10-19T17:17:11.828776Z"
+    "updated_at": "2026-10-20T15:30:05.046581Z"
   },
   "IFCI.NS": {
     "ticker": "IFCI.NS",
@@ -890657,10 +890657,10 @@
         "high": 66.8,
         "low": 64.22,
         "close": 64.85,
-        "volume": 13644855
+        "volume": 13645218
       }
     ],
-    "updated_at": "2026-10-19T17:19:02.583878Z"
+    "updated_at": "2026-10-20T15:31:36.908008Z"
   },
   "SOLARINDS.NS": {
     "ticker": "SOLARINDS.NS",
@@ -892643,10 +892643,10 @@
         "high": 20086.0,
         "low": 19700.0,
         "close": 19803.0,
-        "volume": 91520
+        "volume": 91543
       }
     ],
-    "updated_at": "2026-10-19T17:21:54.167443Z"
+    "updated_at": "2026-10-20T15:33:53.670841Z"
   },
   "OLECTRA.NS": {
     "ticker": "OLECTRA.NS",
@@ -894637,10 +894637,10 @@
         "high": 1064.8,
         "low": 1042.0,
         "close": 1044.2,
-        "volume": 137448
+        "volume": 137464
       }
     ],
-    "updated_at": "2026-10-19T17:20:53.766357Z"
+    "updated_at": "2026-10-20T15:33:05.270933Z"
   },
   "PWL.NS": {
     "ticker": "PWL.NS",
@@ -896479,10 +896479,10 @@
         "high": 136.2,
         "low": 129.1,
         "close": 130.02,
-        "volume": 3062411
+        "volume": 3063106
       }
     ],
-    "updated_at": "2026-10-19T17:21:08.582926Z"
+    "updated_at": "2026-10-20T15:33:17.445064Z"
   },
   "APARINDS.NS": {
     "ticker": "APARINDS.NS",
@@ -898473,10 +898473,10 @@
         "high": 16147.0,
         "low": 15601.0,
         "close": 15737.0,
-        "volume": 151971
+        "volume": 152027
       }
     ],
-    "updated_at": "2026-10-19T17:16:16.659040Z"
+    "updated_at": "2026-10-20T15:29:19.660399Z"
   },
   "KPRMILL.NS": {
     "ticker": "KPRMILL.NS",
@@ -898490,7 +898490,7 @@
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
-    "rs_rating": 67,
+    "rs_rating": 66,
     "rs_score": -1.14,
     "price_history": [
       {
@@ -900470,7 +900470,7 @@
         "volume": 142637
       }
     ],
-    "updated_at": "2026-10-19T17:19:44.705874Z"
+    "updated_at": "2026-10-20T15:32:11.602253Z"
   },
   "GODREJIND.NS": {
     "ticker": "GODREJIND.NS",
@@ -902461,10 +902461,10 @@
         "high": 1044.0,
         "low": 1009.7,
         "close": 1020.0,
-        "volume": 48561
+        "volume": 48562
       }
     ],
-    "updated_at": "2026-10-19T17:18:27.796648Z"
+    "updated_at": "2026-10-20T15:31:08.147135Z"
   },
   "WELSPUNLIV.NS": {
     "ticker": "WELSPUNLIV.NS",
@@ -904455,10 +904455,10 @@
         "high": 226.9,
         "low": 215.21,
         "close": 217.32,
-        "volume": 3318831
+        "volume": 3321852
       }
     ],
-    "updated_at": "2026-10-19T17:22:59.606801Z"
+    "updated_at": "2026-10-20T15:34:47.296693Z"
   },
   "MINDACORP.NS": {
     "ticker": "MINDACORP.NS",
@@ -906449,10 +906449,10 @@
         "high": 648.05,
         "low": 630.2,
         "close": 633.7,
-        "volume": 133293
+        "volume": 133294
       }
     ],
-    "updated_at": "2026-10-19T17:20:28.088583Z"
+    "updated_at": "2026-10-20T15:32:44.146795Z"
   },
   "GABRIEL.NS": {
     "ticker": "GABRIEL.NS",
@@ -908443,10 +908443,10 @@
         "high": 1557.8,
         "low": 1460.0,
         "close": 1486.1,
-        "volume": 2631040
+        "volume": 2631119
       }
     ],
-    "updated_at": "2026-10-19T17:18:16.809740Z"
+    "updated_at": "2026-10-20T15:30:59.435527Z"
   },
   "TRITURBINE.NS": {
     "ticker": "TRITURBINE.NS",
@@ -910437,10 +910437,10 @@
         "high": 495.9,
         "low": 483.0,
         "close": 484.7,
-        "volume": 316528
+        "volume": 316631
       }
     ],
-    "updated_at": "2026-10-19T17:22:37.771979Z"
+    "updated_at": "2026-10-20T15:34:29.206179Z"
   },
   "VIJAYA.NS": {
     "ticker": "VIJAYA.NS",
@@ -912426,7 +912426,7 @@
         "volume": 184487
       }
     ],
-    "updated_at": "2026-10-19T17:22:54.304568Z"
+    "updated_at": "2026-10-20T15:34:42.922085Z"
   },
   "OLAELEC.NS": {
     "ticker": "OLAELEC.NS",
@@ -914417,10 +914417,10 @@
         "high": 35.02,
         "low": 34.28,
         "close": 34.49,
-        "volume": 16359476
+        "volume": 16366468
       }
     ],
-    "updated_at": "2026-10-19T17:20:52.896319Z"
+    "updated_at": "2026-10-20T15:33:04.567643Z"
   },
   "HONAUT.NS": {
     "ticker": "HONAUT.NS",
@@ -916406,7 +916406,7 @@
         "volume": 2022
       }
     ],
-    "updated_at": "2026-10-19T17:18:54.587783Z"
+    "updated_at": "2026-10-20T15:31:30.510278Z"
   },
   "ACMESOLAR.NS": {
     "ticker": "ACMESOLAR.NS",
@@ -918397,10 +918397,10 @@
         "high": 422.0,
         "low": 402.85,
         "close": 417.75,
-        "volume": 1532860
+        "volume": 1532890
       }
     ],
-    "updated_at": "2026-10-19T17:15:43.705895Z"
+    "updated_at": "2026-10-20T15:28:53.035072Z"
   },
   "DATAPATTNS.NS": {
     "ticker": "DATAPATTNS.NS",
@@ -920394,7 +920394,7 @@
         "volume": 162574
       }
     ],
-    "updated_at": "2026-10-19T17:17:44.278031Z"
+    "updated_at": "2026-10-20T15:30:32.999503Z"
   },
   "LODHA.NS": {
     "ticker": "LODHA.NS",
@@ -922385,10 +922385,10 @@
         "high": 1067.6,
         "low": 1027.7,
         "close": 1030.0,
-        "volume": 805832
+        "volume": 805992
       }
     ],
-    "updated_at": "2026-10-19T17:20:12.810578Z"
+    "updated_at": "2026-10-20T15:32:31.871784Z"
   },
   "LAURUSLABS.NS": {
     "ticker": "LAURUSLABS.NS",
@@ -924379,10 +924379,10 @@
         "high": 2089.0,
         "low": 2052.2,
         "close": 2069.0,
-        "volume": 1132511
+        "volume": 1133053
       }
     ],
-    "updated_at": "2026-10-19T17:20:07.627327Z"
+    "updated_at": "2026-10-20T15:32:27.452192Z"
   },
   "WOCKPHARMA.NS": {
     "ticker": "WOCKPHARMA.NS",
@@ -926373,10 +926373,10 @@
         "high": 1966.0,
         "low": 1900.6,
         "close": 1906.3,
-        "volume": 360151
+        "volume": 360528
       }
     ],
-    "updated_at": "2026-10-19T17:23:02.241993Z"
+    "updated_at": "2026-10-20T15:34:49.488377Z"
   },
   "NIACL.NS": {
     "ticker": "NIACL.NS",
@@ -928367,10 +928367,10 @@
         "high": 182.33,
         "low": 173.04,
         "close": 174.01,
-        "volume": 969900
+        "volume": 969941
       }
     ],
-    "updated_at": "2026-10-19T17:22:27.906102Z"
+    "updated_at": "2026-10-20T15:34:21.208981Z"
   },
   "GLAND.NS": {
     "ticker": "GLAND.NS",
@@ -930356,7 +930356,7 @@
         "volume": 167122
       }
     ],
-    "updated_at": "2026-10-19T17:18:21.270712Z"
+    "updated_at": "2026-10-20T15:31:03.000952Z"
   },
   "THERMAX.NS": {
     "ticker": "THERMAX.NS",
@@ -932339,10 +932339,10 @@
         "high": 3345.6,
         "low": 3225.0,
         "close": 3234.9,
-        "volume": 125505
+        "volume": 125590
       }
     ],
-    "updated_at": "2026-10-19T17:22:29.736901Z"
+    "updated_at": "2026-10-20T15:34:22.701539Z"
   },
   "BHEL.NS": {
     "ticker": "BHEL.NS",
@@ -932352,7 +932352,7 @@
     "ema_200": 359.65,
     "above_50_ema": true,
     "above_200_ema": true,
-    "volume_ratio": 0.72,
+    "volume_ratio": 0.73,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -934333,10 +934333,10 @@
         "high": 436.3,
         "low": 425.55,
         "close": 427.35,
-        "volume": 8635698
+        "volume": 8639491
       }
     ],
-    "updated_at": "2026-10-19T17:16:50.868412Z"
+    "updated_at": "2026-10-20T15:29:47.753876Z"
   },
   "HSCL.NS": {
     "ticker": "HSCL.NS",
@@ -936327,10 +936327,10 @@
         "high": 664.45,
         "low": 599.3,
         "close": 605.85,
-        "volume": 5754539
+        "volume": 5755200
       }
     ],
-    "updated_at": "2026-10-19T17:18:45.293293Z"
+    "updated_at": "2026-10-20T15:31:23.299357Z"
   },
   "NUVAMA.NS": {
     "ticker": "NUVAMA.NS",
@@ -938321,10 +938321,10 @@
         "high": 1702.0,
         "low": 1673.0,
         "close": 1683.8,
-        "volume": 169098
+        "volume": 169113
       }
     ],
-    "updated_at": "2026-10-19T17:20:48.553458Z"
+    "updated_at": "2026-10-20T15:33:01.043592Z"
   },
   "ATHERENERG.NS": {
     "ticker": "ATHERENERG.NS",
@@ -940315,10 +940315,10 @@
         "high": 1501.0,
         "low": 1455.3,
         "close": 1459.0,
-        "volume": 1928728
+        "volume": 1929718
       }
     ],
-    "updated_at": "2026-10-19T17:16:24.522582Z"
+    "updated_at": "2026-10-20T15:29:26.126594Z"
   },
   "COHANCE.NS": {
     "ticker": "COHANCE.NS",
@@ -942309,10 +942309,10 @@
         "high": 468.0,
         "low": 456.0,
         "close": 457.7,
-        "volume": 354368
+        "volume": 354458
       }
     ],
-    "updated_at": "2026-10-19T17:17:30.157444Z"
+    "updated_at": "2026-10-20T15:30:21.188631Z"
   },
   "AEGISVOPAK.NS": {
     "ticker": "AEGISVOPAK.NS",
@@ -944303,10 +944303,10 @@
         "high": 275.0,
         "low": 259.85,
         "close": 266.4,
-        "volume": 989269
+        "volume": 989281
       }
     ],
-    "updated_at": "2026-10-19T17:16:03.440276Z"
+    "updated_at": "2026-10-20T15:29:08.825487Z"
   },
   "FIVESTAR.NS": {
     "ticker": "FIVESTAR.NS",
@@ -946300,7 +946300,7 @@
         "volume": 327111
       }
     ],
-    "updated_at": "2026-10-19T17:18:10.060469Z"
+    "updated_at": "2026-10-20T15:30:54.417654Z"
   },
   "RADICO.NS": {
     "ticker": "RADICO.NS",
@@ -948286,7 +948286,7 @@
         "volume": 143055
       }
     ],
-    "updated_at": "2026-10-19T17:21:27.288293Z"
+    "updated_at": "2026-10-20T15:33:31.607685Z"
   },
   "CARTRADE.NS": {
     "ticker": "CARTRADE.NS",
@@ -950277,10 +950277,10 @@
         "high": 3055.0,
         "low": 2956.2,
         "close": 3032.9,
-        "volume": 249048
+        "volume": 249070
       }
     ],
-    "updated_at": "2026-10-19T17:17:13.659361Z"
+    "updated_at": "2026-10-20T15:30:06.472062Z"
   },
   "HONASA.NS": {
     "ticker": "HONASA.NS",
@@ -952266,7 +952266,7 @@
         "volume": 926253
       }
     ],
-    "updated_at": "2026-10-19T17:18:53.740235Z"
+    "updated_at": "2026-10-20T15:31:29.814733Z"
   },
   "BLUEJET.NS": {
     "ticker": "BLUEJET.NS",
@@ -956291,10 +956291,10 @@
         "high": 1319.2,
         "low": 1291.0,
         "close": 1295.2,
-        "volume": 964700
+        "volume": 965167
       }
     ],
-    "updated_at": "2026-10-19T17:15:55.283062Z"
+    "updated_at": "2026-10-20T15:29:02.353711Z"
   },
   "ACUTAAS.NS": {
     "ticker": "ACUTAAS.NS",
@@ -958285,10 +958285,10 @@
         "high": 3354.4,
         "low": 3234.1,
         "close": 3253.4,
-        "volume": 557243
+        "volume": 557451
       }
     ],
-    "updated_at": "2026-10-19T17:15:52.700467Z"
+    "updated_at": "2026-10-20T15:29:00.224512Z"
   },
   "ADANIENSOL.NS": {
     "ticker": "ADANIENSOL.NS",
@@ -960279,10 +960279,10 @@
         "high": 1387.8,
         "low": 1364.0,
         "close": 1364.9,
-        "volume": 1303697
+        "volume": 1303809
       }
     ],
-    "updated_at": "2026-10-19T17:15:53.523120Z"
+    "updated_at": "2026-10-20T15:29:00.934710Z"
   },
   "SAREGAMA.NS": {
     "ticker": "SAREGAMA.NS",
@@ -964299,10 +964299,10 @@
         "high": 1334.6,
         "low": 1230.0,
         "close": 1255.7,
-        "volume": 1210769
+        "volume": 1210959
       }
     ],
-    "updated_at": "2026-10-19T17:17:45.159558Z"
+    "updated_at": "2026-10-20T15:30:33.765043Z"
   },
   "IDEA.NS": {
     "ticker": "IDEA.NS",
@@ -964312,7 +964312,7 @@
     "ema_200": 12.36,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 0.92,
+    "volume_ratio": 0.93,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -966293,10 +966293,10 @@
         "high": 12.69,
         "low": 12.22,
         "close": 12.28,
-        "volume": 323057675
+        "volume": 323539893
       }
     ],
-    "updated_at": "2026-10-19T17:22:56.110094Z"
+    "updated_at": "2026-10-20T15:34:44.278731Z"
   },
   "SCHNEIDER.NS": {
     "ticker": "SCHNEIDER.NS",
@@ -968290,7 +968290,7 @@
         "volume": 105906
       }
     ],
-    "updated_at": "2026-10-19T17:21:46.065002Z"
+    "updated_at": "2026-10-20T15:33:47.027391Z"
   },
   "OFSS.NS": {
     "ticker": "OFSS.NS",
@@ -970281,10 +970281,10 @@
         "high": 10386.0,
         "low": 10134.0,
         "close": 10214.0,
-        "volume": 119527
+        "volume": 119668
       }
     ],
-    "updated_at": "2026-10-19T17:20:56.375561Z"
+    "updated_at": "2026-10-20T15:33:07.500326Z"
   },
   "KIRLOSENG.NS": {
     "ticker": "KIRLOSENG.NS",
@@ -972267,10 +972267,10 @@
         "high": 2019.0,
         "low": 1962.1,
         "close": 1973.2,
-        "volume": 282589
+        "volume": 282596
       }
     ],
-    "updated_at": "2026-10-19T17:19:59.039201Z"
+    "updated_at": "2026-10-20T15:32:20.204510Z"
   },
   "ADANIENT.NS": {
     "ticker": "ADANIENT.NS",
@@ -974261,10 +974261,10 @@
         "high": 2701.7,
         "low": 2650.0,
         "close": 2657.5,
-        "volume": 854092
+        "volume": 854302
       }
     ],
-    "updated_at": "2026-10-19T17:15:54.400775Z"
+    "updated_at": "2026-10-20T15:29:01.651307Z"
   },
   "EMMVEE.NS": {
     "ticker": "EMMVEE.NS",
@@ -976103,10 +976103,10 @@
         "high": 280.65,
         "low": 266.55,
         "close": 270.1,
-        "volume": 2554373
+        "volume": 2555697
       }
     ],
-    "updated_at": "2026-10-19T17:18:00.133495Z"
+    "updated_at": "2026-10-20T15:30:45.972573Z"
   },
   "CAPLIPOINT.NS": {
     "ticker": "CAPLIPOINT.NS",
@@ -978097,10 +978097,10 @@
         "high": 2322.1,
         "low": 2255.0,
         "close": 2258.8,
-        "volume": 70393
+        "volume": 70397
       }
     ],
-    "updated_at": "2026-10-19T17:17:10.979508Z"
+    "updated_at": "2026-10-20T15:30:04.335013Z"
   },
   "RRKABEL.NS": {
     "ticker": "RRKABEL.NS",
@@ -980091,10 +980091,10 @@
         "high": 2398.9,
         "low": 2326.0,
         "close": 2387.8,
-        "volume": 436564
+        "volume": 436615
       }
     ],
-    "updated_at": "2026-10-19T17:21:22.413555Z"
+    "updated_at": "2026-10-20T15:33:28.090964Z"
   },
   "SYRMA.NS": {
     "ticker": "SYRMA.NS",
@@ -982085,10 +982085,10 @@
         "high": 1614.0,
         "low": 1540.3,
         "close": 1547.6,
-        "volume": 838768
+        "volume": 838862
       }
     ],
-    "updated_at": "2026-10-19T17:22:07.468637Z"
+    "updated_at": "2026-10-20T15:34:04.365622Z"
   },
   "WELCORP.NS": {
     "ticker": "WELCORP.NS",
@@ -984079,10 +984079,10 @@
         "high": 2620.0,
         "low": 2536.1,
         "close": 2592.9,
-        "volume": 1023502
+        "volume": 1023721
       }
     ],
-    "updated_at": "2026-10-19T17:22:58.684092Z"
+    "updated_at": "2026-10-20T15:34:46.579544Z"
   },
   "ABDL.NS": {
     "ticker": "ABDL.NS",
@@ -986073,10 +986073,10 @@
         "high": 750.65,
         "low": 733.15,
         "close": 739.95,
-        "volume": 346415
+        "volume": 346823
       }
     ],
-    "updated_at": "2026-10-19T17:16:08.731077Z"
+    "updated_at": "2026-10-20T15:29:13.211078Z"
   },
   "CPPLUS.NS": {
     "ticker": "CPPLUS.NS",
@@ -988067,10 +988067,10 @@
         "high": 4111.2,
         "low": 3980.5,
         "close": 4010.0,
-        "volume": 176224
+        "volume": 176227
       }
     ],
-    "updated_at": "2026-10-19T17:16:01.657764Z"
+    "updated_at": "2026-10-20T15:29:07.336308Z"
   },
   "AEGISLOG.NS": {
     "ticker": "AEGISLOG.NS",
@@ -990053,10 +990053,10 @@
         "high": 1370.0,
         "low": 1312.0,
         "close": 1331.8,
-        "volume": 548815
+        "volume": 548822
       }
     ],
-    "updated_at": "2026-10-19T17:16:02.524624Z"
+    "updated_at": "2026-10-20T15:29:08.136229Z"
   },
   "CEMPRO.NS": {
     "ticker": "CEMPRO.NS",
@@ -992050,7 +992050,7 @@
         "volume": 411014
       }
     ],
-    "updated_at": "2026-10-19T17:17:16.291319Z"
+    "updated_at": "2026-10-20T15:30:08.689084Z"
   },
   "HFCL.NS": {
     "ticker": "HFCL.NS",
@@ -994041,10 +994041,10 @@
         "high": 268.81,
         "low": 257.0,
         "close": 268.81,
-        "volume": 15112730
+        "volume": 15114857
       }
     ],
-    "updated_at": "2026-10-19T17:18:41.698403Z"
+    "updated_at": "2026-10-20T15:31:20.142280Z"
   },
   "^NSEI": {
     "ticker": "^NSEI",
@@ -996044,10 +996044,10 @@
         "high": 297.9,
         "low": 281.0,
         "close": 288.35,
-        "volume": 4066783
+        "volume": 4068337
       }
     ],
-    "updated_at": "2026-10-19T17:21:19.701437Z"
+    "updated_at": "2026-10-20T15:33:25.912740Z"
   },
   "HEGAM.NS": {
     "ticker": "HEGAM.NS",
@@ -998038,10 +998038,10 @@
         "high": 226.02,
         "low": 218.0,
         "close": 219.09,
-        "volume": 382195
+        "volume": 382401
       }
     ],
-    "updated_at": "2026-10-19T17:18:40.861208Z"
+    "updated_at": "2026-10-20T15:31:19.433019Z"
   },
   "AETHER.NS": {
     "ticker": "AETHER.NS",
@@ -1000032,10 +1000032,10 @@
         "high": 1542.2,
         "low": 1492.3,
         "close": 1521.4,
-        "volume": 349742
+        "volume": 349750
       }
     ],
-    "updated_at": "2026-10-19T17:16:04.347662Z"
+    "updated_at": "2026-10-20T15:29:09.557249Z"
   },
   "AVANTIFEED.NS": {
     "ticker": "AVANTIFEED.NS",
@@ -1002018,10 +1002018,10 @@
         "high": 736.8,
         "low": 712.5,
         "close": 722.95,
-        "volume": 286524
+        "volume": 287078
       }
     ],
-    "updated_at": "2026-10-19T17:16:28.046393Z"
+    "updated_at": "2026-10-20T15:29:29.041783Z"
   },
   "AZAD.NS": {
     "ticker": "AZAD.NS",
@@ -1004012,10 +1004012,10 @@
         "high": 2744.2,
         "low": 2665.3,
         "close": 2685.3,
-        "volume": 332108
+        "volume": 332566
       }
     ],
-    "updated_at": "2026-10-19T17:16:30.748731Z"
+    "updated_at": "2026-10-20T15:29:31.093842Z"
   },
   "BHARATCOAL.NS": {
     "ticker": "BHARATCOAL.NS",
@@ -1005510,10 +1005510,10 @@
         "high": 31.94,
         "low": 31.32,
         "close": 31.38,
-        "volume": 1801403
+        "volume": 1802537
       }
     ],
-    "updated_at": "2026-10-19T17:16:47.390332Z"
+    "updated_at": "2026-10-20T15:29:44.909815Z"
   },
   "BBOX.NS": {
     "ticker": "BBOX.NS",
@@ -1007504,25 +1007504,25 @@
         "high": 927.6,
         "low": 886.25,
         "close": 894.45,
-        "volume": 632892
+        "volume": 632927
       }
     ],
-    "updated_at": "2026-10-19T17:16:57.459975Z"
+    "updated_at": "2026-10-20T15:29:52.988350Z"
   },
   "BIRET.NS": {
     "ticker": "BIRET.NS",
-    "current_price": 319.98,
+    "current_price": 318.2,
     "fifty_two_week_high": 369.0,
-    "ema_50": 333.98,
-    "ema_200": 335.79,
+    "ema_50": 333.36,
+    "ema_200": 335.62,
     "above_50_ema": false,
     "above_200_ema": false,
-    "volume_ratio": 0.67,
+    "volume_ratio": 0.62,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
     "rs_rating": 56,
-    "rs_score": -2.46,
+    "rs_score": -2.67,
     "price_history": [
       {
         "date": "2025-10-20",
@@ -1009491,9 +1009491,17 @@
         "low": 319.81,
         "close": 319.98,
         "volume": 443382
+      },
+      {
+        "date": "2026-10-19",
+        "open": 319.31,
+        "high": 321.39,
+        "low": 317.99,
+        "close": 318.2,
+        "volume": 398416
       }
     ],
-    "updated_at": "2026-10-19T17:17:02.713837Z"
+    "updated_at": "2026-10-20T15:29:57.821563Z"
   },
   "CMPDI.NS": {
     "ticker": "CMPDI.NS",
@@ -1010612,10 +1010620,10 @@
         "high": 205.58,
         "low": 196.0,
         "close": 196.82,
-        "volume": 587415
+        "volume": 589004
       }
     ],
-    "updated_at": "2026-10-19T17:17:18.816550Z"
+    "updated_at": "2026-10-20T15:30:10.829369Z"
   },
   "CLEANMAX.NS": {
     "ticker": "CLEANMAX.NS",
@@ -1011878,10 +1011886,10 @@
         "high": 1289.6,
         "low": 1221.5,
         "close": 1235.8,
-        "volume": 164427
+        "volume": 164541
       }
     ],
-    "updated_at": "2026-10-19T17:17:25.841489Z"
+    "updated_at": "2026-10-20T15:30:16.620815Z"
   },
   "CUPID.NS": {
     "ticker": "CUPID.NS",
@@ -1011891,7 +1011899,7 @@
     "ema_200": 183.45,
     "above_50_ema": true,
     "above_200_ema": true,
-    "volume_ratio": 0.78,
+    "volume_ratio": 0.79,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
@@ -1013872,25 +1013880,25 @@
         "high": 358.0,
         "low": 333.7,
         "close": 336.3,
-        "volume": 22415271
+        "volume": 22680452
       }
     ],
-    "updated_at": "2026-10-19T17:17:38.963445Z"
+    "updated_at": "2026-10-20T15:30:28.473777Z"
   },
   "EMBASSY.NS": {
     "ticker": "EMBASSY.NS",
-    "current_price": 435.4,
+    "current_price": 435.93,
     "fifty_two_week_high": 460.99,
-    "ema_50": 436.42,
-    "ema_200": 434.65,
+    "ema_50": 436.4,
+    "ema_200": 434.67,
     "above_50_ema": false,
     "above_200_ema": true,
-    "volume_ratio": 0.17,
+    "volume_ratio": 0.39,
     "market_cap_crores": 0,
     "shares_outstanding": 0,
     "yahoo_roe": 0.0,
-    "rs_rating": 66,
-    "rs_score": -1.24,
+    "rs_rating": 68,
+    "rs_score": -0.87,
     "price_history": [
       {
         "date": "2025-10-20",
@@ -1015859,9 +1015867,17 @@
         "low": 433.53,
         "close": 435.4,
         "volume": 182834
+      },
+      {
+        "date": "2026-10-19",
+        "open": 435.9,
+        "high": 437.0,
+        "low": 432.01,
+        "close": 435.93,
+        "volume": 328743
       }
     ],
-    "updated_at": "2026-10-19T17:17:54.654189Z"
+    "updated_at": "2026-10-20T15:30:41.679686Z"
   },
   "FRACTAL.NS": {
     "ticker": "FRACTAL.NS",
@@ -1017204,10 +1017220,10 @@
         "high": 736.45,
         "low": 709.5,
         "close": 713.45,
-        "volume": 225054
+        "volume": 225125
       }
     ],
-    "updated_at": "2026-10-19T17:18:12.604822Z"
+    "updated_at": "2026-10-20T15:30:56.589331Z"
   },
   "INOXINDIA.NS": {
     "ticker": "INOXINDIA.NS",
@@ -1019190,10 +1019206,10 @@
         "high": 2056.3,
         "low": 1980.3,
         "close": 1999.4,
-        "volume": 122027
+        "volume": 122029
       }
     ],
-    "updated_at": "2026-10-19T17:19:04.281141Z"
+    "updated_at": "2026-10-20T15:31:38.769712Z"
   },
   "KSB.NS": {
     "ticker": "KSB.NS",
@@ -1021187,7 +1021203,7 @@
         "volume": 123727
       }
     ],
-    "updated_at": "2026-10-19T17:19:47.435452Z"
+    "updated_at": "2026-10-20T15:32:13.766854Z"
   },
   "KIRLOSBROS.NS": {
     "ticker": "KIRLOSBROS.NS",
@@ -1023181,7 +1023197,7 @@
         "volume": 42937
       }
     ],
-    "updated_at": "2026-10-19T17:19:58.120114Z"
+    "updated_at": "2026-10-20T15:32:19.479919Z"
   },
   "MTARTECH.NS": {
     "ticker": "MTARTECH.NS",
@@ -1025172,10 +1025188,10 @@
         "high": 7224.0,
         "low": 6801.5,
         "close": 7178.0,
-        "volume": 208172
+        "volume": 208287
       }
     ],
-    "updated_at": "2026-10-19T17:20:16.348358Z"
+    "updated_at": "2026-10-20T15:32:34.823977Z"
   },
   "PRIVISCL.NS": {
     "ticker": "PRIVISCL.NS",
@@ -1027161,7 +1027177,7 @@
         "volume": 54122
       }
     ],
-    "updated_at": "2026-10-19T17:21:20.627617Z"
+    "updated_at": "2026-10-20T15:33:26.638118Z"
   },
   "RUBICON.NS": {
     "ticker": "RUBICON.NS",
@@ -1029144,10 +1029160,10 @@
         "high": 1514.8,
         "low": 1465.5,
         "close": 1486.7,
-        "volume": 109582
+        "volume": 109636
       }
     ],
-    "updated_at": "2026-10-19T17:21:34.345555Z"
+    "updated_at": "2026-10-20T15:33:37.344212Z"
   },
   "SHRIPISTON.NS": {
     "ticker": "SHRIPISTON.NS",
@@ -1031138,10 +1031154,10 @@
         "high": 4735.0,
         "low": 4581.6,
         "close": 4621.0,
-        "volume": 108804
+        "volume": 108810
       }
     ],
-    "updated_at": "2026-10-19T17:21:37.899182Z"
+    "updated_at": "2026-10-20T15:33:40.259069Z"
   },
   "SANSERA.NS": {
     "ticker": "SANSERA.NS",
@@ -1033132,10 +1033148,10 @@
         "high": 4227.3,
         "low": 4102.0,
         "close": 4150.3,
-        "volume": 125920
+        "volume": 125922
       }
     ],
-    "updated_at": "2026-10-19T17:21:43.383610Z"
+    "updated_at": "2026-10-20T15:33:44.548317Z"
   },
   "STLTECH.NS": {
     "ticker": "STLTECH.NS",
@@ -1035126,10 +1035142,10 @@
         "high": 908.8,
         "low": 840.9,
         "close": 887.25,
-        "volume": 2359314
+        "volume": 2359894
       }
     ],
-    "updated_at": "2026-10-19T17:21:58.599693Z"
+    "updated_at": "2026-10-20T15:33:57.234882Z"
   },
   "TDPOWERSYS.NS": {
     "ticker": "TDPOWERSYS.NS",
@@ -1037120,10 +1037136,10 @@
         "high": 744.15,
         "low": 722.35,
         "close": 737.0,
-        "volume": 1734664
+        "volume": 1734801
       }
     ],
-    "updated_at": "2026-10-19T17:22:09.314718Z"
+    "updated_at": "2026-10-20T15:34:05.726782Z"
   },
   "THANGAMAYL.NS": {
     "ticker": "THANGAMAYL.NS",
@@ -1039117,7 +1039133,7 @@
         "volume": 44639
       }
     ],
-    "updated_at": "2026-10-19T17:22:27.051469Z"
+    "updated_at": "2026-10-20T15:34:20.503596Z"
   },
   "VAML.NS": {
     "ticker": "VAML.NS",
@@ -1039836,10 +1039852,10 @@
         "high": 376.9,
         "low": 362.3,
         "close": 371.45,
-        "volume": 4388379
+        "volume": 4389105
       }
     ],
-    "updated_at": "2026-10-19T17:22:50.058752Z"
+    "updated_at": "2026-10-20T15:34:39.219000Z"
   },
   "VISL.NS": {
     "ticker": "VISL.NS",
@@ -1040558,10 +1040574,10 @@
         "high": 29.52,
         "low": 28.85,
         "close": 28.92,
-        "volume": 6880553
+        "volume": 6884103
       }
     ],
-    "updated_at": "2026-10-19T17:22:50.871855Z"
+    "updated_at": "2026-10-20T15:34:39.894353Z"
   },
   "VOGL.NS": {
     "ticker": "VOGL.NS",
@@ -1041280,10 +1041296,10 @@
         "high": 31.2,
         "low": 30.45,
         "close": 30.51,
-        "volume": 7586556
+        "volume": 7592852
       }
     ],
-    "updated_at": "2026-10-19T17:22:52.578092Z"
+    "updated_at": "2026-10-20T15:34:41.517388Z"
   },
   "VEDPOWER.NS": {
     "ticker": "VEDPOWER.NS",
@@ -1042002,9 +1042018,9 @@
         "high": 32.54,
         "low": 31.6,
         "close": 32.0,
-        "volume": 8278289
+        "volume": 8281374
       }
     ],
-    "updated_at": "2026-10-19T17:22:53.426993Z"
+    "updated_at": "2026-10-20T15:34:42.186271Z"
   }
 }
