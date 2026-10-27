@@ -1768,6 +1768,14 @@
     "isin": "INE090A01021"
   },
   {
+    "symbol": "ICICILIFE",
+    "ticker": "ICICILIFE.NS",
+    "company_name": "ICICI Life Insurance Ltd.",
+    "industry": "Financial Services",
+    "series": "EQ",
+    "isin": "INE726G01019"
+  },
+  {
     "symbol": "ICICIGI",
     "ticker": "ICICIGI.NS",
     "company_name": "ICICI Lombard General Insurance Company Ltd.",
@@ -1782,14 +1790,6 @@
     "industry": "Financial Services",
     "series": "EQ",
     "isin": "INE346A01027"
-  },
-  {
-    "symbol": "ICICIPRULI",
-    "ticker": "ICICIPRULI.NS",
-    "company_name": "ICICI Prudential Life Insurance Company Ltd.",
-    "industry": "Financial Services",
-    "series": "EQ",
-    "isin": "INE726G01019"
   },
   {
     "symbol": "IDBI",
