@@ -1,10 +1,10 @@
 {
   "status": "Uptrend Under Pressure",
-  "distribution_days": 5,
-  "score": 6,
-  "detail": "Nifty is in an uptrend, but facing pressure with 5 distribution days. Exercise caution on new purchases.",
-  "nifty_price": 25030.35,
-  "nifty_50_ema": 23345.98,
-  "nifty_200_ema": 24100.55,
-  "generated_at": "2026-11-09T21:11:24.127445Z"
+  "distribution_days": 4,
+  "score": 5,
+  "detail": "The 50-day EMA is below the 200-day EMA, showing long-term trend weakness.",
+  "nifty_price": 25044.65,
+  "nifty_50_ema": 23412.6,
+  "nifty_200_ema": 24109.94,
+  "generated_at": "2026-11-10T18:21:52.231959Z"
 }
