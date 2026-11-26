@@ -5858,11 +5858,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 354314.0,
-      "current_price": 367.0,
+      "market_cap": 355513.0,
+      "current_price": 368.0,
       "roe": 7.25
     },
-    "_scraped_at": "2026-11-19T19:23:15.430928Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "GRASIM": {
     "quarters": {
@@ -6446,11 +6446,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 117198.0,
-      "current_price": 1401.0,
+      "market_cap": 116578.0,
+      "current_price": 1392.0,
       "roe": 10.2
     },
-    "_scraped_at": "2026-11-19T19:23:15.430928Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "BAJFINANCE": {
     "quarters": {
@@ -14938,11 +14938,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 221532.0,
-      "current_price": 8058.0,
+      "market_cap": 224728.0,
+      "current_price": 8180.0,
       "roe": 25.2
     },
-    "_scraped_at": "2026-11-19T19:23:15.430928Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "GAIL": {
     "quarters": {
@@ -15246,11 +15246,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 126038.0,
-      "current_price": 191.0,
+      "market_cap": 123678.0,
+      "current_price": 188.0,
       "roe": 9.63
     },
-    "_scraped_at": "2026-11-20T19:02:47.572748Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "GODREJCP": {
     "quarters": {
@@ -15834,11 +15834,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 115161.0,
-      "current_price": 2689.0,
+      "market_cap": 116466.0,
+      "current_price": 2725.0,
       "roe": 32.9
     },
-    "_scraped_at": "2026-11-19T19:23:15.430928Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "HDFCBANK": {
     "quarters": {
@@ -16068,11 +16068,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 1261547.0,
-      "current_price": 816.0,
+      "market_cap": 1333863.0,
+      "current_price": 862.0,
       "roe": 14.0
     },
-    "_scraped_at": "2026-11-16T20:51:06.928742Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "HDFCLIFE": {
     "quarters": {
@@ -16978,11 +16978,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 316725.0,
-      "current_price": 4727.0,
+      "market_cap": 328741.0,
+      "current_price": 4910.0,
       "roe": 24.0
     },
-    "_scraped_at": "2026-11-17T19:35:01.809544Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "HINDUNILVR": {
     "quarters": {
@@ -17850,11 +17850,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 172834.0,
-      "current_price": 2121.0,
+      "market_cap": 170410.0,
+      "current_price": 2104.0,
       "roe": 30.3
     },
-    "_scraped_at": "2026-11-05T18:29:12.155443Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "ITC": {
     "quarters": {
@@ -20117,11 +20117,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 515596.0,
-      "current_price": 516.0,
+      "market_cap": 507843.0,
+      "current_price": 510.0,
       "roe": 11.7
     },
-    "_scraped_at": "2026-11-20T19:02:47.572748Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "LTM": {
     "quarters": {
@@ -22171,11 +22171,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 156386.0,
-      "current_price": 1535.0,
+      "market_cap": 162952.0,
+      "current_price": 1605.0,
       "roe": 23.5
     },
-    "_scraped_at": "2026-11-17T19:35:01.809544Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "PFC": {
     "quarters": {
@@ -24031,11 +24031,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 235996.0,
-      "current_price": 1004.0,
+      "market_cap": 226092.0,
+      "current_price": 962.0,
       "roe": 16.4
     },
-    "_scraped_at": "2026-11-12T18:45:02.517557Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "ENRIN": {
     "quarters": {
@@ -26022,11 +26022,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 108546.0,
-      "current_price": 340.0,
+      "market_cap": 103433.0,
+      "current_price": 324.0,
       "roe": 6.09
     },
-    "_scraped_at": "2026-11-20T19:02:47.572748Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "TATASTEEL": {
     "quarters": {
@@ -28720,11 +28720,11 @@
       ]
     },
     "ratios": {
-      "market_cap": 99648.0,
-      "current_price": 255.0,
+      "market_cap": 92987.0,
+      "current_price": 238.0,
       "roe": 17.3
     },
-    "_scraped_at": "2026-11-17T19:35:01.809544Z"
+    "_scraped_at": "2026-11-26T20:01:50.334234Z"
   },
   "ZYDUSLIFE": {
     "quarters": {

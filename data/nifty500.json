@@ -1184,14 +1184,6 @@
     "isin": "INE089A01031"
   },
   {
-    "symbol": "DUMMYHEG",
-    "ticker": "DUMMYHEG.NS",
-    "company_name": "Dummy HEG Ltd.",
-    "industry": "Capital Goods",
-    "series": "EQ",
-    "isin": "DUM545A01024"
-  },
-  {
     "symbol": "EIDPARRY",
     "ticker": "EIDPARRY.NS",
     "company_name": "E.I.D. Parry (India) Ltd.",
@@ -1622,6 +1614,14 @@
     "industry": "Capital Goods",
     "series": "EQ",
     "isin": "INE545A01024"
+  },
+  {
+    "symbol": "HEGRAPHITE",
+    "ticker": "HEGRAPHITE.NS",
+    "company_name": "HEG Ltd.",
+    "industry": "Capital Goods",
+    "series": "BE",
+    "isin": "INE0Y9J01020"
   },
   {
     "symbol": "HFCL",
