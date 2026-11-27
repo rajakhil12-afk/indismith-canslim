@@ -3,8 +3,8 @@
   "distribution_days": 3,
   "score": 5,
   "detail": "The 50-day EMA is below the 200-day EMA, showing long-term trend weakness.",
-  "nifty_price": 25819.25,
-  "nifty_50_ema": 24077.01,
-  "nifty_200_ema": 24221.98,
-  "generated_at": "2026-11-26T19:55:11.347691Z"
+  "nifty_price": 25884.5,
+  "nifty_50_ema": 24147.89,
+  "nifty_200_ema": 24236.78,
+  "generated_at": "2026-11-27T19:43:44.765262Z"
 }
